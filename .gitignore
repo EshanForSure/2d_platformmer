@@ -105,3 +105,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Local-only: raw game exports and backups of removed assets (multi-GB, third-party)
+/_RemovedAssets/
+/Export_Raw_Scripts/
+/Assets/Export/
+/Assets/Export.meta
