@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 649fe7440fdd5649a4a30d1ee1ec39fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4209558432715207853
+    second: TPO_WPN03_groundedCombo03FKF_armor00_0
+  - first:
+      213: 6491663414914867794
+    second: TPO_WPN03_groundedCombo03FKF_armor00_1
+  - first:
+      213: 998283415858917891
+    second: TPO_WPN03_groundedCombo03FKF_armor00_2
+  - first:
+      213: 127753655112921894
+    second: TPO_WPN03_groundedCombo03FKF_armor00_3
+  - first:
+      213: 1407198831015356266
+    second: TPO_WPN03_groundedCombo03FKF_armor00_4
+  - first:
+      213: 794568680574622439
+    second: TPO_WPN03_groundedCombo03FKF_armor00_5
+  - first:
+      213: 69802605988243792
+    second: TPO_WPN03_groundedCombo03FKF_armor00_6
+  - first:
+      213: 4379699810895261819
+    second: TPO_WPN03_groundedCombo03FKF_armor00_7
+  - first:
+      213: 923241005014395437
+    second: TPO_WPN03_groundedCombo03FKF_armor00_8
+  - first:
+      213: 3159633667335135962
+    second: TPO_WPN03_groundedCombo03FKF_armor00_9
+  - first:
+      213: 8058435918559184772
+    second: TPO_WPN03_groundedCombo03FKF_armor00_10
+  - first:
+      213: 3747865561347397228
+    second: TPO_WPN03_groundedCombo03FKF_armor00_11
+  - first:
+      213: 4471135179032930224
+    second: TPO_WPN03_groundedCombo03FKF_armor00_12
+  - first:
+      213: 7047265101966217218
+    second: TPO_WPN03_groundedCombo03FKF_armor00_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.26190478, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f648371f344518a725bf79004cfc73
+      internalID: 4209558432715207853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 132
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0.15789473, y: -0.013506493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb2f385e023469091bfa6dd73a1180d
+      internalID: 6491663414914867794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.1904762, y: -0.0672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443c111d2fb1442ab13d859e70f1406a
+      internalID: 998283415858917891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 132
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.05, y: -0.09142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e8ba12c816465ca4259bd93252d386
+      internalID: 127753655112921894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 131
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.08888889, y: -0.09014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dfe3ebcc154650ba69f1ac949dae56
+      internalID: 1407198831015356266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 57
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd886399b94c4ac18159d0834de9be0c
+      internalID: 794568680574622439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.18333334, y: -0.00065573707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fba5b22401c4bc3a5a28b26829b5481
+      internalID: 69802605988243792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.18333334, y: -0.00065573707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f09acc1cb14c378e693b519cc0a6ae
+      internalID: 4379699810895261819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.18333334, y: -0.000714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd391fc3b446abb6fea8ee6b383a41
+      internalID: 923241005014395437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.18965517, y: -0.0006896545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c1e00ab1e644ec8460082fc2a23eaa
+      internalID: 3159633667335135962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.2857143, y: -0.0007017537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed250ed42a841d1b3ce411609590440
+      internalID: 8058435918559184772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.40384614, y: -0.0007017537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8e8e8ae774ede9bfcfe93965bdd24
+      internalID: 3747865561347397228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 57
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0.45, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94994a595370423bbce3b3fb2cf6fd6e
+      internalID: 4471135179032930224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_groundedCombo03FKF_armor00_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 132
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6486486, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb025f97ca244fa94b4b0651e135898
+      internalID: 7047265101966217218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TPO_WPN03_groundedCombo03FKF_armor00_0: 4209558432715207853
+      TPO_WPN03_groundedCombo03FKF_armor00_1: 6491663414914867794
+      TPO_WPN03_groundedCombo03FKF_armor00_2: 998283415858917891
+      TPO_WPN03_groundedCombo03FKF_armor00_3: 127753655112921894
+      TPO_WPN03_groundedCombo03FKF_armor00_4: 1407198831015356266
+      TPO_WPN03_groundedCombo03FKF_armor00_5: 794568680574622439
+      TPO_WPN03_groundedCombo03FKF_armor00_6: 69802605988243792
+      TPO_WPN03_groundedCombo03FKF_armor00_7: 4379699810895261819
+      TPO_WPN03_groundedCombo03FKF_armor00_8: 923241005014395437
+      TPO_WPN03_groundedCombo03FKF_armor00_9: 3159633667335135962
+      TPO_WPN03_groundedCombo03FKF_armor00_10: 8058435918559184772
+      TPO_WPN03_groundedCombo03FKF_armor00_11: 3747865561347397228
+      TPO_WPN03_groundedCombo03FKF_armor00_12: 4471135179032930224
+      TPO_WPN03_groundedCombo03FKF_armor00_13: 7047265101966217218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

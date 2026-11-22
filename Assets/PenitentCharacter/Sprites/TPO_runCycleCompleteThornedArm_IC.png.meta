@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 743f0a29125e50fe924e5090f0b004ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3536847400254042958
+    second: TPO_runCycleCompleteThornedArm_0
+  - first:
+      213: 4561552698260804714
+    second: TPO_runCycleCompleteThornedArm_1
+  - first:
+      213: 5791148357322849350
+    second: TPO_runCycleCompleteThornedArm_2
+  - first:
+      213: 4091006969040812609
+    second: TPO_runCycleCompleteThornedArm_3
+  - first:
+      213: 8127396160763233653
+    second: TPO_runCycleCompleteThornedArm_4
+  - first:
+      213: 1158129511608791322
+    second: TPO_runCycleCompleteThornedArm_5
+  - first:
+      213: 4607722514834077367
+    second: TPO_runCycleCompleteThornedArm_6
+  - first:
+      213: 78982591658562295
+    second: TPO_runCycleCompleteThornedArm_7
+  - first:
+      213: 8329024833304482110
+    second: TPO_runCycleCompleteThornedArm_8
+  - first:
+      213: 4985686637149354750
+    second: TPO_runCycleCompleteThornedArm_9
+  - first:
+      213: 7718292551460562101
+    second: TPO_runCycleCompleteThornedArm_10
+  - first:
+      213: 7653315825041134353
+    second: TPO_runCycleCompleteThornedArm_11
+  - first:
+      213: 3734357622354358313
+    second: TPO_runCycleCompleteThornedArm_12
+  - first:
+      213: 5122608460233351631
+    second: TPO_runCycleCompleteThornedArm_13
+  - first:
+      213: 3575498061870781744
+    second: TPO_runCycleCompleteThornedArm_14
+  - first:
+      213: 2821348529372303600
+    second: TPO_runCycleCompleteThornedArm_15
+  - first:
+      213: 3838925314641386945
+    second: TPO_runCycleCompleteThornedArm_16
+  - first:
+      213: 2717506940149481313
+    second: TPO_runCycleCompleteThornedArm_17
+  - first:
+      213: 842108571869087713
+    second: TPO_runCycleCompleteThornedArm_18
+  - first:
+      213: 4734700148461527584
+    second: TPO_runCycleCompleteThornedArm_19
+  - first:
+      213: 6295647451750205471
+    second: TPO_runCycleCompleteThornedArm_20
+  - first:
+      213: 7508976431072829807
+    second: TPO_runCycleCompleteThornedArm_21
+  - first:
+      213: 2585162263689224953
+    second: TPO_runCycleCompleteThornedArm_22
+  - first:
+      213: 4980029321112582451
+    second: TPO_runCycleCompleteThornedArm_23
+  - first:
+      213: 787909144529036481
+    second: TPO_runCycleCompleteThornedArm_24
+  - first:
+      213: 6722432209806247071
+    second: TPO_runCycleCompleteThornedArm_25
+  - first:
+      213: 2889071451136715196
+    second: TPO_runCycleCompleteThornedArm_26
+  - first:
+      213: 5300970113598602939
+    second: TPO_runCycleCompleteThornedArm_27
+  - first:
+      213: 7457503536096431230
+    second: TPO_runCycleCompleteThornedArm_28
+  - first:
+      213: 5512560327904831397
+    second: TPO_runCycleCompleteThornedArm_29
+  - first:
+      213: 7245604336668049433
+    second: TPO_runCycleCompleteThornedArm_30
+  - first:
+      213: 3646259819450904366
+    second: TPO_runCycleCompleteThornedArm_31
+  - first:
+      213: 6980138912640914159
+    second: TPO_runCycleCompleteThornedArm_32
+  - first:
+      213: 3324592006601860213
+    second: TPO_runCycleCompleteThornedArm_33
+  - first:
+      213: 5404702572494498082
+    second: TPO_runCycleCompleteThornedArm_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 284
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6388889, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32512ba46b424495a31da6a713a0798b
+      internalID: 3536847400254042958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 432
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5714286, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad1108aaf04ffbab6b0d6dcef732d7
+      internalID: 4561552698260804714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 360
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5405405, y: -0.00055555505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93aeac3712649c8a196a538ce7a6b3b
+      internalID: 5791148357322849350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 205
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.4871795, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd049a0e88e248ca9f6da500dd55a447
+      internalID: 4091006969040812609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 69
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.45454547, y: -0.0006249994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b65355c6f3493c9dec5eaa3bae34a5
+      internalID: 8127396160763233653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.41666666, y: -0.00063492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04987ccc4e5941e88a4ecf8d8d604739
+      internalID: 1158129511608791322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.42, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600dde8109ea4bcba149f4ef0f450648
+      internalID: 4607722514834077367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.42553192, y: -0.046060607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d302aa535488da83c00b5ec5f9355
+      internalID: 78982591658562295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 280
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.46153846, y: -0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a31201999a540fc80219b8603e3119d
+      internalID: 8329024833304482110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.44, y: -0.0005797096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b29f0bc71d4f21becf891f0e1e0b0d
+      internalID: 4985686637149354750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.42, y: -0.0005797096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebf82b380fd4658981ae1a55cfcd9ba
+      internalID: 7718292551460562101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.4074074, y: -0.0005797096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a71dd19326c4a07b4b47d53a2bfbca9
+      internalID: 7653315825041134353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.4074074, y: -0.0005797096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529668e2bcab44cfb26b82fcd6a2b1b0
+      internalID: 3734357622354358313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 350
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.40384614, y: -0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f8d7c0dedf4e97aba955b4d5b51037
+      internalID: 5122608460233351631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 69
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.3962264, y: -0.014857142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a6df645c1446591bb839b5d9d247a
+      internalID: 3575498061870781744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.42105263, y: -0.059411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6813fd5f334b48a8aeb2632ab5701e
+      internalID: 2821348529372303600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.43103448, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e22fd6f5654f81a87d0a1ade3b9bb3
+      internalID: 3838925314641386945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.45, y: -0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2806a5f2b9f47ceb36663a78fab8f53
+      internalID: 2717506940149481313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.4107143, y: -0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae71892aef143f6a8e96c0cb4ec9c5c
+      internalID: 842108571869087713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.4181818, y: -0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517e7b6ab2a402ba04fb9117e5f51cd
+      internalID: 4734700148461527584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.4074074, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d332c4a521493b886b640d2daa26fe
+      internalID: 6295647451750205471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.40384614, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda750ac4bde4e599a78fd4f5dcbc4c5
+      internalID: 7508976431072829807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.40384614, y: -0.014857142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d777d243994f97a1aa9def3fd749ca
+      internalID: 2585162263689224953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.41509435, y: -0.044705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31808d5b4235454bb2acfb494a5edef6
+      internalID: 4980029321112582451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 139
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.4528302, y: -0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2151f479b684c929d4b148e8575f87a
+      internalID: 787909144529036481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.46666667, y: -0.0005970144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd52ad5baead4148840dd6e306897206
+      internalID: 6722432209806247071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0.33333334, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ae178af7441ad911c39d05effaeb4
+      internalID: 2889071451136715196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 69
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.2826087, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccaa36e051c48cd9a2cfbd88f403eac
+      internalID: 5300970113598602939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 69
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.29545453, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096df905b314e3fa92127628e89dc03
+      internalID: 7457503536096431230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 69
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.33333334, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e851103a51473a91dce99f633c6c62
+      internalID: 5512560327904831397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 134
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.36585367, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e54c6db20544009bb1a1e5627cc1014
+      internalID: 7245604336668049433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 134
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.41025642, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27359ffd045046ee91b7c4fda16eab02
+      internalID: 3646259819450904366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 210
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0.45945945, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04accbaf55184c3993afe9a329322a60
+      internalID: 6980138912640914159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5151515, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c9f9b23c9145b0868aa619aebf4f7f
+      internalID: 3324592006601860213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteThornedArm_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 134
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6486486, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb3d71b6e7c4cfaa97d01aba26ad8aa
+      internalID: 5404702572494498082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TPO_runCycleCompleteThornedArm_0: 3536847400254042958
+      TPO_runCycleCompleteThornedArm_1: 4561552698260804714
+      TPO_runCycleCompleteThornedArm_2: 5791148357322849350
+      TPO_runCycleCompleteThornedArm_3: 4091006969040812609
+      TPO_runCycleCompleteThornedArm_4: 8127396160763233653
+      TPO_runCycleCompleteThornedArm_5: 1158129511608791322
+      TPO_runCycleCompleteThornedArm_6: 4607722514834077367
+      TPO_runCycleCompleteThornedArm_7: 78982591658562295
+      TPO_runCycleCompleteThornedArm_8: 8329024833304482110
+      TPO_runCycleCompleteThornedArm_9: 4985686637149354750
+      TPO_runCycleCompleteThornedArm_10: 7718292551460562101
+      TPO_runCycleCompleteThornedArm_11: 7653315825041134353
+      TPO_runCycleCompleteThornedArm_12: 3734357622354358313
+      TPO_runCycleCompleteThornedArm_13: 5122608460233351631
+      TPO_runCycleCompleteThornedArm_14: 3575498061870781744
+      TPO_runCycleCompleteThornedArm_15: 2821348529372303600
+      TPO_runCycleCompleteThornedArm_16: 3838925314641386945
+      TPO_runCycleCompleteThornedArm_17: 2717506940149481313
+      TPO_runCycleCompleteThornedArm_18: 842108571869087713
+      TPO_runCycleCompleteThornedArm_19: 4734700148461527584
+      TPO_runCycleCompleteThornedArm_20: 6295647451750205471
+      TPO_runCycleCompleteThornedArm_21: 7508976431072829807
+      TPO_runCycleCompleteThornedArm_22: 2585162263689224953
+      TPO_runCycleCompleteThornedArm_23: 4980029321112582451
+      TPO_runCycleCompleteThornedArm_24: 787909144529036481
+      TPO_runCycleCompleteThornedArm_25: 6722432209806247071
+      TPO_runCycleCompleteThornedArm_26: 2889071451136715196
+      TPO_runCycleCompleteThornedArm_27: 5300970113598602939
+      TPO_runCycleCompleteThornedArm_28: 7457503536096431230
+      TPO_runCycleCompleteThornedArm_29: 5512560327904831397
+      TPO_runCycleCompleteThornedArm_30: 7245604336668049433
+      TPO_runCycleCompleteThornedArm_31: 3646259819450904366
+      TPO_runCycleCompleteThornedArm_32: 6980138912640914159
+      TPO_runCycleCompleteThornedArm_33: 3324592006601860213
+      TPO_runCycleCompleteThornedArm_34: 5404702572494498082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

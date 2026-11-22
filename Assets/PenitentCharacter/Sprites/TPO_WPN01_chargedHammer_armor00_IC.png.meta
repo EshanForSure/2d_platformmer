@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: c5a4a030caa28bd0cbe4e5024c46e9c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 153
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a8b8bd9d24a9ce991f14e285969b9e
+      internalID: 6781484827082448496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 59
+        width: 39
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80dd4de148f4043fb3fa5d641a3a4b
+      internalID: -8656688011725034578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 69
+        width: 41
+        height: 70
+      alignment: 9
+      pivot: {x: 0.70731705, y: 0.00057142804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00309f48a9d3191e66e7f7b30c0d8f8
+      internalID: 704758338239168949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 43
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6976744, y: 0.0005797096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef767150e1371555962116a5d7e9f2
+      internalID: -4648326075796624666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 59
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6976744, y: 0.00065573707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f6f1b6a60ab043363173b249d3983
+      internalID: -3458192225606556234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 43
+        height: 74
+      alignment: 9
+      pivot: {x: 0.8372093, y: 0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb73d96caafd4e113ad518efbd5127
+      internalID: -7316429840333279988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 39
+        height: 77
+      alignment: 9
+      pivot: {x: 0.974359, y: -0.038441557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9403ede667be056987d6c19730bf888b
+      internalID: -5103171297833756953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 39
+        height: 81
+      alignment: 9
+      pivot: {x: 1.051282, y: -0.09827161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256bce39cf0436fd2807da03b03fc64
+      internalID: 5473899209859693509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 74
+        width: 38
+        height: 80
+      alignment: 9
+      pivot: {x: 0.9736842, y: -0.1245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65417aa88d829ca36a0237198863d7
+      internalID: 2920765153882782353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 154
+        width: 38
+        height: 80
+      alignment: 9
+      pivot: {x: 0.9736842, y: -0.137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990cf77aff2180476f34ba6ec4207747
+      internalID: 4231131082064957127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: 0.75, y: -0.33784613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe6d2d00961244061e08c93311b6d3a
+      internalID: -4377407488500857220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.00067796547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3b6692e1725833f258838af8842635
+      internalID: -5931104911710564871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 47
+        height: 60
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.000666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387433845add6be114cc4beea3252017
+      internalID: -5739394607265919834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 196
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.00067796547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77635c53ca14ac80238e6af989c67911
+      internalID: 7194986938413920967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 60
+        width: 47
+        height: 60
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.000666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c83f3d8358972db8551b9c8821674d
+      internalID: 5666944358313795783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.000727272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27cd98efb99ff3c945977302cbd226f
+      internalID: 7149480020158953604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_16
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.000727272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dbf35b19838ffb20f73897008487e6
+      internalID: 3016420163351998558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 107
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7173913, y: 0.00083333254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76527e67c5bb8225e05adccb60a1bce
+      internalID: 1737918495734000747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 59
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7173913, y: 0.00083333254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a937ad6cadc971876c0ed5af06c73f1
+      internalID: 3228682216856949013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 107
+        width: 47
+        height: 44
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.00090909004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f040c79b296fb0eab8afba92938071b
+      internalID: -6778316747944800849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 107
+        width: 47
+        height: 44
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.00090909004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a2cadb1dd21152ad75e595263d3f00
+      internalID: 8448929011326588549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 59
+        width: 48
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.00086956436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed12e8d1f0b92e5037151458faba337
+      internalID: -1829586719679889320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 59
+        width: 48
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.00086956436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3867f45d9757898d54432a8025845d
+      internalID: -5350598778832943960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.625, y: 0.0007999992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003f83044bc9f4427a99e8c6e7c896c7
+      internalID: -6720356650583456092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.00067796547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a482e4a704905c46807573c35f6dea
+      internalID: 6647005967976005480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 130
+        width: 35
+        height: 66
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f15e278cb1c093aebf5a2b6e53e64
+      internalID: -2838917980896547625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 157
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6904762, y: 0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f412dbf3bb6dc44ac71873a57f4f9d
+      internalID: 6056715772441160934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 120
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab632b371c831e77df3afe37035c75c
+      internalID: -5937338071482040472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 77
+        width: 38
+        height: 76
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55cdb6825cfdb7acea838dc4248699
+      internalID: -6668258156807326720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 76
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff17660ab0900b49c2ebe5c24aa66a3
+      internalID: 5497886183302552191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e43bf203033420db21e4a572b224a88
+      internalID: -8252427257478590134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82aa4afa350dcbf41468a9cb72477d
+      internalID: -3296950817462804121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_chargedHammer_armor00_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 139
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded2554d06ccec91211bba1be15b073
+      internalID: 8949068292127548636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee72c086abb57d2b14f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPO_WPN01_chargedHammer_armor00_0: 6781484827082448496
+      TPO_WPN01_chargedHammer_armor00_1: -8656688011725034578
+      TPO_WPN01_chargedHammer_armor00_10: -4377407488500857220
+      TPO_WPN01_chargedHammer_armor00_11: -5931104911710564871
+      TPO_WPN01_chargedHammer_armor00_12: -5739394607265919834
+      TPO_WPN01_chargedHammer_armor00_13: 7194986938413920967
+      TPO_WPN01_chargedHammer_armor00_14: 5666944358313795783
+      TPO_WPN01_chargedHammer_armor00_15: 7149480020158953604
+      TPO_WPN01_chargedHammer_armor00_16: 3016420163351998558
+      TPO_WPN01_chargedHammer_armor00_17: 1737918495734000747
+      TPO_WPN01_chargedHammer_armor00_18: 3228682216856949013
+      TPO_WPN01_chargedHammer_armor00_19: -6778316747944800849
+      TPO_WPN01_chargedHammer_armor00_2: 704758338239168949
+      TPO_WPN01_chargedHammer_armor00_20: 8448929011326588549
+      TPO_WPN01_chargedHammer_armor00_21: -1829586719679889320
+      TPO_WPN01_chargedHammer_armor00_22: -5350598778832943960
+      TPO_WPN01_chargedHammer_armor00_23: -6720356650583456092
+      TPO_WPN01_chargedHammer_armor00_24: 6647005967976005480
+      TPO_WPN01_chargedHammer_armor00_25: -2838917980896547625
+      TPO_WPN01_chargedHammer_armor00_26: 6056715772441160934
+      TPO_WPN01_chargedHammer_armor00_27: -5937338071482040472
+      TPO_WPN01_chargedHammer_armor00_28: -6668258156807326720
+      TPO_WPN01_chargedHammer_armor00_29: 5497886183302552191
+      TPO_WPN01_chargedHammer_armor00_3: -4648326075796624666
+      TPO_WPN01_chargedHammer_armor00_30: -8252427257478590134
+      TPO_WPN01_chargedHammer_armor00_31: -3296950817462804121
+      TPO_WPN01_chargedHammer_armor00_32: 8949068292127548636
+      TPO_WPN01_chargedHammer_armor00_4: -3458192225606556234
+      TPO_WPN01_chargedHammer_armor00_5: -7316429840333279988
+      TPO_WPN01_chargedHammer_armor00_6: -5103171297833756953
+      TPO_WPN01_chargedHammer_armor00_7: 5473899209859693509
+      TPO_WPN01_chargedHammer_armor00_8: 2920765153882782353
+      TPO_WPN01_chargedHammer_armor00_9: 4231131082064957127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

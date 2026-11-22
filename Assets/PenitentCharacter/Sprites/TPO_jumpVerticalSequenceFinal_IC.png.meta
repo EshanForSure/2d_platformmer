@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 4778083d53325da4a9c1dce12a07946c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3657219541875767737
+    second: TPO_jumpVerticalSequence_0
+  - first:
+      213: 1752579953506747631
+    second: TPO_jumpVerticalSequence_1
+  - first:
+      213: 4271417452723444066
+    second: TPO_jumpVerticalSequence_2
+  - first:
+      213: 6836807116288444919
+    second: TPO_jumpVerticalSequence_3
+  - first:
+      213: 7126827103915059967
+    second: TPO_jumpVerticalSequence_4
+  - first:
+      213: 1767224509484140721
+    second: TPO_jumpVerticalSequence_5
+  - first:
+      213: 3621903312295079872
+    second: TPO_jumpVerticalSequence_6
+  - first:
+      213: 4949916581552639804
+    second: TPO_jumpVerticalSequence_7
+  - first:
+      213: 2889289445265591840
+    second: TPO_jumpVerticalSequence_8
+  - first:
+      213: 30368024376095599
+    second: TPO_jumpVerticalSequence_9
+  - first:
+      213: 2682412494364490913
+    second: TPO_jumpVerticalSequence_10
+  - first:
+      213: 8046977346841062813
+    second: TPO_jumpVerticalSequence_11
+  - first:
+      213: 6149526024391426504
+    second: TPO_jumpVerticalSequence_12
+  - first:
+      213: 5970587956194242930
+    second: TPO_jumpVerticalSequence_13
+  - first:
+      213: 5382496143838403841
+    second: TPO_jumpVerticalSequence_14
+  - first:
+      213: 8306871987786598976
+    second: TPO_jumpVerticalSequence_15
+  - first:
+      213: 201042674006618069
+    second: TPO_jumpVerticalSequence_16
+  - first:
+      213: 3297734917954869455
+    second: TPO_jumpVerticalSequence_17
+  - first:
+      213: 7521298207830133532
+    second: TPO_jumpVerticalSequence_18
+  - first:
+      213: 5242032013201170369
+    second: TPO_jumpVerticalSequence_19
+  - first:
+      213: 309615451999580233
+    second: TPO_jumpVerticalSequence_20
+  - first:
+      213: 6753268157694192727
+    second: TPO_jumpVerticalSequence_21
+  - first:
+      213: 8702405649306148200
+    second: TPO_jumpVerticalSequence_22
+  - first:
+      213: 4382685815352664033
+    second: TPO_jumpVerticalSequence_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5588235, y: -0.0004878044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bccf3376dc41b6a474938961db6f4a
+      internalID: 3657219541875767737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 82
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5588235, y: -0.0004878044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f16bb6ad74c3a94ef3f189d4c5f61
+      internalID: 1752579953506747631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 164
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5588235, y: -0.0004878044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a31b15ba36646c8bacbc5b455fde1ae
+      internalID: 4271417452723444066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5588235, y: -0.0004878044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61c3533981412f898f8cdd0ecf768a
+      internalID: 6836807116288444919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 82
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5588235, y: -0.0004878044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84935627cbc94d4bb9895be7e6987934
+      internalID: 7126827103915059967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 164
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5588235, y: -0.0004878044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab5fe4be9cd4e77a4c5ba9006f82921
+      internalID: 1767224509484140721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 138
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.4857143, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33bb0fb37e487fab7d4f62e78ccfe9
+      internalID: 3621903312295079872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 71
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0.41666666, y: -0.054594595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10438ea43af84d619ce3d685215e7afa
+      internalID: 4949916581552639804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.41025642, y: -0.22482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782dfd59b6044bc5987d8c7c99b489d8
+      internalID: 2889289445265591840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.40425533, y: -0.24148148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5ce41be224e0b8691276edebf0515
+      internalID: 30368024376095599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.4347826, y: -0.16193548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5317e180aca4d7cbedf9e0053dd06b4
+      internalID: 2682412494364490913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.47727272, y: -0.055342466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d5cb8fc3b4b3f9e13b1cfeade0c68
+      internalID: 8046977346841062813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5777778, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f7f09785804467b965e1218ccead7f
+      internalID: 6149526024391426504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5777778, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f2e49dd40e4cdab63b74da73e3f5e8
+      internalID: 5970587956194242930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5777778, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5839593f14335ac31fedd9d5b3a21
+      internalID: 5382496143838403841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5777778, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08858ea3194ffca21a8a5d931c003f
+      internalID: 8306871987786598976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5777778, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c382f222fa34f0395d4c0e6a44911f7
+      internalID: 201042674006618069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5777778, y: -0.012999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921991d0148d48d198bea198a798422e
+      internalID: 3297734917954869455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.29268292, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad000e55454e2eb334cd520e4fbe09
+      internalID: 7521298207830133532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 145
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.36842105, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58265905578417a8821d405819884c1
+      internalID: 5242032013201170369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.4473684, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6761622753574b98a50885c56692ca39
+      internalID: 309615451999580233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 73
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5263158, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1367c766014a5384f256015a0bc20f
+      internalID: 6753268157694192727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 147
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0.6052632, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9483b444186043368948a02dfb4690a7
+      internalID: 8702405649306148200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpVerticalSequence_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 62
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6486486, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85278e845ccd42e7ab170570310e0b40
+      internalID: 4382685815352664033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TPO_jumpVerticalSequence_0: 3657219541875767737
+      TPO_jumpVerticalSequence_1: 1752579953506747631
+      TPO_jumpVerticalSequence_2: 4271417452723444066
+      TPO_jumpVerticalSequence_3: 6836807116288444919
+      TPO_jumpVerticalSequence_4: 7126827103915059967
+      TPO_jumpVerticalSequence_5: 1767224509484140721
+      TPO_jumpVerticalSequence_6: 3621903312295079872
+      TPO_jumpVerticalSequence_7: 4949916581552639804
+      TPO_jumpVerticalSequence_8: 2889289445265591840
+      TPO_jumpVerticalSequence_9: 30368024376095599
+      TPO_jumpVerticalSequence_10: 2682412494364490913
+      TPO_jumpVerticalSequence_11: 8046977346841062813
+      TPO_jumpVerticalSequence_12: 6149526024391426504
+      TPO_jumpVerticalSequence_13: 5970587956194242930
+      TPO_jumpVerticalSequence_14: 5382496143838403841
+      TPO_jumpVerticalSequence_15: 8306871987786598976
+      TPO_jumpVerticalSequence_16: 201042674006618069
+      TPO_jumpVerticalSequence_17: 3297734917954869455
+      TPO_jumpVerticalSequence_18: 7521298207830133532
+      TPO_jumpVerticalSequence_19: 5242032013201170369
+      TPO_jumpVerticalSequence_20: 309615451999580233
+      TPO_jumpVerticalSequence_21: 6753268157694192727
+      TPO_jumpVerticalSequence_22: 8702405649306148200
+      TPO_jumpVerticalSequence_23: 4382685815352664033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

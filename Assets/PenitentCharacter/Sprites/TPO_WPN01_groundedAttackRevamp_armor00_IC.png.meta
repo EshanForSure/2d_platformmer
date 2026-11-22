@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 0f456beee7b1afb5ff110741ff6bbc46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6388889, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e7c97524a36d394b02eb04f5f49b9
+      internalID: -8846526510598273282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 152
+        width: 37
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5675676, y: -0.0005479577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b1c71739678ee2d5ebba1d2b995f0
+      internalID: -7972054903552648145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 38
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6052632, y: -0.0005633932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60b33d84198a0f3f6ccde09c72bc71
+      internalID: -5707687376526923453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 37
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6216216, y: -0.00057144166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0c3a616103254813ac3eb6be9a00c
+      internalID: -5305238488301228850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_4
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 37
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6216216, y: -0.00057144166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206e1bc452e9b3309bae4a7435c53515
+      internalID: -7996816418187163550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 41
+        height: 72
+      alignment: 9
+      pivot: {x: 0.85365856, y: -0.00055556826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb4e1bde5a56ff242c988f4c50b2a7b
+      internalID: -5542303407940710815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 42
+        height: 77
+      alignment: 9
+      pivot: {x: 0.78571427, y: -0.00051949243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986029ad557eea034775878fdd626352
+      internalID: -3863774624590720793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 53
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7297297, y: -0.00051949243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d924605c10f04126585f8065d99f41
+      internalID: -7204347887049228500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 37
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5945946, y: -0.0005063407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4d9247208997fcf29aacef37b0555
+      internalID: 2083555142314018787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 53
+        height: 72
+      alignment: 9
+      pivot: {x: 0.35849056, y: -0.00055556826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4b9366e66aa9e193704079f13f4209
+      internalID: -6773692853588815371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 65
+      alignment: 9
+      pivot: {x: 0.21311475, y: -0.0006153987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b2a6ec32ae249f9b95e0293f15b75
+      internalID: -1677648030276903634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 66
+        height: 57
+      alignment: 9
+      pivot: {x: 0.1969697, y: -0.0007017704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05800cdba58085ed745223d1cfac7c9e
+      internalID: -5063285180173121010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 57
+        width: 66
+        height: 57
+      alignment: 9
+      pivot: {x: 0.1969697, y: -0.0007017704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d5ab86aa671dc6eb909cdb46490aac
+      internalID: -4025999776972302940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 190
+        width: 65
+        height: 50
+      alignment: 9
+      pivot: {x: 0.2, y: 0.03919998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc3144702e1ce372a590f00260070ca
+      internalID: 5949346371251606263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.23636363, y: -0.00075473427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2db10db030cd957d3a05d2ef6d99a
+      internalID: 4970404886400742722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 206
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.35416666, y: -0.0008000183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077bb8177f51d2ae21f257fd2c15b9c
+      internalID: -5734749994137113911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3125, y: -0.0008000183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb796be7cfd203a456f10a837ce1303
+      internalID: 699804447617841039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 42
+        height: 59
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0.00067798165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d7a9270bd72f7de83559e2a7666510
+      internalID: -6023177082602399385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 71
+        width: 35
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4, y: -0.00060607446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d376894b8f4569482d292dda6b7741
+      internalID: 8568286360293279610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 153
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0005405529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f98516b193fd45829f18cdc2b2d7113
+      internalID: 4127743726463397916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4864865, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371dcda873ccc284c08978097a7b844
+      internalID: -2567793758427325215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 151
+        width: 38
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c4580ff1c86994a1d6f8f6dfaf2ae
+      internalID: -8587948247665372544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 77
+        width: 42
+        height: 76
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbeb8b824959848ce559b544bdd3c60
+      internalID: -1811630606397784388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.42222223, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e0a0f6882d28bb1c2b6c747e76590a
+      internalID: 1273034345375932490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 114
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4888889, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36675fb211b575c8dab6ffb26455811
+      internalID: -4213240539385391486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_groundedAttackRevamp_armor00_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6486486, y: -0.0005263278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17825cc6f0ab2a3736a384db98f185
+      internalID: 4092760864616342377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee72c086abb57d2b14f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPO_WPN01_groundedAttackRevamp_armor00_0: -8846526510598273282
+      TPO_WPN01_groundedAttackRevamp_armor00_1: -7972054903552648145
+      TPO_WPN01_groundedAttackRevamp_armor00_10: -1677648030276903634
+      TPO_WPN01_groundedAttackRevamp_armor00_11: -5063285180173121010
+      TPO_WPN01_groundedAttackRevamp_armor00_12: -4025999776972302940
+      TPO_WPN01_groundedAttackRevamp_armor00_13: 5949346371251606263
+      TPO_WPN01_groundedAttackRevamp_armor00_14: 4970404886400742722
+      TPO_WPN01_groundedAttackRevamp_armor00_15: -5734749994137113911
+      TPO_WPN01_groundedAttackRevamp_armor00_16: 699804447617841039
+      TPO_WPN01_groundedAttackRevamp_armor00_17: -6023177082602399385
+      TPO_WPN01_groundedAttackRevamp_armor00_18: 8568286360293279610
+      TPO_WPN01_groundedAttackRevamp_armor00_19: 4127743726463397916
+      TPO_WPN01_groundedAttackRevamp_armor00_2: -5707687376526923453
+      TPO_WPN01_groundedAttackRevamp_armor00_20: -2567793758427325215
+      TPO_WPN01_groundedAttackRevamp_armor00_21: -8587948247665372544
+      TPO_WPN01_groundedAttackRevamp_armor00_22: -1811630606397784388
+      TPO_WPN01_groundedAttackRevamp_armor00_23: 1273034345375932490
+      TPO_WPN01_groundedAttackRevamp_armor00_24: -4213240539385391486
+      TPO_WPN01_groundedAttackRevamp_armor00_25: 4092760864616342377
+      TPO_WPN01_groundedAttackRevamp_armor00_3: -5305238488301228850
+      TPO_WPN01_groundedAttackRevamp_armor00_4: -7996816418187163550
+      TPO_WPN01_groundedAttackRevamp_armor00_5: -5542303407940710815
+      TPO_WPN01_groundedAttackRevamp_armor00_6: -3863774624590720793
+      TPO_WPN01_groundedAttackRevamp_armor00_7: -7204347887049228500
+      TPO_WPN01_groundedAttackRevamp_armor00_8: 2083555142314018787
+      TPO_WPN01_groundedAttackRevamp_armor00_9: -6773692853588815371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

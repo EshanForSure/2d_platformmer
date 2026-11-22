@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: 1b7adc4694ec6d944b3a6b2e3d9d4e79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6266973982065907225
+    second: censer_idle_0
+  - first:
+      213: -4508398328289395151
+    second: censer_idle_1
+  - first:
+      213: -5143835843559318403
+    second: censer_idle_2
+  - first:
+      213: -4623907719281021977
+    second: censer_idle_3
+  - first:
+      213: 1124669574201451039
+    second: censer_idle_4
+  - first:
+      213: -1026561148857057221
+    second: censer_idle_5
+  - first:
+      213: -5178950609883871912
+    second: censer_idle_6
+  - first:
+      213: 1680375702004361333
+    second: censer_idle_7
+  - first:
+      213: -2692189854976067040
+    second: censer_idle_8
+  - first:
+      213: -3418363787981653664
+    second: censer_idle_9
+  - first:
+      213: 6116078891646099532
+    second: censer_idle_10
+  - first:
+      213: -4365733673839043746
+    second: censer_idle_11
+  - first:
+      213: 3871287125765573868
+    second: censer_idle_12
+  - first:
+      213: 7606333701563549596
+    second: censer_idle_13
+  - first:
+      213: 2276920427296538857
+    second: censer_idle_14
+  - first:
+      213: 6160976488553865943
+    second: censer_idle_15
+  - first:
+      213: -4428237805289170002
+    second: censer_idle_16
+  - first:
+      213: 5743067810615597267
+    second: censer_idle_17
+  - first:
+      213: 4086440223360504131
+    second: censer_idle_18
+  - first:
+      213: -2456279444614231191
+    second: censer_idle_19
+  - first:
+      213: 5230326237909763033
+    second: censer_idle_20
+  - first:
+      213: 3791429316651872561
+    second: censer_idle_21
+  - first:
+      213: -908020787103214130
+    second: censer_idle_22
+  - first:
+      213: 4691306662878519950
+    second: censer_idle_23
+  - first:
+      213: 3605708507410262543
+    second: censer_idle_24
+  - first:
+      213: -9105046597835774290
+    second: censer_idle_25
+  - first:
+      213: 6701703344494830795
+    second: censer_idle_26
+  - first:
+      213: 5341907148793893158
+    second: censer_idle_27
+  - first:
+      213: -2625360304567200781
+    second: censer_idle_28
+  - first:
+      213: 5888584135896615343
+    second: censer_idle_29
+  - first:
+      213: -3231080097059653245
+    second: censer_idle_30
+  - first:
+      213: -4316665349737020391
+    second: censer_idle_31
+  - first:
+      213: 2034405563277104064
+    second: censer_idle_32
+  - first:
+      213: 85336189660605009
+    second: censer_idle_33
+  - first:
+      213: -7163871390564309534
+    second: censer_idle_34
+  - first:
+      213: 7828278597103933485
+    second: censer_idle_35
+  - first:
+      213: -7143988947491877150
+    second: censer_idle_36
+  - first:
+      213: 8393759856038198398
+    second: censer_idle_37
+  - first:
+      213: -7825439756551042927
+    second: censer_idle_38
+  - first:
+      213: 7289248398422642862
+    second: censer_idle_39
+  - first:
+      213: -3988970379121781254
+    second: censer_idle_40
+  - first:
+      213: 4900692023688956396
+    second: censer_idle_41
+  - first:
+      213: 3225537533042696506
+    second: censer_idle_42
+  - first:
+      213: 1741306971080347208
+    second: censer_idle_43
+  - first:
+      213: 4707408271541463086
+    second: censer_idle_44
+  - first:
+      213: -2301384692669078743
+    second: censer_idle_45
+  - first:
+      213: 3130879637188998725
+    second: censer_idle_46
+  - first:
+      213: -4152525739882279529
+    second: censer_idle_47
+  - first:
+      213: 383835804483910250
+    second: censer_idle_48
+  - first:
+      213: 7645688734497770385
+    second: censer_idle_49
+  - first:
+      213: 3473311434835900433
+    second: censer_idle_50
+  - first:
+      213: 1551984269583355581
+    second: censer_idle_51
+  - first:
+      213: -3460720702373616970
+    second: censer_idle_52
+  - first:
+      213: -1045249799687998693
+    second: censer_idle_53
+  - first:
+      213: -4396164253559921278
+    second: censer_idle_54
+  - first:
+      213: -6759616360019423593
+    second: censer_idle_55
+  - first:
+      213: 6050740453858331022
+    second: censer_idle_000
+  - first:
+      213: -7373617115321276977
+    second: censer_idle_001
+  - first:
+      213: 4968212595732682514
+    second: censer_idle_002
+  - first:
+      213: -5017748082219250423
+    second: censer_idle_003
+  - first:
+      213: 3996344120701241715
+    second: censer_idle_004
+  - first:
+      213: -8414954249117747492
+    second: censer_idle_005
+  - first:
+      213: -3794104186353684149
+    second: censer_idle_006
+  - first:
+      213: -4646655774285496241
+    second: censer_idle_007
+  - first:
+      213: -8064795223082741967
+    second: censer_idle_008
+  - first:
+      213: -949758165685403231
+    second: censer_idle_009
+  - first:
+      213: -6478072622745676303
+    second: censer_idle_010
+  - first:
+      213: -4296184593324437544
+    second: censer_idle_011
+  - first:
+      213: 457922869627570600
+    second: censer_idle_012
+  - first:
+      213: 380132780162946255
+    second: censer_idle_013
+  - first:
+      213: -6600681786286292060
+    second: censer_idle_014
+  - first:
+      213: 6640958852220815112
+    second: censer_idle_015
+  - first:
+      213: 6500401639150665137
+    second: censer_idle_016
+  - first:
+      213: -8116254515869038923
+    second: censer_idle_017
+  - first:
+      213: -7593000010327710198
+    second: censer_idle_018
+  - first:
+      213: 7177877529636417368
+    second: censer_idle_019
+  - first:
+      213: 1044909297430609659
+    second: censer_idle_020
+  - first:
+      213: -8478961574783953210
+    second: censer_idle_021
+  - first:
+      213: 2496812246564235457
+    second: censer_idle_022
+  - first:
+      213: 5226083929608049348
+    second: censer_idle_023
+  - first:
+      213: -2144007917421405172
+    second: censer_idle_024
+  - first:
+      213: 1959807852270118869
+    second: censer_idle_025
+  - first:
+      213: 7842344697288408617
+    second: censer_idle_026
+  - first:
+      213: -2032849644921152433
+    second: censer_idle_027
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: censer_idle_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89cf44726c88f350800000000000000
+      internalID: 6050740453858331022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_001
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5e88bfc46aba990800000000000000
+      internalID: -7373617115321276977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_002
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21794497803a2f440800000000000000
+      internalID: 4968212595732682514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_003
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d8ce254b06d5ab0800000000000000
+      internalID: -5017748082219250423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3794e92edcdd57730800000000000000
+      internalID: 3996344120701241715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63c2cd1b3183b80800000000000000
+      internalID: -8414954249117747492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f0933852a85bc0800000000000000
+      internalID: -3794104186353684149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40023c3133c38fb0800000000000000
+      internalID: -4646655774285496241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc2e54977141090800000000000000
+      internalID: -8064795223082741967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18bc7faf7c1d2f0800000000000000
+      internalID: -949758165685403231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_010
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54545456, y: -1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f59f0c95434916a0800000000000000
+      internalID: -6478072622745676303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_011
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 142
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54545456, y: -1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0461efd2e064c0800000000000000
+      internalID: -4296184593324437544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_012
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 108
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cdaa7c6eda5600800000000000000
+      internalID: 457922869627570600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_013
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41811efb0864500800000000000000
+      internalID: 380132780162946255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_014
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 139
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3c30523eaa564a0800000000000000
+      internalID: -6600681786286292060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_015
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 139
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8078b9a04ec692c50800000000000000
+      internalID: 6640958852220815112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_016
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 170
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd31f6a9d0163a50800000000000000
+      internalID: 6500401639150665137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_017
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b647f205854d5f80800000000000000
+      internalID: -8116254515869038923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_018
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 170
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0621e458be30a690800000000000000
+      internalID: -7593000010327710198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_019
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 201
+        width: 57
+        height: 29
+      alignment: 9
+      pivot: {x: 0.54385966, y: -1.2068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fac3b4591fc9360800000000000000
+      internalID: 7177877529636417368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_020
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54545456, y: -1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfebad74873408e00800000000000000
+      internalID: 1044909297430609659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_021
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 210
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54545456, y: -1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d0d60f5da45a80800000000000000
+      internalID: -8478961574783953210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_022
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c86e43728576a220800000000000000
+      internalID: 2496812246564235457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_023
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c25aae15a7c68840800000000000000
+      internalID: 5226083929608049348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_024
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cd8769824fe32e0800000000000000
+      internalID: -2144007917421405172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_025
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e49eabd2a23b10800000000000000
+      internalID: 1959807852270118869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_026
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e3b00a3fa95dc60800000000000000
+      internalID: 7842344697288408617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_idle_027
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c12b8b40ed9c3e0800000000000000
+      internalID: -2032849644921152433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      censer_idle_0: 6266973982065907225
+      censer_idle_000: 6050740453858331022
+      censer_idle_001: -7373617115321276977
+      censer_idle_002: 4968212595732682514
+      censer_idle_003: -5017748082219250423
+      censer_idle_004: 3996344120701241715
+      censer_idle_005: -8414954249117747492
+      censer_idle_006: -3794104186353684149
+      censer_idle_007: -4646655774285496241
+      censer_idle_008: -8064795223082741967
+      censer_idle_009: -949758165685403231
+      censer_idle_010: -6478072622745676303
+      censer_idle_011: -4296184593324437544
+      censer_idle_012: 457922869627570600
+      censer_idle_013: 380132780162946255
+      censer_idle_014: -6600681786286292060
+      censer_idle_015: 6640958852220815112
+      censer_idle_016: 6500401639150665137
+      censer_idle_017: -8116254515869038923
+      censer_idle_018: -7593000010327710198
+      censer_idle_019: 7177877529636417368
+      censer_idle_020: 1044909297430609659
+      censer_idle_021: -8478961574783953210
+      censer_idle_022: 2496812246564235457
+      censer_idle_023: 5226083929608049348
+      censer_idle_024: -2144007917421405172
+      censer_idle_025: 1959807852270118869
+      censer_idle_026: 7842344697288408617
+      censer_idle_027: -2032849644921152433
+      censer_idle_1: -4508398328289395151
+      censer_idle_10: 6116078891646099532
+      censer_idle_11: -4365733673839043746
+      censer_idle_12: 3871287125765573868
+      censer_idle_13: 7606333701563549596
+      censer_idle_14: 2276920427296538857
+      censer_idle_15: 6160976488553865943
+      censer_idle_16: -4428237805289170002
+      censer_idle_17: 5743067810615597267
+      censer_idle_18: 4086440223360504131
+      censer_idle_19: -2456279444614231191
+      censer_idle_2: -5143835843559318403
+      censer_idle_20: 5230326237909763033
+      censer_idle_21: 3791429316651872561
+      censer_idle_22: -908020787103214130
+      censer_idle_23: 4691306662878519950
+      censer_idle_24: 3605708507410262543
+      censer_idle_25: -9105046597835774290
+      censer_idle_26: 6701703344494830795
+      censer_idle_27: 5341907148793893158
+      censer_idle_28: -2625360304567200781
+      censer_idle_29: 5888584135896615343
+      censer_idle_3: -4623907719281021977
+      censer_idle_30: -3231080097059653245
+      censer_idle_31: -4316665349737020391
+      censer_idle_32: 2034405563277104064
+      censer_idle_33: 85336189660605009
+      censer_idle_34: -7163871390564309534
+      censer_idle_35: 7828278597103933485
+      censer_idle_36: -7143988947491877150
+      censer_idle_37: 8393759856038198398
+      censer_idle_38: -7825439756551042927
+      censer_idle_39: 7289248398422642862
+      censer_idle_4: 1124669574201451039
+      censer_idle_40: -3988970379121781254
+      censer_idle_41: 4900692023688956396
+      censer_idle_42: 3225537533042696506
+      censer_idle_43: 1741306971080347208
+      censer_idle_44: 4707408271541463086
+      censer_idle_45: -2301384692669078743
+      censer_idle_46: 3130879637188998725
+      censer_idle_47: -4152525739882279529
+      censer_idle_48: 383835804483910250
+      censer_idle_49: 7645688734497770385
+      censer_idle_5: -1026561148857057221
+      censer_idle_50: 3473311434835900433
+      censer_idle_51: 1551984269583355581
+      censer_idle_52: -3460720702373616970
+      censer_idle_53: -1045249799687998693
+      censer_idle_54: -4396164253559921278
+      censer_idle_55: -6759616360019423593
+      censer_idle_6: -5178950609883871912
+      censer_idle_7: 1680375702004361333
+      censer_idle_8: -2692189854976067040
+      censer_idle_9: -3418363787981653664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

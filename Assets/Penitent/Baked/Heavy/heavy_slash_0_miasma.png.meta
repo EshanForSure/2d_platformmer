@@ -1,0 +1,1343 @@
+fileFormatVersion: 2
+guid: 72ea471d6d8c2af44b944421d58d847a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1753220939809959003
+    second: heavy_slash_0_miasma_0
+  - first:
+      213: -303520086806767468
+    second: heavy_slash_0_miasma_1
+  - first:
+      213: -2330857888831026952
+    second: heavy_slash_0_miasma_2
+  - first:
+      213: 5481094732042613836
+    second: heavy_slash_0_miasma_3
+  - first:
+      213: -149848253232249166
+    second: heavy_slash_0_miasma_4
+  - first:
+      213: -6479176015706432323
+    second: heavy_slash_0_miasma_5
+  - first:
+      213: -7975978664003404429
+    second: heavy_slash_0_miasma_6
+  - first:
+      213: 4446233101049817290
+    second: heavy_slash_0_miasma_7
+  - first:
+      213: -193520757255565981
+    second: heavy_slash_0_miasma_8
+  - first:
+      213: 5952176587521709410
+    second: heavy_slash_0_miasma_9
+  - first:
+      213: 1965742477791391537
+    second: heavy_slash_0_miasma_10
+  - first:
+      213: -487866945796916294
+    second: heavy_slash_0_miasma_11
+  - first:
+      213: -1500101155172252318
+    second: heavy_slash_0_miasma_12
+  - first:
+      213: -1102310319245165031
+    second: heavy_slash_0_miasma_13
+  - first:
+      213: -3331025993195352336
+    second: heavy_slash_0_miasma_14
+  - first:
+      213: -3980841696139663596
+    second: heavy_slash_0_miasma_15
+  - first:
+      213: -8819482325294352160
+    second: heavy_slash_0_miasma_16
+  - first:
+      213: 7597687541127871705
+    second: heavy_slash_0_miasma_17
+  - first:
+      213: -951883249571229589
+    second: heavy_slash_0_miasma_18
+  - first:
+      213: -1128008226730026627
+    second: heavy_slash_0_miasma_19
+  - first:
+      213: 8021887052833419070
+    second: heavy_slash_0_miasma_20
+  - first:
+      213: -3685376693625767551
+    second: heavy_slash_0_miasma_21
+  - first:
+      213: -6292150231913595859
+    second: heavy_slash_0_miasma_22
+  - first:
+      213: -1651145475954355677
+    second: heavy_slash_0_miasma_23
+  - first:
+      213: 1350415061720774155
+    second: heavy_slash_0_miasma_24
+  - first:
+      213: 3399046530684645208
+    second: heavy_slash_0_miasma_25
+  - first:
+      213: 6197243685177431165
+    second: heavy_slash_0_miasma_26
+  - first:
+      213: 1417109851265517624
+    second: heavy_slash_0_miasma_27
+  - first:
+      213: -3906967532249696439
+    second: heavy_slash_0_miasma_28
+  - first:
+      213: 3493924124501854789
+    second: heavy_slash_0_miasma_29
+  - first:
+      213: -3483828210230982656
+    second: heavy_slash_0_miasma_30
+  - first:
+      213: 736346423472084195
+    second: heavy_slash_0_miasma_31
+  - first:
+      213: 1206796511957158566
+    second: heavy_slash_0_miasma_32
+  - first:
+      213: -846413233381580725
+    second: heavy_slash_0_miasma_33
+  - first:
+      213: 7219652457344938661
+    second: heavy_slash_0_miasma_34
+  - first:
+      213: 5772293161998802271
+    second: heavy_slash_0_miasma_35
+  - first:
+      213: -2915387934203417689
+    second: heavy_slash_0_miasma_36
+  - first:
+      213: -1138848473255910026
+    second: heavy_slash_0_miasma_37
+  - first:
+      213: 6577551721735766842
+    second: heavy_slash_0_miasma_38
+  - first:
+      213: 9065721088050304644
+    second: heavy_slash_0_miasma_39
+  - first:
+      213: 3860689824562350911
+    second: heavy_slash_0_miasma_40
+  - first:
+      213: -2280668203796981769
+    second: heavy_slash_0_miasma_41
+  - first:
+      213: 6367083434280679558
+    second: heavy_slash_0_miasma_42
+  - first:
+      213: -5084426277882460304
+    second: heavy_slash_0_miasma_43
+  - first:
+      213: 3736384198311484632
+    second: heavy_slash_0_miasma_44
+  - first:
+      213: 51850537643880033
+    second: heavy_slash_0_miasma_45
+  - first:
+      213: 7751376614080176714
+    second: heavy_slash_0_miasma_46
+  - first:
+      213: -1755656292444289752
+    second: heavy_slash_0_miasma_47
+  - first:
+      213: 7309845523884359876
+    second: heavy_slash_0_miasma_48
+  - first:
+      213: -389118922670390142
+    second: heavy_slash_0_miasma_49
+  - first:
+      213: 3988275090517713169
+    second: heavy_slash_0_miasma_50
+  - first:
+      213: 3390689311656855798
+    second: heavy_slash_0_miasma_51
+  - first:
+      213: 1182161297503528205
+    second: heavy_slash_0_miasma_52
+  - first:
+      213: 3407645970012458305
+    second: heavy_slash_0_miasma_53
+  - first:
+      213: -5001796685358586191
+    second: heavy_slash_0_miasma_54
+  - first:
+      213: -75506183991681249
+    second: heavy_slash_0_miasma_55
+  - first:
+      213: -6266118411139536117
+    second: heavy_slash_0_miasma_56
+  - first:
+      213: -4976909201301341893
+    second: heavy_slash_0_miasma_57
+  - first:
+      213: -297239422861561409
+    second: heavy_slash_0_miasma_58
+  - first:
+      213: -3740819182273883126
+    second: heavy_slash_0_miasma_59
+  - first:
+      213: 7002877472186550648
+    second: heavy_slash_0_miasma_60
+  - first:
+      213: -1856134312477369935
+    second: heavy_slash_0_miasma_61
+  - first:
+      213: -8773542728098046311
+    second: heavy_slash_0_miasma_62
+  - first:
+      213: -3584736047620907450
+    second: heavy_slash_0_miasma_63
+  - first:
+      213: 6214851468787501413
+    second: heavy_slash_0_miasma_64
+  - first:
+      213: -3143416316918346015
+    second: heavy_slash_0_miasma_65
+  - first:
+      213: -818648639722041043
+    second: heavy_slash_0_miasma_66
+  - first:
+      213: 651192280642811733
+    second: heavy_slash_0_miasma_67
+  - first:
+      213: -8982386173298037648
+    second: heavy_slash_0_miasma_68
+  - first:
+      213: 6785914053277246667
+    second: heavy_slash_0_miasma_69
+  - first:
+      213: 7298486175402731587
+    second: heavy_slash_0_miasma_70
+  - first:
+      213: 431985167533746801
+    second: heavy_slash_0_miasma_71
+  - first:
+      213: 7034467077769446901
+    second: heavy_slash_0_miasma_72
+  - first:
+      213: 1734826229589404868
+    second: heavy_slash_0_miasma_73
+  - first:
+      213: -2103857339971549501
+    second: heavy_slash_0_miasma_74
+  - first:
+      213: -8453855868466992577
+    second: heavy_slash_0_miasma_75
+  - first:
+      213: -4777910586003343895
+    second: heavy_slash_0_miasma_76
+  - first:
+      213: -8295272582569439819
+    second: heavy_slash_0_miasma_77
+  - first:
+      213: -6149015879890929153
+    second: heavy_slash_0_miasma_78
+  - first:
+      213: 4751321375451667249
+    second: heavy_slash_0_miasma_79
+  - first:
+      213: -4611376482810496809
+    second: heavy_slash_0_miasma_80
+  - first:
+      213: 6423668457280036136
+    second: heavy_slash_0_miasma_81
+  - first:
+      213: 8865291714816831868
+    second: heavy_slash_0_miasma_82
+  - first:
+      213: 3565880593978224894
+    second: heavy_slash_0_miasma_83
+  - first:
+      213: -7531292534232604546
+    second: heavy_slash_0_miasma_84
+  - first:
+      213: 8952880497554834521
+    second: heavy_slash_0_miasma_85
+  - first:
+      213: -226978027702734276
+    second: heavy_slash_0_miasma_86
+  - first:
+      213: -3381842044582569593
+    second: heavy_slash_0_miasma_87
+  - first:
+      213: -8029412945871243479
+    second: heavy_slash_0_miasma_88
+  - first:
+      213: -4164436397088894038
+    second: heavy_slash_0_miasma_89
+  - first:
+      213: 1639948325425200320
+    second: heavy_slash_0_miasma_90
+  - first:
+      213: -5493946407541629625
+    second: heavy_slash_0_miasma_91
+  - first:
+      213: 8662598477863646464
+    second: heavy_slash_0_miasma_92
+  - first:
+      213: 8004924682823484832
+    second: heavy_slash_0_miasma_93
+  - first:
+      213: 1966330695061489804
+    second: heavy_slash_0_miasma_94
+  - first:
+      213: 8198316670502530784
+    second: heavy_slash_0_miasma_95
+  - first:
+      213: -896821641625014112
+    second: heavy_slash_0_miasma_96
+  - first:
+      213: 4546592195538437959
+    second: heavy_slash_0_miasma_97
+  - first:
+      213: 1725096026181278960
+    second: heavy_slash_0_miasma_98
+  - first:
+      213: 2576845767686470276
+    second: heavy_slash_0_miasma_99
+  - first:
+      213: 4265014523121133620
+    second: heavy_slash_0_miasma_100
+  - first:
+      213: -4970007980555290911
+    second: heavy_slash_0_miasma_101
+  - first:
+      213: 1233778444877104749
+    second: heavy_slash_0_miasma_102
+  - first:
+      213: 8641869491777972250
+    second: heavy_slash_0_miasma_103
+  - first:
+      213: 3527012069530998019
+    second: heavy_slash_0_miasma_104
+  - first:
+      213: 7906117395491016428
+    second: heavy_slash_0_miasma_105
+  - first:
+      213: -6057476541626956558
+    second: heavy_slash_0_miasma_106
+  - first:
+      213: 9065331152642487986
+    second: heavy_slash_0_miasma_107
+  - first:
+      213: -4656022856452007772
+    second: heavy_slash_0_miasma_108
+  - first:
+      213: -8972481559327687939
+    second: heavy_slash_0_miasma_109
+  - first:
+      213: 353247822712699972
+    second: heavy_slash_0_miasma_110
+  - first:
+      213: 8763746515441775413
+    second: heavy_slash_0_miasma_111
+  - first:
+      213: -4028297198807463829
+    second: heavy_slash_0_miasma_112
+  - first:
+      213: 3568880819593502565
+    second: heavy_slash_0_miasma_113
+  - first:
+      213: 5592395463084725459
+    second: heavy_slash_0_miasma_114
+  - first:
+      213: -7787775430574226813
+    second: heavy_slash_0_miasma_115
+  - first:
+      213: 4828146845028105949
+    second: heavy_slash_0_miasma_116
+  - first:
+      213: 4449928922083408995
+    second: heavy_slash_0_miasma_117
+  - first:
+      213: 9083313744681778872
+    second: heavy_slash_0_miasma_118
+  - first:
+      213: -6528409549106319546
+    second: heavy_slash_0_miasma_119
+  - first:
+      213: -3554330125705799383
+    second: heavy_slash_0_miasma_120
+  - first:
+      213: -7461422875525698190
+    second: heavy_slash_0_miasma_121
+  - first:
+      213: -6655280860628872512
+    second: heavy_slash_0_miasma_122
+  - first:
+      213: -4150293363578264844
+    second: heavy_slash_0_miasma_123
+  - first:
+      213: -1446451846060651735
+    second: heavy_slash_0_miasma_124
+  - first:
+      213: 3635901310609752041
+    second: heavy_slash_0_miasma_125
+  - first:
+      213: -7710320837651905889
+    second: heavy_slash_0_miasma_126
+  - first:
+      213: -6573420111233623069
+    second: heavy_slash_0_miasma_127
+  - first:
+      213: -153371566372031627
+    second: heavy_slash_0_miasma_128
+  - first:
+      213: 4573364764750490398
+    second: heavy_slash_0_miasma_129
+  - first:
+      213: 2402096539877113750
+    second: heavy_slash_0_miasma_130
+  - first:
+      213: 737335787842064263
+    second: heavy_slash_0_miasma_131
+  - first:
+      213: 7917483710681420155
+    second: heavy_slash_0_miasma_132
+  - first:
+      213: -93326977372717837
+    second: heavy_slash_0_miasma_133
+  - first:
+      213: -5400560800673906058
+    second: heavy_slash_0_miasma_134
+  - first:
+      213: -5082035085879978979
+    second: heavy_slash_0_miasma_135
+  - first:
+      213: 3379275850818597027
+    second: heavy_slash_0_miasma_136
+  - first:
+      213: -8955961723454546768
+    second: heavy_slash_0_miasma_000
+  - first:
+      213: -8901227413029647214
+    second: heavy_slash_0_miasma_001
+  - first:
+      213: -9039770483873444089
+    second: heavy_slash_0_miasma_002
+  - first:
+      213: 7125579934437640963
+    second: heavy_slash_0_miasma_003
+  - first:
+      213: -3525239071592247292
+    second: heavy_slash_0_miasma_004
+  - first:
+      213: 9166382716179984267
+    second: heavy_slash_0_miasma_005
+  - first:
+      213: -57492974513959017
+    second: heavy_slash_0_miasma_006
+  - first:
+      213: -4492704582500394066
+    second: heavy_slash_0_miasma_007
+  - first:
+      213: -8543627354447179242
+    second: heavy_slash_0_miasma_008
+  - first:
+      213: 7316094928977688556
+    second: heavy_slash_0_miasma_009
+  - first:
+      213: -8329182192827745706
+    second: heavy_slash_0_miasma_010
+  - first:
+      213: -4010190765764632637
+    second: heavy_slash_0_miasma_011
+  - first:
+      213: 1144533608631907722
+    second: heavy_slash_0_miasma_012
+  - first:
+      213: 1360353478738975465
+    second: heavy_slash_0_miasma_013
+  - first:
+      213: 669608708467004092
+    second: heavy_slash_0_miasma_014
+  - first:
+      213: -7265828367431833218
+    second: heavy_slash_0_miasma_015
+  - first:
+      213: -1721529672965722805
+    second: heavy_slash_0_miasma_016
+  - first:
+      213: 3450278836316428440
+    second: heavy_slash_0_miasma_017
+  - first:
+      213: 3475500889722740150
+    second: heavy_slash_0_miasma_018
+  - first:
+      213: -4389460869015714235
+    second: heavy_slash_0_miasma_019
+  - first:
+      213: -6807577519064868122
+    second: heavy_slash_0_miasma_020
+  - first:
+      213: 2118976910717022397
+    second: heavy_slash_0_miasma_021
+  - first:
+      213: -118042422834503018
+    second: heavy_slash_0_miasma_022
+  - first:
+      213: -5105722174001347282
+    second: heavy_slash_0_miasma_023
+  - first:
+      213: -8465029552200540297
+    second: heavy_slash_0_miasma_024
+  - first:
+      213: 5326775567269208492
+    second: heavy_slash_0_miasma_025
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_000
+      rect:
+        serializedVersion: 2
+        x: 54.026752
+        y: 1068.0762
+        width: 23.946499
+        height: 40.876175
+      alignment: 9
+      pivot: {x: -0.1681562, y: -0.7866728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc1f73634806b380800000000000000
+      internalID: -8955961723454546768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_001
+      rect:
+        serializedVersion: 2
+        x: 252.02675
+        y: 1074.0267
+        width: 22.946499
+        height: 36.897125
+      alignment: 9
+      pivot: {x: -0.088324964, y: -1.0327833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c066d14dc787480800000000000000
+      internalID: -8901227413029647214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_002
+      rect:
+        serializedVersion: 2
+        x: 450.02676
+        y: 1070.013
+        width: 24.89713
+        height: 40.974182
+      alignment: 9
+      pivot: {x: -0.00107498, y: -0.8320591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f89a1c3a84c8280800000000000000
+      internalID: -9039770483873444089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_003
+      rect:
+        serializedVersion: 2
+        x: 637.1089
+        y: 1076.0762
+        width: 29.864365
+        height: 31.847748
+      alignment: 9
+      pivot: {x: 0.43165538, y: -1.2608795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b8eca823523e260800000000000000
+      internalID: 7125579934437640963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_004
+      rect:
+        serializedVersion: 2
+        x: 845.02673
+        y: 1073.0363
+        width: 29.919117
+        height: 35.88759
+      alignment: 9
+      pivot: {x: 0.1662237, y: -1.0342366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009a6dedb5d31fc0800000000000000
+      internalID: -3525239071592247292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_005
+      rect:
+        serializedVersion: 2
+        x: 1053.0267
+        y: 1056.043
+        width: 31.946499
+        height: 41.930344
+      alignment: 9
+      pivot: {x: -0.094743825, y: -0.47991428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2039c388853f70800000000000000
+      internalID: 9166382716179984267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_006
+      rect:
+        serializedVersion: 2
+        x: 31.07612
+        y: 808.0761
+        width: 57.912766
+        height: 48.909203
+      alignment: 9
+      pivot: {x: 0.32676527, y: -0.044083986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc30db17eb33ff0800000000000000
+      internalID: -57492974513959017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_007
+      rect:
+        serializedVersion: 2
+        x: 202.02675
+        y: 809.0761
+        width: 88.91912
+        height: 49.847755
+      alignment: 9
+      pivot: {x: 0.53951555, y: -0.06331504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5b4f4cf4b6a1c0800000000000000
+      internalID: -4492704582500394066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_008
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 813.0429
+        width: 93.92388
+        height: 46.880966
+      alignment: 9
+      pivot: {x: 0.53234595, y: -0.15193607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129ddcef20fe6980800000000000000
+      internalID: -8543627354447179242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_009
+      rect:
+        serializedVersion: 2
+        x: 616.0477
+        y: 825.0761
+        width: 79.876175
+        height: 49.880966
+      alignment: 9
+      pivot: {x: 0.4250613, y: -0.3840365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce770c8539df78560800000000000000
+      internalID: 7316094928977688556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_010
+      rect:
+        serializedVersion: 2
+        x: 826.05133
+        y: 826.0761
+        width: 70.87257
+        height: 59.847748
+      alignment: 9
+      pivot: {x: 0.3379117, y: -0.33678982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a3efeececc86c80800000000000000
+      internalID: -8329182192827745706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_011
+      rect:
+        serializedVersion: 2
+        x: 1020.0429
+        y: 790.02673
+        width: 157.93034
+        height: 122.93034
+      alignment: 9
+      pivot: {x: 0.18968548, y: 0.12928675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf1c05deb0f858c0800000000000000
+      internalID: -4010190765764632637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_012
+      rect:
+        serializedVersion: 2
+        x: 30.07612
+        y: 518.02673
+        width: 159.84775
+        height: 168.9465
+      alignment: 9
+      pivot: {x: 0.12464286, y: 0.34267217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853008c04332ef00800000000000000
+      internalID: 1144533608631907722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_013
+      rect:
+        serializedVersion: 2
+        x: 281.0761
+        y: 514.0429
+        width: 112.86416
+        height: 166.93034
+      alignment: 9
+      pivot: {x: -0.27534083, y: 0.3706761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea143d0842f0e210800000000000000
+      internalID: 1360353478738975465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_014
+      rect:
+        serializedVersion: 2
+        x: 457.14935
+        y: 515.02673
+        width: 142.80774
+        height: 132.89713
+      alignment: 9
+      pivot: {x: -0.050062783, y: 0.45819852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb21fa6929dea4900800000000000000
+      internalID: 669608708467004092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_015
+      rect:
+        serializedVersion: 2
+        x: 626.0761
+        y: 511.06464
+        width: 169.84775
+        height: 138.85925
+      alignment: 9
+      pivot: {x: 0.14085491, y: 0.46705827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e44888979a2b90800000000000000
+      internalID: -7265828367431833218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_016
+      rect:
+        serializedVersion: 2
+        x: 820.01294
+        y: 515.0761
+        width: 174.94418
+        height: 129.84775
+      alignment: 9
+      pivot: {x: 0.17140931, y: 0.4685787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d659c22e5eb18e0800000000000000
+      internalID: -1721529672965722805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_017
+      rect:
+        serializedVersion: 2
+        x: 1015.01294
+        y: 518.0761
+        width: 170.91096
+        height: 107.910965
+      alignment: 9
+      pivot: {x: 0.20470928, y: 0.53603345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89850be325ad1ef20800000000000000
+      internalID: 3450278836316428440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_018
+      rect:
+        serializedVersion: 2
+        x: 10.033501
+        y: 288.0129
+        width: 161.89038
+        height: 107.97418
+      alignment: 9
+      pivot: {x: 0.24687384, y: 0.53630495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd5a7c25a57b3030800000000000000
+      internalID: 3475500889722740150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_019
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 291.0761
+        width: 118.98709
+        height: 110.88713
+      alignment: 9
+      pivot: {x: 0.42021364, y: 0.49459198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54647d298908513c0800000000000000
+      internalID: -4389460869015714235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_020
+      rect:
+        serializedVersion: 2
+        x: 400.0429
+        y: 352
+        width: 38.94418
+        height: 59.97325
+      alignment: 9
+      pivot: {x: 1.2827871, y: -0.10137856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea14338050a681a0800000000000000
+      internalID: -6807577519064868122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_021
+      rect:
+        serializedVersion: 2
+        x: 607.0761
+        y: 355.0761
+        width: 43.90409
+        height: 56.847755
+      alignment: 9
+      pivot: {x: 0.977674, y: -0.16106375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0fa82064e186d10800000000000000
+      internalID: 2118976910717022397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_022
+      rect:
+        serializedVersion: 2
+        x: 811.02673
+        y: 357.0761
+        width: 48.897125
+        height: 68.867516
+      alignment: 9
+      pivot: {x: 0.7970462, y: -0.16199383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692e586ba01ac5ef0800000000000000
+      internalID: -118042422834503018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_023
+      rect:
+        serializedVersion: 2
+        x: 1011.0761
+        y: 361.0761
+        width: 55.897133
+        height: 64.897125
+      alignment: 9
+      pivot: {x: 0.6963486, y: -0.23354058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2580d8ebb4d429b0800000000000000
+      internalID: -5105722174001347282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_024
+      rect:
+        serializedVersion: 2
+        x: 11.012913
+        y: 132.07613
+        width: 64.96034
+        height: 64.897125
+      alignment: 9
+      pivot: {x: 0.6001675, y: -0.24894983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f17efc87c268a80800000000000000
+      internalID: -8465029552200540297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_miasma_025
+      rect:
+        serializedVersion: 2
+        x: 211.07613
+        y: 132.01291
+        width: 66.89713
+        height: 63.910965
+      alignment: 9
+      pivot: {x: 0.58184665, y: -0.25180203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1af4de7228ce940800000000000000
+      internalID: 5326775567269208492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heavy_slash_0_miasma_0: -1753220939809959003
+      heavy_slash_0_miasma_000: -8955961723454546768
+      heavy_slash_0_miasma_001: -8901227413029647214
+      heavy_slash_0_miasma_002: -9039770483873444089
+      heavy_slash_0_miasma_003: 7125579934437640963
+      heavy_slash_0_miasma_004: -3525239071592247292
+      heavy_slash_0_miasma_005: 9166382716179984267
+      heavy_slash_0_miasma_006: -57492974513959017
+      heavy_slash_0_miasma_007: -4492704582500394066
+      heavy_slash_0_miasma_008: -8543627354447179242
+      heavy_slash_0_miasma_009: 7316094928977688556
+      heavy_slash_0_miasma_010: -8329182192827745706
+      heavy_slash_0_miasma_011: -4010190765764632637
+      heavy_slash_0_miasma_012: 1144533608631907722
+      heavy_slash_0_miasma_013: 1360353478738975465
+      heavy_slash_0_miasma_014: 669608708467004092
+      heavy_slash_0_miasma_015: -7265828367431833218
+      heavy_slash_0_miasma_016: -1721529672965722805
+      heavy_slash_0_miasma_017: 3450278836316428440
+      heavy_slash_0_miasma_018: 3475500889722740150
+      heavy_slash_0_miasma_019: -4389460869015714235
+      heavy_slash_0_miasma_020: -6807577519064868122
+      heavy_slash_0_miasma_021: 2118976910717022397
+      heavy_slash_0_miasma_022: -118042422834503018
+      heavy_slash_0_miasma_023: -5105722174001347282
+      heavy_slash_0_miasma_024: -8465029552200540297
+      heavy_slash_0_miasma_025: 5326775567269208492
+      heavy_slash_0_miasma_1: -303520086806767468
+      heavy_slash_0_miasma_10: 1965742477791391537
+      heavy_slash_0_miasma_100: 4265014523121133620
+      heavy_slash_0_miasma_101: -4970007980555290911
+      heavy_slash_0_miasma_102: 1233778444877104749
+      heavy_slash_0_miasma_103: 8641869491777972250
+      heavy_slash_0_miasma_104: 3527012069530998019
+      heavy_slash_0_miasma_105: 7906117395491016428
+      heavy_slash_0_miasma_106: -6057476541626956558
+      heavy_slash_0_miasma_107: 9065331152642487986
+      heavy_slash_0_miasma_108: -4656022856452007772
+      heavy_slash_0_miasma_109: -8972481559327687939
+      heavy_slash_0_miasma_11: -487866945796916294
+      heavy_slash_0_miasma_110: 353247822712699972
+      heavy_slash_0_miasma_111: 8763746515441775413
+      heavy_slash_0_miasma_112: -4028297198807463829
+      heavy_slash_0_miasma_113: 3568880819593502565
+      heavy_slash_0_miasma_114: 5592395463084725459
+      heavy_slash_0_miasma_115: -7787775430574226813
+      heavy_slash_0_miasma_116: 4828146845028105949
+      heavy_slash_0_miasma_117: 4449928922083408995
+      heavy_slash_0_miasma_118: 9083313744681778872
+      heavy_slash_0_miasma_119: -6528409549106319546
+      heavy_slash_0_miasma_12: -1500101155172252318
+      heavy_slash_0_miasma_120: -3554330125705799383
+      heavy_slash_0_miasma_121: -7461422875525698190
+      heavy_slash_0_miasma_122: -6655280860628872512
+      heavy_slash_0_miasma_123: -4150293363578264844
+      heavy_slash_0_miasma_124: -1446451846060651735
+      heavy_slash_0_miasma_125: 3635901310609752041
+      heavy_slash_0_miasma_126: -7710320837651905889
+      heavy_slash_0_miasma_127: -6573420111233623069
+      heavy_slash_0_miasma_128: -153371566372031627
+      heavy_slash_0_miasma_129: 4573364764750490398
+      heavy_slash_0_miasma_13: -1102310319245165031
+      heavy_slash_0_miasma_130: 2402096539877113750
+      heavy_slash_0_miasma_131: 737335787842064263
+      heavy_slash_0_miasma_132: 7917483710681420155
+      heavy_slash_0_miasma_133: -93326977372717837
+      heavy_slash_0_miasma_134: -5400560800673906058
+      heavy_slash_0_miasma_135: -5082035085879978979
+      heavy_slash_0_miasma_136: 3379275850818597027
+      heavy_slash_0_miasma_14: -3331025993195352336
+      heavy_slash_0_miasma_15: -3980841696139663596
+      heavy_slash_0_miasma_16: -8819482325294352160
+      heavy_slash_0_miasma_17: 7597687541127871705
+      heavy_slash_0_miasma_18: -951883249571229589
+      heavy_slash_0_miasma_19: -1128008226730026627
+      heavy_slash_0_miasma_2: -2330857888831026952
+      heavy_slash_0_miasma_20: 8021887052833419070
+      heavy_slash_0_miasma_21: -3685376693625767551
+      heavy_slash_0_miasma_22: -6292150231913595859
+      heavy_slash_0_miasma_23: -1651145475954355677
+      heavy_slash_0_miasma_24: 1350415061720774155
+      heavy_slash_0_miasma_25: 3399046530684645208
+      heavy_slash_0_miasma_26: 6197243685177431165
+      heavy_slash_0_miasma_27: 1417109851265517624
+      heavy_slash_0_miasma_28: -3906967532249696439
+      heavy_slash_0_miasma_29: 3493924124501854789
+      heavy_slash_0_miasma_3: 5481094732042613836
+      heavy_slash_0_miasma_30: -3483828210230982656
+      heavy_slash_0_miasma_31: 736346423472084195
+      heavy_slash_0_miasma_32: 1206796511957158566
+      heavy_slash_0_miasma_33: -846413233381580725
+      heavy_slash_0_miasma_34: 7219652457344938661
+      heavy_slash_0_miasma_35: 5772293161998802271
+      heavy_slash_0_miasma_36: -2915387934203417689
+      heavy_slash_0_miasma_37: -1138848473255910026
+      heavy_slash_0_miasma_38: 6577551721735766842
+      heavy_slash_0_miasma_39: 9065721088050304644
+      heavy_slash_0_miasma_4: -149848253232249166
+      heavy_slash_0_miasma_40: 3860689824562350911
+      heavy_slash_0_miasma_41: -2280668203796981769
+      heavy_slash_0_miasma_42: 6367083434280679558
+      heavy_slash_0_miasma_43: -5084426277882460304
+      heavy_slash_0_miasma_44: 3736384198311484632
+      heavy_slash_0_miasma_45: 51850537643880033
+      heavy_slash_0_miasma_46: 7751376614080176714
+      heavy_slash_0_miasma_47: -1755656292444289752
+      heavy_slash_0_miasma_48: 7309845523884359876
+      heavy_slash_0_miasma_49: -389118922670390142
+      heavy_slash_0_miasma_5: -6479176015706432323
+      heavy_slash_0_miasma_50: 3988275090517713169
+      heavy_slash_0_miasma_51: 3390689311656855798
+      heavy_slash_0_miasma_52: 1182161297503528205
+      heavy_slash_0_miasma_53: 3407645970012458305
+      heavy_slash_0_miasma_54: -5001796685358586191
+      heavy_slash_0_miasma_55: -75506183991681249
+      heavy_slash_0_miasma_56: -6266118411139536117
+      heavy_slash_0_miasma_57: -4976909201301341893
+      heavy_slash_0_miasma_58: -297239422861561409
+      heavy_slash_0_miasma_59: -3740819182273883126
+      heavy_slash_0_miasma_6: -7975978664003404429
+      heavy_slash_0_miasma_60: 7002877472186550648
+      heavy_slash_0_miasma_61: -1856134312477369935
+      heavy_slash_0_miasma_62: -8773542728098046311
+      heavy_slash_0_miasma_63: -3584736047620907450
+      heavy_slash_0_miasma_64: 6214851468787501413
+      heavy_slash_0_miasma_65: -3143416316918346015
+      heavy_slash_0_miasma_66: -818648639722041043
+      heavy_slash_0_miasma_67: 651192280642811733
+      heavy_slash_0_miasma_68: -8982386173298037648
+      heavy_slash_0_miasma_69: 6785914053277246667
+      heavy_slash_0_miasma_7: 4446233101049817290
+      heavy_slash_0_miasma_70: 7298486175402731587
+      heavy_slash_0_miasma_71: 431985167533746801
+      heavy_slash_0_miasma_72: 7034467077769446901
+      heavy_slash_0_miasma_73: 1734826229589404868
+      heavy_slash_0_miasma_74: -2103857339971549501
+      heavy_slash_0_miasma_75: -8453855868466992577
+      heavy_slash_0_miasma_76: -4777910586003343895
+      heavy_slash_0_miasma_77: -8295272582569439819
+      heavy_slash_0_miasma_78: -6149015879890929153
+      heavy_slash_0_miasma_79: 4751321375451667249
+      heavy_slash_0_miasma_8: -193520757255565981
+      heavy_slash_0_miasma_80: -4611376482810496809
+      heavy_slash_0_miasma_81: 6423668457280036136
+      heavy_slash_0_miasma_82: 8865291714816831868
+      heavy_slash_0_miasma_83: 3565880593978224894
+      heavy_slash_0_miasma_84: -7531292534232604546
+      heavy_slash_0_miasma_85: 8952880497554834521
+      heavy_slash_0_miasma_86: -226978027702734276
+      heavy_slash_0_miasma_87: -3381842044582569593
+      heavy_slash_0_miasma_88: -8029412945871243479
+      heavy_slash_0_miasma_89: -4164436397088894038
+      heavy_slash_0_miasma_9: 5952176587521709410
+      heavy_slash_0_miasma_90: 1639948325425200320
+      heavy_slash_0_miasma_91: -5493946407541629625
+      heavy_slash_0_miasma_92: 8662598477863646464
+      heavy_slash_0_miasma_93: 8004924682823484832
+      heavy_slash_0_miasma_94: 1966330695061489804
+      heavy_slash_0_miasma_95: 8198316670502530784
+      heavy_slash_0_miasma_96: -896821641625014112
+      heavy_slash_0_miasma_97: 4546592195538437959
+      heavy_slash_0_miasma_98: 1725096026181278960
+      heavy_slash_0_miasma_99: 2576845767686470276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

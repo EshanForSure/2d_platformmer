@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: aee6f187dd22679a12d4c3551ef1b447
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 79
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3478261, y: -0.00050632865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df954652cc87eb8c611c8ca0da8fa69b
+      internalID: 7850649911749672510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 158
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3478261, y: -0.00050632865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31fd3860783cfc69dd2b6ebd43c0008
+      internalID: 2372061771499785461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 47
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3617021, y: -0.00050632865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75265d5e4560c05974aa0bf192563d1a
+      internalID: 3687153860006334778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 47
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3617021, y: -0.00050632865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc863dfd407b4e8a1c9c0361ea3f3f80
+      internalID: 3564093170311270184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 47
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3617021, y: -0.00050632865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac755d8761fd0526ec599c0e43b5b2
+      internalID: -8039229245716004115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 46
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3478261, y: -0.00050632865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7fb76b30522014a68b0156ee2ddc5
+      internalID: 2256817278163525820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3877551, y: -0.013164557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc1862b50d1c4e5e222077b3ddbe64
+      internalID: 7900620215489864585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 48
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45833334, y: -0.040533334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be202e6810520b5f7638f25bd0abf9d
+      internalID: -5621907182856359825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 68
+        width: 47
+        height: 61
+      alignment: 9
+      pivot: {x: 0.3617021, y: -0.19737706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ada44179dfebe009d82e76ea9948c
+      internalID: -7304056045030869849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 46
+        height: 54
+      alignment: 9
+      pivot: {x: 0.32608697, y: -0.24148148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4dd151ea2ca01bd01ac466521e2ce9
+      internalID: 3511668386541598647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 49
+        height: 57
+      alignment: 9
+      pivot: {x: 0.3877551, y: -0.21122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d14ad32b00d74e2833108ed0edbc9
+      internalID: -6669859660835237700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 48
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4375, y: -0.059411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0669a6f0cabf5dc19844f78c69779f
+      internalID: 9205448512425876904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55813956, y: -0.01368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45d280071b27e6e34d4e8a5afa959c
+      internalID: -7815345347950112572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55813956, y: -0.01368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9c3e4f49e3ff6386c1875e5268c6a6
+      internalID: 5343789757731111626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 75
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55813956, y: -0.01368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876d10867ef2d88241b3bf83b62fd42e
+      internalID: -3519232026771564247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 151
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55813956, y: -0.01368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c414d59db4ae3db54edcb5469be9da
+      internalID: -3003109159351259264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55813956, y: -0.01368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988a3f9eb32c32e883f13036f81cab8
+      internalID: 6598403484970034541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 76
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55813956, y: -0.01368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871c0dacd9e42ae61c5752238b9b0833
+      internalID: 7521729138541760187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 57
+        width: 44
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3409091, y: -0.0006451607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41132a083c3c75b423d5441adf8d63be
+      internalID: -3086891251634938593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 190
+        width: 38
+        height: 65
+      alignment: 9
+      pivot: {x: 0.36842105, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0ccbd75c8d75032a771db74c8f347
+      internalID: 1763883699131315795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 119
+        width: 38
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4473684, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217a3a7ccc88d83e62f4e518e752778
+      internalID: -5479478413977292956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 152
+        width: 38
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5263158, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dedb8574fee08b880157f425b4a29f
+      internalID: -1454128450627737176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 129
+        width: 38
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6052632, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad03a4e150922e064b3d4e81a93b1f4
+      internalID: -4772791971228743717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6486486, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41fd7fb39881f7ac1ccf3976f30bfb
+      internalID: 6452453563619188232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee72c086abb57d2b14f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_0: 7850649911749672510
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_1: 2372061771499785461
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_10: -6669859660835237700
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_11: 9205448512425876904
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_12: -7815345347950112572
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_13: 5343789757731111626
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_14: -3519232026771564247
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_15: -3003109159351259264
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_16: 6598403484970034541
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_17: 7521729138541760187
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_18: -3086891251634938593
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_19: 1763883699131315795
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_2: 3687153860006334778
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_20: -5479478413977292956
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_21: -1454128450627737176
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_22: -4772791971228743717
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_23: 6452453563619188232
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_3: 3564093170311270184
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_4: -8039229245716004115
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_5: 2256817278163525820
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_6: 7900620215489864585
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_7: -5621907182856359825
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_8: -7304056045030869849
+      TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_9: 3511668386541598647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

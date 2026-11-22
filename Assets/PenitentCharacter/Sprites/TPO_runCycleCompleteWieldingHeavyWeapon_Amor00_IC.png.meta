@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: d906a89ca7902c06848f9908b781d0ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 357
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d3862a9779889b80889d42b53e082
+      internalID: -3996275610256586915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 136
+        width: 35
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e95bcf2b4a20679c85f4ca9483445
+      internalID: 5197210720753614541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 433
+        width: 37
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9484647b934229835b8a6608e00ea1c5
+      internalID: 4584926076686282254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 70
+        width: 38
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b22ee94feb7b6f4552ca0bfeed223c
+      internalID: -762574508568312728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 70
+        width: 41
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce09adf0ee9712d3d7078fb8ecd448
+      internalID: -5780426424109368509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 70
+        width: 42
+        height: 63
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe69af9d76e579cd201319a6556782a
+      internalID: 7658090293496403269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 273
+        width: 46
+        height: 65
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfaa7a0461baf609c1242eedea390b0
+      internalID: -7951378320676122303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 70
+        width: 44
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45454547, y: -0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a3b0831a2245b5d2270faee3aa467f
+      internalID: 6308859234632134348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d223e036b5177608c9b928896dfc7
+      internalID: -6406409097774994759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 49
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07699de7473e0dfe4ddf6a2718940841
+      internalID: -4155360665845861400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 49
+        height: 69
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e301e0c15c62686f2cbff8086bbcd4b
+      internalID: 5191382242146836018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 50
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc38f7d543ab34944d27f6f2dd8b37
+      internalID: -2505349319021998575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 51
+        height: 69
+      alignment: 9
+      pivot: {x: 0.43137255, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2e873c8126f87a65ab0fe9d2826bc
+      internalID: -5247253164234817410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 51
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7424198151f936c70180f71ccaf76
+      internalID: 6781514100029669249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: 0.40384614, y: -0.014285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec8c3cd0200401809c5b0e4033ebb2
+      internalID: 450734163985312162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 56
+        height: 68
+      alignment: 9
+      pivot: {x: 0.42857143, y: -0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240af9ffa0c5e1b76b88ebb087088ad3
+      internalID: 931613910869664782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 57
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a534b7d7eaed4c4bf0a93e704aa0e910
+      internalID: -3935270171549228226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5da3e6be2cef49289b06d0c12e3eb3
+      internalID: 1263739192858042606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42592594, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7469cbc24a92b10638f1389f279d9fa
+      internalID: 2429832621065033094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 53
+        height: 70
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a2d1b13e7b97b65fbae304477fd5b
+      internalID: 595334464359288924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 52
+        height: 71
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f81da2a0f67f401cb7ae898962ba3
+      internalID: 5332653876742205468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 50
+        height: 71
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eec88d66266840b08a61bc541484f2
+      internalID: -3946565184035986584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: -0.014285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0339352f3df458f2d1b92a5ad960e7
+      internalID: -6738600682744345688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 50
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44, y: -0.04411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30a52c877e46610f83d1e6d88aa01f
+      internalID: -8609741680182401185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 51
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c601fcfe852a7c6a41365d0c8cc2ded
+      internalID: -8618822586701676506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 206
+        width: 45
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc696c78fb039acd0e58152b167325
+      internalID: 6640331273017037436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 141
+        width: 48
+        height: 65
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9334fe883179bb9f0fe6a4aa63875b
+      internalID: 7753554659174724754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 338
+        width: 46
+        height: 65
+      alignment: 9
+      pivot: {x: 0.2826087, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a6c85e70d48980a371f519a153652
+      internalID: 2395150379864685329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 403
+        width: 46
+        height: 65
+      alignment: 9
+      pivot: {x: 0.32608697, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c70e9132ed2cc3b6979c188e54475
+      internalID: 1166831254047811252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 43
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3488372, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2a055361ef7b3cadfbf20ec7b832c
+      internalID: 2424132281428194053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 42
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d627bc56b55c4735ded27d2daf329c6
+      internalID: 1842894632772983147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 136
+        width: 40
+        height: 71
+      alignment: 9
+      pivot: {x: 0.425, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb9225240a40652b873c288de860cb
+      internalID: -3197325323596894477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 283
+        width: 38
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e862d8297c625b8e868bf444c463e1
+      internalID: 1162296966961655517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 35
+        height: 74
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0b241dca69cbeaa91a815d92e95b5
+      internalID: -6804332594976260011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 207
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a7c22abd61eb0cf36b49ebaa55a9b3
+      internalID: -4420389662716560865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee72c086abb57d2b14f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_0: -3996275610256586915
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_1: 5197210720753614541
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_10: 5191382242146836018
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_11: -2505349319021998575
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_12: -5247253164234817410
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_13: 6781514100029669249
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_14: 450734163985312162
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_15: 931613910869664782
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_16: -3935270171549228226
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_17: 1263739192858042606
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_18: 2429832621065033094
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_19: 595334464359288924
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_2: 4584926076686282254
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_20: 5332653876742205468
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_21: -3946565184035986584
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_22: -6738600682744345688
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_23: -8609741680182401185
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_24: -8618822586701676506
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_25: 6640331273017037436
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_26: 7753554659174724754
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_27: 2395150379864685329
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_28: 1166831254047811252
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_29: 2424132281428194053
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_3: -762574508568312728
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_30: 1842894632772983147
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_31: -3197325323596894477
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_32: 1162296966961655517
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_33: -6804332594976260011
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_34: -4420389662716560865
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_4: -5780426424109368509
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_5: 7658090293496403269
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_6: -7951378320676122303
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_7: 6308859234632134348
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_8: -6406409097774994759
+      TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_9: -4155360665845861400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

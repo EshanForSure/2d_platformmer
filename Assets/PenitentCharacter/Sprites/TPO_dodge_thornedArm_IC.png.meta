@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 48e4211fa5f859c99bbd2beeb2eead3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 876006845345104043
+    second: TPO_dodge_thornedArm_0
+  - first:
+      213: 4842408517824419581
+    second: TPO_dodge_thornedArm_1
+  - first:
+      213: 4370535082774314940
+    second: TPO_dodge_thornedArm_2
+  - first:
+      213: 1807095988750378777
+    second: TPO_dodge_thornedArm_3
+  - first:
+      213: 7182198704792300096
+    second: TPO_dodge_thornedArm_4
+  - first:
+      213: 1594619838695766067
+    second: TPO_dodge_thornedArm_5
+  - first:
+      213: 2297202682770527163
+    second: TPO_dodge_thornedArm_6
+  - first:
+      213: 663882871461986059
+    second: TPO_dodge_thornedArm_7
+  - first:
+      213: 2675500904896690140
+    second: TPO_dodge_thornedArm_8
+  - first:
+      213: 1428439244221236723
+    second: TPO_dodge_thornedArm_9
+  - first:
+      213: 1957064261618555010
+    second: TPO_dodge_thornedArm_10
+  - first:
+      213: 2821606847284366883
+    second: TPO_dodge_thornedArm_11
+  - first:
+      213: 1454948927565589659
+    second: TPO_dodge_thornedArm_12
+  - first:
+      213: 179337622513237733
+    second: TPO_dodge_thornedArm_13
+  - first:
+      213: 8616913940669603951
+    second: TPO_dodge_thornedArm_14
+  - first:
+      213: 4442114405863644597
+    second: TPO_dodge_thornedArm_15
+  - first:
+      213: 282924841087020109
+    second: TPO_dodge_thornedArm_16
+  - first:
+      213: 6451423602611893699
+    second: TPO_dodge_thornedArm_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 256
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6388889, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8b8ef4b7c840548583734e9a43c9a8
+      internalID: 876006845345104043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 149
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.6415094, y: -0.00076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf74624a76141f08e64d4c67c83ef94
+      internalID: 4842408517824419581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 149
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.61290324, y: 0.0192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab61c9c543b461c8d29fe94901455c1
+      internalID: 4370535082774314940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.47297296, y: 0.0592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962c638afd374854983ba45eb28d7aa2
+      internalID: 1807095988750378777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.47297296, y: 0.0592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637ffeaa40fe45f9b873c0b9668b2715
+      internalID: 7182198704792300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.47297296, y: 0.0592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a0a25c3dbb47039fa3cfe2132832a1
+      internalID: 1594619838695766067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.47297296, y: 0.0592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67616d4973884197bb8384aeadc014eb
+      internalID: 2297202682770527163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.47297296, y: 0.0592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844c209d0004c298e10479a77b0d5d4
+      internalID: 663882871461986059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 50
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.47297296, y: 0.0592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0cd46a9f4340769097bcbf789b21d3
+      internalID: 2675500904896690140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9406fa5eaa94e08b9ff44cb4d951052
+      internalID: 1428439244221236723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0.57746476, y: 0.019591838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9046c26046b242d0ad1d4b95d525fa30
+      internalID: 1957064261618555010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0.59090906, y: 0.018113209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462b58e9d2340febea36c707289ed61
+      internalID: 2821606847284366883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.6333333, y: 0.036296297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365c756bab0247158a5080f5a8d118e5
+      internalID: 1454948927565589659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.6666667, y: 0.035636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee8b0a2209409bb8b284f4acd4244c
+      internalID: 179337622513237733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.7254902, y: 0.016551726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c2d124df545029c4dc11b13c93255
+      internalID: 8616913940669603951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.6666667, y: -0.00067796547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa98cbabd24075bb72b71eb0297600
+      internalID: 4442114405863644597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 256
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.57894737, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad089e0348d4aed88f668f9b7cba3d6
+      internalID: 282924841087020109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_dodge_thornedArm_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6486486, y: -0.0005263153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b883e45403b248939bac04315b0f96bf
+      internalID: 6451423602611893699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TPO_dodge_thornedArm_0: 876006845345104043
+      TPO_dodge_thornedArm_1: 4842408517824419581
+      TPO_dodge_thornedArm_2: 4370535082774314940
+      TPO_dodge_thornedArm_3: 1807095988750378777
+      TPO_dodge_thornedArm_4: 7182198704792300096
+      TPO_dodge_thornedArm_5: 1594619838695766067
+      TPO_dodge_thornedArm_6: 2297202682770527163
+      TPO_dodge_thornedArm_7: 663882871461986059
+      TPO_dodge_thornedArm_8: 2675500904896690140
+      TPO_dodge_thornedArm_9: 1428439244221236723
+      TPO_dodge_thornedArm_10: 1957064261618555010
+      TPO_dodge_thornedArm_11: 2821606847284366883
+      TPO_dodge_thornedArm_12: 1454948927565589659
+      TPO_dodge_thornedArm_13: 179337622513237733
+      TPO_dodge_thornedArm_14: 8616913940669603951
+      TPO_dodge_thornedArm_15: 4442114405863644597
+      TPO_dodge_thornedArm_16: 282924841087020109
+      TPO_dodge_thornedArm_17: 6451423602611893699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

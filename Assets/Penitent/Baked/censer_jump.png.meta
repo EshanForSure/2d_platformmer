@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: a97cad15f636c654a872062914d047ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6139897832227416675
+    second: censer_jump_0
+  - first:
+      213: 2260151840609871405
+    second: censer_jump_1
+  - first:
+      213: -807508556823740133
+    second: censer_jump_2
+  - first:
+      213: 5512902499921924773
+    second: censer_jump_3
+  - first:
+      213: 6438767005910251015
+    second: censer_jump_4
+  - first:
+      213: -530740611255808047
+    second: censer_jump_5
+  - first:
+      213: -5724609971890702409
+    second: censer_jump_6
+  - first:
+      213: 8427828196999525977
+    second: censer_jump_7
+  - first:
+      213: 271789155705054970
+    second: censer_jump_8
+  - first:
+      213: -6169293865848678795
+    second: censer_jump_9
+  - first:
+      213: 1954117559096473061
+    second: censer_jump_10
+  - first:
+      213: 433272163520783474
+    second: censer_jump_11
+  - first:
+      213: -2501054910030697282
+    second: censer_jump_12
+  - first:
+      213: -4740727254702511312
+    second: censer_jump_13
+  - first:
+      213: -6328176233702324912
+    second: censer_jump_14
+  - first:
+      213: -5053032821457266389
+    second: censer_jump_15
+  - first:
+      213: 3267892628952402506
+    second: censer_jump_16
+  - first:
+      213: 5352896316406398950
+    second: censer_jump_17
+  - first:
+      213: -9094612996322589731
+    second: censer_jump_18
+  - first:
+      213: -5582261987761734606
+    second: censer_jump_19
+  - first:
+      213: 9008816120494345399
+    second: censer_jump_20
+  - first:
+      213: -2689973261056122595
+    second: censer_jump_21
+  - first:
+      213: 7061195910929946205
+    second: censer_jump_22
+  - first:
+      213: 7342379848691134043
+    second: censer_jump_23
+  - first:
+      213: -7507695727129924269
+    second: censer_jump_24
+  - first:
+      213: 1191235676468882222
+    second: censer_jump_25
+  - first:
+      213: 6246209074188800994
+    second: censer_jump_26
+  - first:
+      213: -1247002903028962534
+    second: censer_jump_27
+  - first:
+      213: -2698202630749465102
+    second: censer_jump_28
+  - first:
+      213: 960616479041300000
+    second: censer_jump_29
+  - first:
+      213: -859164412791491123
+    second: censer_jump_30
+  - first:
+      213: -3928737809982450071
+    second: censer_jump_31
+  - first:
+      213: 7275368498953079518
+    second: censer_jump_32
+  - first:
+      213: 8119009918459570910
+    second: censer_jump_33
+  - first:
+      213: -2682278688924164699
+    second: censer_jump_34
+  - first:
+      213: 8117940407660051146
+    second: censer_jump_35
+  - first:
+      213: 4254616718369624411
+    second: censer_jump_36
+  - first:
+      213: 5091345155183015260
+    second: censer_jump_37
+  - first:
+      213: 3919624923198535140
+    second: censer_jump_38
+  - first:
+      213: 110711984599628845
+    second: censer_jump_39
+  - first:
+      213: -8647926356251690832
+    second: censer_jump_40
+  - first:
+      213: -6793349083265403111
+    second: censer_jump_41
+  - first:
+      213: 1192004674034823868
+    second: censer_jump_42
+  - first:
+      213: -9165353719839293102
+    second: censer_jump_43
+  - first:
+      213: -487836621008047373
+    second: censer_jump_44
+  - first:
+      213: 6526810791983762635
+    second: censer_jump_45
+  - first:
+      213: 3136088108616825418
+    second: censer_jump_46
+  - first:
+      213: 7720320651965166317
+    second: censer_jump_47
+  - first:
+      213: 5511866953688234949
+    second: censer_jump_000
+  - first:
+      213: 3209549145712738323
+    second: censer_jump_001
+  - first:
+      213: -5491380715545945459
+    second: censer_jump_002
+  - first:
+      213: 4703011754865741294
+    second: censer_jump_003
+  - first:
+      213: -3011542433239396443
+    second: censer_jump_004
+  - first:
+      213: 8597730546233377494
+    second: censer_jump_005
+  - first:
+      213: -7647083477059605826
+    second: censer_jump_006
+  - first:
+      213: 8920754825710088891
+    second: censer_jump_007
+  - first:
+      213: 2463278127694196543
+    second: censer_jump_008
+  - first:
+      213: -7764811686709662266
+    second: censer_jump_009
+  - first:
+      213: 678380015711421249
+    second: censer_jump_010
+  - first:
+      213: 5773012032541641985
+    second: censer_jump_011
+  - first:
+      213: 8355097293794716396
+    second: censer_jump_012
+  - first:
+      213: -3855997443151477699
+    second: censer_jump_013
+  - first:
+      213: 5331216204330468665
+    second: censer_jump_014
+  - first:
+      213: 6727706380001737041
+    second: censer_jump_015
+  - first:
+      213: -3865766022432952939
+    second: censer_jump_016
+  - first:
+      213: 6933065788322673658
+    second: censer_jump_017
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: censer_jump_000
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 44
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3dcf8ac51e7c40800000000000000
+      internalID: 5511866953688234949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_001
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310cd5f61fb9a8c20800000000000000
+      internalID: 3209549145712738323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_002
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 82
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a14737552bac3b0800000000000000
+      internalID: -5491380715545945459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_003
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 114
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed424ff544744140800000000000000
+      internalID: 4703011754865741294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_004
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 146
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af00c0ec1ad436d0800000000000000
+      internalID: -3011542433239396443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_005
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 178
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d204ca0166415770800000000000000
+      internalID: 8597730546233377494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_006
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 210
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.75, y: -0.2825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6a16f71a10e590800000000000000
+      internalID: -7647083477059605826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_007
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 60
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7, y: -0.59407413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23dc2ff33eccb70800000000000000
+      internalID: 8920754825710088891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_008
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 82
+        width: 60
+        height: 27
+      alignment: 9
+      pivot: {x: 0.65, y: -0.85333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fa338f7625f2220800000000000000
+      internalID: 2463278127694196543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_009
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 44
+        width: 53
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7169811, y: -0.8247059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6ed129e8dd3490800000000000000
+      internalID: -7764811686709662266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_010
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.74, y: -0.71157897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430433b7071a6900800000000000000
+      internalID: 678380015711421249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d43bb5bdbdd1050800000000000000
+      internalID: 5773012032541641985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_012
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.79636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2674b8b443f370800000000000000
+      internalID: 8355097293794716396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_013
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.79636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34442261cebc7ac0800000000000000
+      internalID: -3855997443151477699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_014
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.79636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9358cef44e84cf940800000000000000
+      internalID: 5331216204330468665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_015
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.79636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f125ce4d9d5d50800000000000000
+      internalID: 6727706380001737041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.79636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59deb18c84a0a5ac0800000000000000
+      internalID: -3865766022432952939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_jump_017
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.79636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3f26df992373060800000000000000
+      internalID: 6933065788322673658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      censer_jump_0: -6139897832227416675
+      censer_jump_000: 5511866953688234949
+      censer_jump_001: 3209549145712738323
+      censer_jump_002: -5491380715545945459
+      censer_jump_003: 4703011754865741294
+      censer_jump_004: -3011542433239396443
+      censer_jump_005: 8597730546233377494
+      censer_jump_006: -7647083477059605826
+      censer_jump_007: 8920754825710088891
+      censer_jump_008: 2463278127694196543
+      censer_jump_009: -7764811686709662266
+      censer_jump_010: 678380015711421249
+      censer_jump_011: 5773012032541641985
+      censer_jump_012: 8355097293794716396
+      censer_jump_013: -3855997443151477699
+      censer_jump_014: 5331216204330468665
+      censer_jump_015: 6727706380001737041
+      censer_jump_016: -3865766022432952939
+      censer_jump_017: 6933065788322673658
+      censer_jump_1: 2260151840609871405
+      censer_jump_10: 1954117559096473061
+      censer_jump_11: 433272163520783474
+      censer_jump_12: -2501054910030697282
+      censer_jump_13: -4740727254702511312
+      censer_jump_14: -6328176233702324912
+      censer_jump_15: -5053032821457266389
+      censer_jump_16: 3267892628952402506
+      censer_jump_17: 5352896316406398950
+      censer_jump_18: -9094612996322589731
+      censer_jump_19: -5582261987761734606
+      censer_jump_2: -807508556823740133
+      censer_jump_20: 9008816120494345399
+      censer_jump_21: -2689973261056122595
+      censer_jump_22: 7061195910929946205
+      censer_jump_23: 7342379848691134043
+      censer_jump_24: -7507695727129924269
+      censer_jump_25: 1191235676468882222
+      censer_jump_26: 6246209074188800994
+      censer_jump_27: -1247002903028962534
+      censer_jump_28: -2698202630749465102
+      censer_jump_29: 960616479041300000
+      censer_jump_3: 5512902499921924773
+      censer_jump_30: -859164412791491123
+      censer_jump_31: -3928737809982450071
+      censer_jump_32: 7275368498953079518
+      censer_jump_33: 8119009918459570910
+      censer_jump_34: -2682278688924164699
+      censer_jump_35: 8117940407660051146
+      censer_jump_36: 4254616718369624411
+      censer_jump_37: 5091345155183015260
+      censer_jump_38: 3919624923198535140
+      censer_jump_39: 110711984599628845
+      censer_jump_4: 6438767005910251015
+      censer_jump_40: -8647926356251690832
+      censer_jump_41: -6793349083265403111
+      censer_jump_42: 1192004674034823868
+      censer_jump_43: -9165353719839293102
+      censer_jump_44: -487836621008047373
+      censer_jump_45: 6526810791983762635
+      censer_jump_46: 3136088108616825418
+      censer_jump_47: 7720320651965166317
+      censer_jump_5: -530740611255808047
+      censer_jump_6: -5724609971890702409
+      censer_jump_7: 8427828196999525977
+      censer_jump_8: 271789155705054970
+      censer_jump_9: -6169293865848678795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

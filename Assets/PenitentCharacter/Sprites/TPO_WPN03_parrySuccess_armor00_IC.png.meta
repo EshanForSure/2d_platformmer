@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 487adead3275530e98acb65c3e110901
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3397310709615539703
+    second: TPO_WPN03_parrySuccess_armor00_0
+  - first:
+      213: 8992291997523666849
+    second: TPO_WPN03_parrySuccess_armor00_1
+  - first:
+      213: 6068284620535713340
+    second: TPO_WPN03_parrySuccess_armor00_2
+  - first:
+      213: 8406447294479739933
+    second: TPO_WPN03_parrySuccess_armor00_3
+  - first:
+      213: 4375103205361589402
+    second: TPO_WPN03_parrySuccess_armor00_4
+  - first:
+      213: 2659762159847380211
+    second: TPO_WPN03_parrySuccess_armor00_5
+  - first:
+      213: 4601297114802574957
+    second: TPO_WPN03_parrySuccess_armor00_6
+  - first:
+      213: 7923929891533925950
+    second: TPO_WPN03_parrySuccess_armor00_7
+  - first:
+      213: 133089284484402900
+    second: TPO_WPN03_parrySuccess_armor00_8
+  - first:
+      213: 4221671560566271746
+    second: TPO_WPN03_parrySuccess_armor00_9
+  - first:
+      213: 8058447499957821103
+    second: TPO_WPN03_parrySuccess_armor00_10
+  - first:
+      213: 3869141447345906779
+    second: TPO_WPN03_parrySuccess_armor00_11
+  - first:
+      213: 6777561692701442505
+    second: TPO_WPN03_parrySuccess_armor00_12
+  - first:
+      213: 6255120496687559715
+    second: TPO_WPN03_parrySuccess_armor00_13
+  - first:
+      213: 1744976613144045055
+    second: TPO_WPN03_parrySuccess_armor00_14
+  - first:
+      213: 3972070726696206305
+    second: TPO_WPN03_parrySuccess_armor00_15
+  - first:
+      213: 650992114070042956
+    second: TPO_WPN03_parrySuccess_armor00_16
+  - first:
+      213: 3340169968323509940
+    second: TPO_WPN03_parrySuccess_armor00_17
+  - first:
+      213: 8282363832180939619
+    second: TPO_WPN03_parrySuccess_armor00_18
+  - first:
+      213: 6997462352074466567
+    second: TPO_WPN03_parrySuccess_armor00_19
+  - first:
+      213: 7999422649466223067
+    second: TPO_WPN03_parrySuccess_armor00_20
+  - first:
+      213: 1769011903266323755
+    second: TPO_WPN03_parrySuccess_armor00_21
+  - first:
+      213: 217826961622996442
+    second: TPO_WPN03_parrySuccess_armor00_22
+  - first:
+      213: 3020402538674650987
+    second: TPO_WPN03_parrySuccess_armor00_23
+  - first:
+      213: 1878096942620041613
+    second: TPO_WPN03_parrySuccess_armor00_24
+  - first:
+      213: 463209429712583664
+    second: TPO_WPN03_parrySuccess_armor00_25
+  - first:
+      213: 154869051903408141
+    second: TPO_WPN03_parrySuccess_armor00_26
+  - first:
+      213: 7056509468082130165
+    second: TPO_WPN03_parrySuccess_armor00_27
+  - first:
+      213: 5288288448644937142
+    second: TPO_WPN03_parrySuccess_armor00_28
+  - first:
+      213: 4760378321640140594
+    second: TPO_WPN03_parrySuccess_armor00_29
+  - first:
+      213: 6496173665594982898
+    second: TPO_WPN03_parrySuccess_armor00_30
+  - first:
+      213: 7209320946342237583
+    second: TPO_WPN03_parrySuccess_armor00_31
+  - first:
+      213: 2255351250630098420
+    second: TPO_WPN03_parrySuccess_armor00_32
+  - first:
+      213: 1569754674539948821
+    second: TPO_WPN03_parrySuccess_armor00_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.59861547, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749eb2ec7bfa4eb4aeaf8d9cfb9f3d69
+      internalID: 3397310709615539703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5308065, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205aa7ebcb554cfa837e8385263c2ad7
+      internalID: 8992291997523666849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5791936, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a2099d26a4ecea43f035020920ad5
+      internalID: 6068284620535713340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5524616, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe889de68394b81a62090fb2ab75205
+      internalID: 8406447294479739933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5767188, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4015d0199c947308633429982a01b8c
+      internalID: 4375103205361589402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5231148, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d27a3eb63344712a0d68e83bdc9d0bf
+      internalID: 2659762159847380211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.56784624, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e23a7dfc5784dbf85608dea581400da
+      internalID: 4601297114802574957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5308065, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f20a6b6714377aee6b5a5b6137add
+      internalID: 7923929891533925950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 403
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.49844834, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e91e9858ca744cc9faee5e0481421b0
+      internalID: 133089284484402900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.47109097, y: -0.0005479447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce745f211245b59beef9ee3feff356
+      internalID: 4221671560566271746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 266
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.47109097, y: -0.0005633797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8be524c28413c9f87968249ce02b0
+      internalID: 8058447499957821103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.46129635, y: -0.0005797096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa4ac76aa94919bdfbe7e7ee4a73dc
+      internalID: 3869141447345906779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5151667, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63cf96a629c4cfea552db3597f8cd6e
+      internalID: 6777561692701442505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 61
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5231148, y: -0.0006451607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bc7ff023a5413c9140c34547070de5
+      internalID: 6255120496687559715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 61
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.48053578, y: -0.0006249994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801685a9c6de401f89eef770168fcfa8
+      internalID: 1744976613144045055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 61
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.46129635, y: -0.0006249994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac69818ec847a2898dfafdc970cf6b
+      internalID: 3972070726696206305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 314
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.33886373, y: -0.00058823475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b30f0cb8f242da993ae4785ce7ead1
+      internalID: 650992114070042956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 61
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.45113215, y: -0.00055555505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc01435c70b14df4be29f1c042b70689
+      internalID: 3340169968323509940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 337
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.23576277, y: -0.00060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14409943d8e4e1a8c3a3b59586c44f9
+      internalID: 8282363832180939619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.19268662, y: -0.00065573707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d65dc7a4d94a00baec8de3e106e92d
+      internalID: 6997462352074466567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.00078431296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf4d3f5fdb8491f9942960844e0462f
+      internalID: 7999422649466223067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 133
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.00083333254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc601b25d34ebc838a3e5b57b37b1a
+      internalID: 1769011903266323755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.000851063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e2caa9aef94bb0ac21b5fb4a04a9fd
+      internalID: 217826961622996442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.0008163258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea740b6369541a4b142ddd8177f08fe
+      internalID: 3020402538674650987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.0008163258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e37cd82cc45d6a996de60d5e55eef
+      internalID: 1878096942620041613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.0008163258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3758ec56ecfe4470949bd93351341ae8
+      internalID: 463209429712583664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.0008163258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ffea92e82645eea4f5e362de330de7
+      internalID: 154869051903408141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.12375005, y: -0.0008163258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4a6e6d3ad42d981676be083ffcebe
+      internalID: 7056509468082130165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 133
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.12913048, y: -0.00093023165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e8b86462524133851aac53e294ecb8
+      internalID: 5288288448644937142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.1704688, y: -0.00083333254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cac7bda49f47bc8a17ed7a2122b522
+      internalID: 4760378321640140594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 181
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.20584913, y: -0.00067796547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f106af3d2f44e7bb79a70123dacb9f
+      internalID: 6496173665594982898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 181
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.29486495, y: -0.000615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60824c9e84954c48ac388d403965cbfd
+      internalID: 7209320946342237583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 382
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.348919, y: -0.00058823475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee7e88442d94825a0daa404e4cfdb55
+      internalID: 2255351250630098420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN03_parrySuccess_armor00_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 240
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.53439033, y: -0.00054054003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a97cc6339f24e6dbfded278c8ff4fbe
+      internalID: 1569754674539948821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TPO_WPN03_parrySuccess_armor00_0: 3397310709615539703
+      TPO_WPN03_parrySuccess_armor00_1: 8992291997523666849
+      TPO_WPN03_parrySuccess_armor00_2: 6068284620535713340
+      TPO_WPN03_parrySuccess_armor00_3: 8406447294479739933
+      TPO_WPN03_parrySuccess_armor00_4: 4375103205361589402
+      TPO_WPN03_parrySuccess_armor00_5: 2659762159847380211
+      TPO_WPN03_parrySuccess_armor00_6: 4601297114802574957
+      TPO_WPN03_parrySuccess_armor00_7: 7923929891533925950
+      TPO_WPN03_parrySuccess_armor00_8: 133089284484402900
+      TPO_WPN03_parrySuccess_armor00_9: 4221671560566271746
+      TPO_WPN03_parrySuccess_armor00_10: 8058447499957821103
+      TPO_WPN03_parrySuccess_armor00_11: 3869141447345906779
+      TPO_WPN03_parrySuccess_armor00_12: 6777561692701442505
+      TPO_WPN03_parrySuccess_armor00_13: 6255120496687559715
+      TPO_WPN03_parrySuccess_armor00_14: 1744976613144045055
+      TPO_WPN03_parrySuccess_armor00_15: 3972070726696206305
+      TPO_WPN03_parrySuccess_armor00_16: 650992114070042956
+      TPO_WPN03_parrySuccess_armor00_17: 3340169968323509940
+      TPO_WPN03_parrySuccess_armor00_18: 8282363832180939619
+      TPO_WPN03_parrySuccess_armor00_19: 6997462352074466567
+      TPO_WPN03_parrySuccess_armor00_20: 7999422649466223067
+      TPO_WPN03_parrySuccess_armor00_21: 1769011903266323755
+      TPO_WPN03_parrySuccess_armor00_22: 217826961622996442
+      TPO_WPN03_parrySuccess_armor00_23: 3020402538674650987
+      TPO_WPN03_parrySuccess_armor00_24: 1878096942620041613
+      TPO_WPN03_parrySuccess_armor00_25: 463209429712583664
+      TPO_WPN03_parrySuccess_armor00_26: 154869051903408141
+      TPO_WPN03_parrySuccess_armor00_27: 7056509468082130165
+      TPO_WPN03_parrySuccess_armor00_28: 5288288448644937142
+      TPO_WPN03_parrySuccess_armor00_29: 4760378321640140594
+      TPO_WPN03_parrySuccess_armor00_30: 6496173665594982898
+      TPO_WPN03_parrySuccess_armor00_31: 7209320946342237583
+      TPO_WPN03_parrySuccess_armor00_32: 2255351250630098420
+      TPO_WPN03_parrySuccess_armor00_33: 1569754674539948821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

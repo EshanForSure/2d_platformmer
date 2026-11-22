@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: d7dc6185893887681e6ba3304bc92463
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2fbe74f82d9e4562463fc7e2b5ca8f
+      internalID: 8361662404691545099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 76
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e292723bab02bda69058e3733e6f42b
+      internalID: -8093080765016990248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 152
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429baedd254b71113bf49d427ee8a38b
+      internalID: -2804722302791753169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791c31e7676f3ad4cff78554d7c89f2
+      internalID: -1853303853559512662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 76
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24eca2d7e384c03e025b2bb0663c0a
+      internalID: 3789582234899893650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 77
+        width: 35
+        height: 76
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ec8edaffa8f8f3a397e97b0b75dcd
+      internalID: -3676011564764413866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fc704840935055482d4dad36ffc61
+      internalID: -8706084893979224080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 33
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd5bff11d9bad2f8f8319e0a1b7e12
+      internalID: -7744183109585877436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 33
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595c6e22a24e32f6d5b37fb069a5581
+      internalID: 6852232676289844047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 33
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5597cfc7b9733d1d7ecc78fb828d8
+      internalID: -8129785638997686601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 36
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10104485c7e107c109e96deb8073343
+      internalID: -3937878595095530606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 153
+        width: 36
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb0b7195581dd2a566d6da19bbfe8d
+      internalID: -3210347999207950552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6216216, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db242f58810e6d9214754161cc9a6f9
+      internalID: 4781514659964820697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398ef012e2aed0b3f52591deb52f9fc
+      internalID: -818111078810195087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6216216, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b8ba349c5c42fced3b9cb810c7784
+      internalID: -5931668131011528630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 35
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40431e6c7116dea99ba55b71b428ed10
+      internalID: 5254542039563909489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 35
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7871678b76207790f2f79e65a3aa2f
+      internalID: 3237210388037872567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 154
+        width: 35
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e09502c90e146682a2ff8fe77f1c9
+      internalID: -7457142524709617752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 35
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff2ea0bb40d98ce9a35ce1f735d6e1
+      internalID: 3805581288752612371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 36
+        height: 77
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf6723968639765999a63dfaf7e4b6d
+      internalID: 3955443935491123885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 34
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db37b723405ec972c28dbd6dd4ccc9a6
+      internalID: -6127835153499707556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 76
+        width: 33
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0218dd0cac93301ebebee9768fb56bc
+      internalID: -5182210872637464742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 152
+        width: 33
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ae78cb2cdd644802c429d5b576c52
+      internalID: 3391019282861837809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 33
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ce5970944b4d0ed45c36c78bcab99
+      internalID: 7979223645031216439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 153
+        width: 35
+        height: 76
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafb526d349e18d6121b2e860bae439
+      internalID: -5101469252652212036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 35
+        height: 76
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f60330fd7aad3eee3db83ba6924ef6b
+      internalID: -2604221856253758317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 153
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2797c05cbe891c984b6c0f86da2a7322
+      internalID: -1484743565862375435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_wieldingHeavyWeapon_Armor00_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e0d4dce564f3248a8c16e56d6ba4c7
+      internalID: -6774235475266748480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee72c086abb57d2b14f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPO_idle_wieldingHeavyWeapon_Armor00_0: 8361662404691545099
+      TPO_idle_wieldingHeavyWeapon_Armor00_1: -8093080765016990248
+      TPO_idle_wieldingHeavyWeapon_Armor00_10: -3937878595095530606
+      TPO_idle_wieldingHeavyWeapon_Armor00_11: -3210347999207950552
+      TPO_idle_wieldingHeavyWeapon_Armor00_12: 4781514659964820697
+      TPO_idle_wieldingHeavyWeapon_Armor00_13: -818111078810195087
+      TPO_idle_wieldingHeavyWeapon_Armor00_14: -5931668131011528630
+      TPO_idle_wieldingHeavyWeapon_Armor00_15: 5254542039563909489
+      TPO_idle_wieldingHeavyWeapon_Armor00_16: 3237210388037872567
+      TPO_idle_wieldingHeavyWeapon_Armor00_17: -7457142524709617752
+      TPO_idle_wieldingHeavyWeapon_Armor00_18: 3805581288752612371
+      TPO_idle_wieldingHeavyWeapon_Armor00_19: 3955443935491123885
+      TPO_idle_wieldingHeavyWeapon_Armor00_2: -2804722302791753169
+      TPO_idle_wieldingHeavyWeapon_Armor00_20: -6127835153499707556
+      TPO_idle_wieldingHeavyWeapon_Armor00_21: -5182210872637464742
+      TPO_idle_wieldingHeavyWeapon_Armor00_22: 3391019282861837809
+      TPO_idle_wieldingHeavyWeapon_Armor00_23: 7979223645031216439
+      TPO_idle_wieldingHeavyWeapon_Armor00_24: -5101469252652212036
+      TPO_idle_wieldingHeavyWeapon_Armor00_25: -2604221856253758317
+      TPO_idle_wieldingHeavyWeapon_Armor00_26: -1484743565862375435
+      TPO_idle_wieldingHeavyWeapon_Armor00_27: -6774235475266748480
+      TPO_idle_wieldingHeavyWeapon_Armor00_3: -1853303853559512662
+      TPO_idle_wieldingHeavyWeapon_Armor00_4: 3789582234899893650
+      TPO_idle_wieldingHeavyWeapon_Armor00_5: -3676011564764413866
+      TPO_idle_wieldingHeavyWeapon_Armor00_6: -8706084893979224080
+      TPO_idle_wieldingHeavyWeapon_Armor00_7: -7744183109585877436
+      TPO_idle_wieldingHeavyWeapon_Armor00_8: 6852232676289844047
+      TPO_idle_wieldingHeavyWeapon_Armor00_9: -8129785638997686601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7348 @@
+{
+  "Idle": {
+    "textureName": "TPO_idle_thornedArm_IC.png",
+    "frameCount": 28,
+    "frames": [
+      {
+        "name": "TPO_idle_thornedArm_0",
+        "rect": {
+          "x": 37,
+          "y": 77,
+          "width": 36,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": 0
+        },
+        "offset": {
+          "x": 5,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_1",
+        "rect": {
+          "x": 177,
+          "y": 77,
+          "width": 34,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_2",
+        "rect": {
+          "x": 177,
+          "y": 153,
+          "width": 34,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_3",
+        "rect": {
+          "x": 211,
+          "y": 0,
+          "width": 34,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_4",
+        "rect": {
+          "x": 211,
+          "y": 76,
+          "width": 34,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_5",
+        "rect": {
+          "x": 108,
+          "y": 0,
+          "width": 35,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.62857145,
+          "y": 0
+        },
+        "offset": {
+          "x": 4.500001,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_6",
+        "rect": {
+          "x": 211,
+          "y": 152,
+          "width": 34,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_7",
+        "rect": {
+          "x": 279,
+          "y": 0,
+          "width": 32,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.59375,
+          "y": 0
+        },
+        "offset": {
+          "x": 3,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_8",
+        "rect": {
+          "x": 279,
+          "y": 76,
+          "width": 32,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.59375,
+          "y": 0
+        },
+        "offset": {
+          "x": 3,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_9",
+        "rect": {
+          "x": 245,
+          "y": 76,
+          "width": 33,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6060606,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.5000005,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_10",
+        "rect": {
+          "x": 73,
+          "y": 0,
+          "width": 35,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.62857145,
+          "y": 0
+        },
+        "offset": {
+          "x": 4.500001,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_11",
+        "rect": {
+          "x": 73,
+          "y": 77,
+          "width": 35,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.62857145,
+          "y": 0
+        },
+        "offset": {
+          "x": 4.500001,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_12",
+        "rect": {
+          "x": 0,
+          "y": 153,
+          "width": 36,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": 0
+        },
+        "offset": {
+          "x": 5,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_13",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 37,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": 0
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_14",
+        "rect": {
+          "x": 37,
+          "y": 0,
+          "width": 36,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": 0
+        },
+        "offset": {
+          "x": 5,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_15",
+        "rect": {
+          "x": 143,
+          "y": 0,
+          "width": 34,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_16",
+        "rect": {
+          "x": 143,
+          "y": 77,
+          "width": 34,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_17",
+        "rect": {
+          "x": 143,
+          "y": 154,
+          "width": 34,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_18",
+        "rect": {
+          "x": 177,
+          "y": 0,
+          "width": 34,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_19",
+        "rect": {
+          "x": 73,
+          "y": 154,
+          "width": 35,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.62857145,
+          "y": 0
+        },
+        "offset": {
+          "x": 4.500001,
+          "y": -38.5
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_20",
+        "rect": {
+          "x": 245,
+          "y": 0,
+          "width": 34,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.61764705,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.9999998,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_21",
+        "rect": {
+          "x": 279,
+          "y": 152,
+          "width": 32,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.59375,
+          "y": 0
+        },
+        "offset": {
+          "x": 3,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_22",
+        "rect": {
+          "x": 311,
+          "y": 0,
+          "width": 32,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.59375,
+          "y": 0
+        },
+        "offset": {
+          "x": 3,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_23",
+        "rect": {
+          "x": 245,
+          "y": 152,
+          "width": 33,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6060606,
+          "y": 0
+        },
+        "offset": {
+          "x": 3.5000005,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_24",
+        "rect": {
+          "x": 108,
+          "y": 76,
+          "width": 35,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.62857145,
+          "y": 0
+        },
+        "offset": {
+          "x": 4.500001,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_25",
+        "rect": {
+          "x": 108,
+          "y": 152,
+          "width": 35,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.62857145,
+          "y": 0
+        },
+        "offset": {
+          "x": 4.500001,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_26",
+        "rect": {
+          "x": 37,
+          "y": 153,
+          "width": 36,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": 0
+        },
+        "offset": {
+          "x": 5,
+          "y": -38
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_idle_thornedArm_27",
+        "rect": {
+          "x": 0,
+          "y": 77,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": 0
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Run": {
+    "textureName": "TPO_runCycleCompleteThornedArm_IC.png",
+    "frameCount": 35,
+    "frames": [
+      {
+        "name": "TPO_runCycleCompleteThornedArm_0",
+        "rect": {
+          "x": 113,
+          "y": 284,
+          "width": 36,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5,
+          "y": -38.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_1",
+        "rect": {
+          "x": 113,
+          "y": 432,
+          "width": 35,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.5714286,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 2.500001,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_2",
+        "rect": {
+          "x": 113,
+          "y": 360,
+          "width": 37,
+          "height": 72
+        },
+        "pivot": {
+          "x": 0.5405405,
+          "y": -0.00055555505
+        },
+        "offset": {
+          "x": 1.499999,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_3",
+        "rect": {
+          "x": 150,
+          "y": 205,
+          "width": 39,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.4871795,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": -0.49999997,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_4",
+        "rect": {
+          "x": 203,
+          "y": 69,
+          "width": 44,
+          "height": 64
+        },
+        "pivot": {
+          "x": 0.45454547,
+          "y": -0.0006249994
+        },
+        "offset": {
+          "x": -1.9999994,
+          "y": -32.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_5",
+        "rect": {
+          "x": 412,
+          "y": 0,
+          "width": 48,
+          "height": 63
+        },
+        "pivot": {
+          "x": 0.41666666,
+          "y": -0.00063492
+        },
+        "offset": {
+          "x": -4.0000005,
+          "y": -31.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_6",
+        "rect": {
+          "x": 267,
+          "y": 0,
+          "width": 50,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.42,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -4.0000005,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_7",
+        "rect": {
+          "x": 365,
+          "y": 0,
+          "width": 47,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.42553192,
+          "y": -0.046060607
+        },
+        "offset": {
+          "x": -3.4999995,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_8",
+        "rect": {
+          "x": 60,
+          "y": 280,
+          "width": 52,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.46153846,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -1.9999999,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_9",
+        "rect": {
+          "x": 167,
+          "y": 0,
+          "width": 50,
+          "height": 69
+        },
+        "pivot": {
+          "x": 0.44,
+          "y": -0.0005797096
+        },
+        "offset": {
+          "x": -3,
+          "y": -34.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_10",
+        "rect": {
+          "x": 217,
+          "y": 0,
+          "width": 50,
+          "height": 69
+        },
+        "pivot": {
+          "x": 0.42,
+          "y": -0.0005797096
+        },
+        "offset": {
+          "x": -4.0000005,
+          "y": -34.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_11",
+        "rect": {
+          "x": 0,
+          "y": 420,
+          "width": 54,
+          "height": 69
+        },
+        "pivot": {
+          "x": 0.4074074,
+          "y": -0.0005797096
+        },
+        "offset": {
+          "x": -5,
+          "y": -34.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_12",
+        "rect": {
+          "x": 60,
+          "y": 0,
+          "width": 54,
+          "height": 69
+        },
+        "pivot": {
+          "x": 0.4074074,
+          "y": -0.0005797096
+        },
+        "offset": {
+          "x": -5,
+          "y": -34.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_13",
+        "rect": {
+          "x": 60,
+          "y": 350,
+          "width": 52,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.40384614,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -5.0000005,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_14",
+        "rect": {
+          "x": 60,
+          "y": 69,
+          "width": 53,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.3962264,
+          "y": -0.014857142
+        },
+        "offset": {
+          "x": -5.5000005,
+          "y": -36.039997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_15",
+        "rect": {
+          "x": 0,
+          "y": 211,
+          "width": 57,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.42105263,
+          "y": -0.059411764
+        },
+        "offset": {
+          "x": -4.5,
+          "y": -38.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_16",
+        "rect": {
+          "x": 0,
+          "y": 70,
+          "width": 58,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.43103448,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -4.0000005,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_17",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 60,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.45,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -3.0000007,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_18",
+        "rect": {
+          "x": 0,
+          "y": 141,
+          "width": 56,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.4107143,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -4.999999,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_19",
+        "rect": {
+          "x": 0,
+          "y": 279,
+          "width": 55,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.4181818,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -4.5000005,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_20",
+        "rect": {
+          "x": 0,
+          "y": 349,
+          "width": 54,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.4074074,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -5,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_21",
+        "rect": {
+          "x": 60,
+          "y": 209,
+          "width": 52,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.40384614,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -5.0000005,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_22",
+        "rect": {
+          "x": 60,
+          "y": 420,
+          "width": 52,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.40384614,
+          "y": -0.014857142
+        },
+        "offset": {
+          "x": -5.0000005,
+          "y": -36.039997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_23",
+        "rect": {
+          "x": 114,
+          "y": 0,
+          "width": 53,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.41509435,
+          "y": -0.044705883
+        },
+        "offset": {
+          "x": -4.4999995,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_24",
+        "rect": {
+          "x": 60,
+          "y": 139,
+          "width": 53,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.4528302,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -2.4999995,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_25",
+        "rect": {
+          "x": 460,
+          "y": 0,
+          "width": 45,
+          "height": 67
+        },
+        "pivot": {
+          "x": 0.46666667,
+          "y": -0.0005970144
+        },
+        "offset": {
+          "x": -1.4999999,
+          "y": -33.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_26",
+        "rect": {
+          "x": 317,
+          "y": 0,
+          "width": 48,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.33333334,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -7.9999995,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_27",
+        "rect": {
+          "x": 113,
+          "y": 69,
+          "width": 46,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.2826087,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -10,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_28",
+        "rect": {
+          "x": 159,
+          "y": 69,
+          "width": 44,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.29545453,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -9.000001,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_29",
+        "rect": {
+          "x": 247,
+          "y": 69,
+          "width": 42,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.33333334,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -6.9999995,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_30",
+        "rect": {
+          "x": 189,
+          "y": 134,
+          "width": 41,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.36585367,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": -5.4999995,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_31",
+        "rect": {
+          "x": 150,
+          "y": 134,
+          "width": 39,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.41025642,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -3.4999998,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_32",
+        "rect": {
+          "x": 113,
+          "y": 210,
+          "width": 37,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.45945945,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -1.5000002,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_33",
+        "rect": {
+          "x": 150,
+          "y": 271,
+          "width": 33,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.5151515,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 0.49999952,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_runCycleCompleteThornedArm_34",
+        "rect": {
+          "x": 113,
+          "y": 134,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Jump": {
+    "textureName": "TPO_jumpVerticalSequenceFinal_IC.png",
+    "frameCount": 24,
+    "frames": [
+      {
+        "name": "TPO_jumpVerticalSequence_0",
+        "rect": {
+          "x": 180,
+          "y": 0,
+          "width": 34,
+          "height": 82
+        },
+        "pivot": {
+          "x": 0.5588235,
+          "y": -0.0004878044
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_1",
+        "rect": {
+          "x": 180,
+          "y": 82,
+          "width": 34,
+          "height": 82
+        },
+        "pivot": {
+          "x": 0.5588235,
+          "y": -0.0004878044
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_2",
+        "rect": {
+          "x": 180,
+          "y": 164,
+          "width": 34,
+          "height": 82
+        },
+        "pivot": {
+          "x": 0.5588235,
+          "y": -0.0004878044
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_3",
+        "rect": {
+          "x": 214,
+          "y": 0,
+          "width": 34,
+          "height": 82
+        },
+        "pivot": {
+          "x": 0.5588235,
+          "y": -0.0004878044
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_4",
+        "rect": {
+          "x": 214,
+          "y": 82,
+          "width": 34,
+          "height": 82
+        },
+        "pivot": {
+          "x": 0.5588235,
+          "y": -0.0004878044
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_5",
+        "rect": {
+          "x": 214,
+          "y": 164,
+          "width": 34,
+          "height": 82
+        },
+        "pivot": {
+          "x": 0.5588235,
+          "y": -0.0004878044
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_6",
+        "rect": {
+          "x": 134,
+          "y": 138,
+          "width": 35,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.4857143,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": -0.49999997,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_7",
+        "rect": {
+          "x": 248,
+          "y": 71,
+          "width": 36,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.41666666,
+          "y": -0.054594595
+        },
+        "offset": {
+          "x": -3.0000005,
+          "y": -41.039997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_8",
+        "rect": {
+          "x": 374,
+          "y": 0,
+          "width": 39,
+          "height": 58
+        },
+        "pivot": {
+          "x": 0.41025642,
+          "y": -0.22482759
+        },
+        "offset": {
+          "x": -3.4999998,
+          "y": -42.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_9",
+        "rect": {
+          "x": 327,
+          "y": 0,
+          "width": 47,
+          "height": 54
+        },
+        "pivot": {
+          "x": 0.40425533,
+          "y": -0.24148148
+        },
+        "offset": {
+          "x": -4.4999995,
+          "y": -40.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_10",
+        "rect": {
+          "x": 134,
+          "y": 0,
+          "width": 46,
+          "height": 62
+        },
+        "pivot": {
+          "x": 0.4347826,
+          "y": -0.16193548
+        },
+        "offset": {
+          "x": -3.0000007,
+          "y": -41.039997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_11",
+        "rect": {
+          "x": 90,
+          "y": 0,
+          "width": 44,
+          "height": 73
+        },
+        "pivot": {
+          "x": 0.47727272,
+          "y": -0.055342466
+        },
+        "offset": {
+          "x": -1.0000004,
+          "y": -40.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_12",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 45,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_13",
+        "rect": {
+          "x": 0,
+          "y": 80,
+          "width": 45,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_14",
+        "rect": {
+          "x": 0,
+          "y": 160,
+          "width": 45,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_15",
+        "rect": {
+          "x": 45,
+          "y": 0,
+          "width": 45,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_16",
+        "rect": {
+          "x": 45,
+          "y": 80,
+          "width": 45,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_17",
+        "rect": {
+          "x": 45,
+          "y": 160,
+          "width": 45,
+          "height": 80
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.012999999
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -41.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_18",
+        "rect": {
+          "x": 286,
+          "y": 0,
+          "width": 41,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.29268292,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -8.5,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_19",
+        "rect": {
+          "x": 248,
+          "y": 145,
+          "width": 38,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.36842105,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": -5,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_20",
+        "rect": {
+          "x": 248,
+          "y": 0,
+          "width": 38,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.4473684,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -2.0000002,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_21",
+        "rect": {
+          "x": 90,
+          "y": 73,
+          "width": 38,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.5263158,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 1.0000007,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_22",
+        "rect": {
+          "x": 90,
+          "y": 147,
+          "width": 38,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.6052632,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 4.0000005,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpVerticalSequence_23",
+        "rect": {
+          "x": 134,
+          "y": 62,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "JumpHorizontal": {
+    "textureName": "TPO_jumpHorizontalSequenceFinal_IC.png",
+    "frameCount": 24,
+    "frames": [
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_0",
+        "rect": {
+          "x": 136,
+          "y": 79,
+          "width": 42,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.3809524,
+          "y": -0.00050632865
+        },
+        "offset": {
+          "x": -4.9999995,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_1",
+        "rect": {
+          "x": 136,
+          "y": 158,
+          "width": 42,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.3809524,
+          "y": -0.00050632865
+        },
+        "offset": {
+          "x": -4.9999995,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_2",
+        "rect": {
+          "x": 91,
+          "y": 76,
+          "width": 43,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.39534885,
+          "y": -0.00050632865
+        },
+        "offset": {
+          "x": -4.4999995,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_3",
+        "rect": {
+          "x": 91,
+          "y": 155,
+          "width": 43,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.39534885,
+          "y": -0.00050632865
+        },
+        "offset": {
+          "x": -4.4999995,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_4",
+        "rect": {
+          "x": 136,
+          "y": 0,
+          "width": 43,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.39534885,
+          "y": -0.00050632865
+        },
+        "offset": {
+          "x": -4.4999995,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_5",
+        "rect": {
+          "x": 179,
+          "y": 0,
+          "width": 42,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.3809524,
+          "y": -0.00050632865
+        },
+        "offset": {
+          "x": -4.9999995,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_6",
+        "rect": {
+          "x": 179,
+          "y": 79,
+          "width": 40,
+          "height": 79
+        },
+        "pivot": {
+          "x": 0.475,
+          "y": -0.013164557
+        },
+        "offset": {
+          "x": -1.0000002,
+          "y": -40.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_7",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 46,
+          "height": 75
+        },
+        "pivot": {
+          "x": 0.47826087,
+          "y": -0.040533334
+        },
+        "offset": {
+          "x": -0.99999976,
+          "y": -40.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_8",
+        "rect": {
+          "x": 221,
+          "y": 68,
+          "width": 47,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.3617021,
+          "y": -0.19737706
+        },
+        "offset": {
+          "x": -6.5000005,
+          "y": -42.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_9",
+        "rect": {
+          "x": 355,
+          "y": 0,
+          "width": 46,
+          "height": 54
+        },
+        "pivot": {
+          "x": 0.32608697,
+          "y": -0.24148148
+        },
+        "offset": {
+          "x": -7.9999995,
+          "y": -40.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_10",
+        "rect": {
+          "x": 306,
+          "y": 0,
+          "width": 49,
+          "height": 57
+        },
+        "pivot": {
+          "x": 0.3877551,
+          "y": -0.21122807
+        },
+        "offset": {
+          "x": -5.5000005,
+          "y": -40.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_11",
+        "rect": {
+          "x": 221,
+          "y": 0,
+          "width": 48,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.4375,
+          "y": -0.059411764
+        },
+        "offset": {
+          "x": -3,
+          "y": -38.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_12",
+        "rect": {
+          "x": 0,
+          "y": 75,
+          "width": 45,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.01368421
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -39.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_13",
+        "rect": {
+          "x": 0,
+          "y": 151,
+          "width": 45,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.01368421
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -39.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_14",
+        "rect": {
+          "x": 46,
+          "y": 0,
+          "width": 45,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.01368421
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -39.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_15",
+        "rect": {
+          "x": 46,
+          "y": 76,
+          "width": 45,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.01368421
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -39.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_16",
+        "rect": {
+          "x": 46,
+          "y": 152,
+          "width": 45,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.01368421
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -39.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_17",
+        "rect": {
+          "x": 91,
+          "y": 0,
+          "width": 45,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.5777778,
+          "y": -0.01368421
+        },
+        "offset": {
+          "x": 3.5000012,
+          "y": -39.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_18",
+        "rect": {
+          "x": 345,
+          "y": 57,
+          "width": 44,
+          "height": 62
+        },
+        "pivot": {
+          "x": 0.3409091,
+          "y": -0.0006451607
+        },
+        "offset": {
+          "x": -7,
+          "y": -31.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_19",
+        "rect": {
+          "x": 345,
+          "y": 119,
+          "width": 40,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.4,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -3.9999998,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_20",
+        "rect": {
+          "x": 306,
+          "y": 57,
+          "width": 39,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.46153846,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -1.4999999,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_21",
+        "rect": {
+          "x": 179,
+          "y": 158,
+          "width": 38,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.5263158,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 1.0000007,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_22",
+        "rect": {
+          "x": 221,
+          "y": 129,
+          "width": 38,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.6052632,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 4.0000005,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_jumpHorizontalSequenceV3_23",
+        "rect": {
+          "x": 269,
+          "y": 0,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Dodge": {
+    "textureName": "TPO_dodge_thornedArm_IC.png",
+    "frameCount": 18,
+    "frames": [
+      {
+        "name": "TPO_dodge_thornedArm_0",
+        "rect": {
+          "x": 54,
+          "y": 256,
+          "width": 36,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5,
+          "y": -38.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_1",
+        "rect": {
+          "x": 128,
+          "y": 149,
+          "width": 53,
+          "height": 52
+        },
+        "pivot": {
+          "x": 0.6415094,
+          "y": -0.00076923
+        },
+        "offset": {
+          "x": 7.499999,
+          "y": -26.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_2",
+        "rect": {
+          "x": 66,
+          "y": 149,
+          "width": 62,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.61290324,
+          "y": 0.0192
+        },
+        "offset": {
+          "x": 7.000001,
+          "y": -24.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_3",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 74,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.47297296,
+          "y": 0.0592
+        },
+        "offset": {
+          "x": -2.000001,
+          "y": -22.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_4",
+        "rect": {
+          "x": 74,
+          "y": 0,
+          "width": 74,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.47297296,
+          "y": 0.0592
+        },
+        "offset": {
+          "x": -2.000001,
+          "y": -22.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_5",
+        "rect": {
+          "x": 148,
+          "y": 0,
+          "width": 74,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.47297296,
+          "y": 0.0592
+        },
+        "offset": {
+          "x": -2.000001,
+          "y": -22.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_6",
+        "rect": {
+          "x": 0,
+          "y": 50,
+          "width": 74,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.47297296,
+          "y": 0.0592
+        },
+        "offset": {
+          "x": -2.000001,
+          "y": -22.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_7",
+        "rect": {
+          "x": 74,
+          "y": 50,
+          "width": 74,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.47297296,
+          "y": 0.0592
+        },
+        "offset": {
+          "x": -2.000001,
+          "y": -22.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_8",
+        "rect": {
+          "x": 148,
+          "y": 50,
+          "width": 74,
+          "height": 50
+        },
+        "pivot": {
+          "x": 0.47297296,
+          "y": 0.0592
+        },
+        "offset": {
+          "x": -2.000001,
+          "y": -22.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_9",
+        "rect": {
+          "x": 0,
+          "y": 100,
+          "width": 72,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.04
+        },
+        "offset": {
+          "x": 0,
+          "y": -22.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_10",
+        "rect": {
+          "x": 72,
+          "y": 100,
+          "width": 71,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.57746476,
+          "y": 0.019591838
+        },
+        "offset": {
+          "x": 5.499998,
+          "y": -23.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_11",
+        "rect": {
+          "x": 0,
+          "y": 149,
+          "width": 66,
+          "height": 53
+        },
+        "pivot": {
+          "x": 0.59090906,
+          "y": 0.018113209
+        },
+        "offset": {
+          "x": 5.999998,
+          "y": -25.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_12",
+        "rect": {
+          "x": 0,
+          "y": 202,
+          "width": 60,
+          "height": 54
+        },
+        "pivot": {
+          "x": 0.6333333,
+          "y": 0.036296297
+        },
+        "offset": {
+          "x": 7.9999995,
+          "y": -25.039999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_13",
+        "rect": {
+          "x": 0,
+          "y": 256,
+          "width": 54,
+          "height": 55
+        },
+        "pivot": {
+          "x": 0.6666667,
+          "y": 0.035636365
+        },
+        "offset": {
+          "x": 9.000001,
+          "y": -25.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_14",
+        "rect": {
+          "x": 0,
+          "y": 311,
+          "width": 51,
+          "height": 58
+        },
+        "pivot": {
+          "x": 0.7254902,
+          "y": 0.016551726
+        },
+        "offset": {
+          "x": 11.500001,
+          "y": -28.039999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_15",
+        "rect": {
+          "x": 0,
+          "y": 445,
+          "width": 42,
+          "height": 59
+        },
+        "pivot": {
+          "x": 0.6666667,
+          "y": -0.00067796547
+        },
+        "offset": {
+          "x": 7.000001,
+          "y": -29.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_16",
+        "rect": {
+          "x": 90,
+          "y": 256,
+          "width": 38,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.57894737,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": 3,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_dodge_thornedArm_17",
+        "rect": {
+          "x": 0,
+          "y": 369,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Attack1": {
+    "textureName": "TPO_WPN03_groundedCombo01_armor00_IC.png",
+    "frameCount": 16,
+    "frames": [
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_0",
+        "rect": {
+          "x": 0,
+          "y": 357,
+          "width": 36,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5,
+          "y": -38.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_1",
+        "rect": {
+          "x": 0,
+          "y": 206,
+          "width": 42,
+          "height": 75
+        },
+        "pivot": {
+          "x": 0.54761904,
+          "y": -0.0005333328
+        },
+        "offset": {
+          "x": 1.9999999,
+          "y": -37.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_2",
+        "rect": {
+          "x": 0,
+          "y": 61,
+          "width": 52,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.34615386,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -7.9999995,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_3",
+        "rect": {
+          "x": 52,
+          "y": 61,
+          "width": 53,
+          "height": 67
+        },
+        "pivot": {
+          "x": 0.26415095,
+          "y": -0.0005970144
+        },
+        "offset": {
+          "x": -12.5,
+          "y": -33.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_4",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 64,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.296875,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -13,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_5",
+        "rect": {
+          "x": 154,
+          "y": 61,
+          "width": 49,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.26530612,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -11.5,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_6",
+        "rect": {
+          "x": 203,
+          "y": 61,
+          "width": 47,
+          "height": 72
+        },
+        "pivot": {
+          "x": 0.38297874,
+          "y": -0.00055555505
+        },
+        "offset": {
+          "x": -5.4999995,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_7",
+        "rect": {
+          "x": 0,
+          "y": 135,
+          "width": 47,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.38297874,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -5.4999995,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_8",
+        "rect": {
+          "x": 105,
+          "y": 61,
+          "width": 49,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.40816328,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -4.4999995,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_9",
+        "rect": {
+          "x": 94,
+          "y": 135,
+          "width": 45,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.35555556,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -6.4999995,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_10",
+        "rect": {
+          "x": 42,
+          "y": 206,
+          "width": 40,
+          "height": 72
+        },
+        "pivot": {
+          "x": 0.275,
+          "y": -0.00055555505
+        },
+        "offset": {
+          "x": -9,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_11",
+        "rect": {
+          "x": 47,
+          "y": 135,
+          "width": 47,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.23404256,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -12.5,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_12",
+        "rect": {
+          "x": 139,
+          "y": 135,
+          "width": 45,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.24444444,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -11.500001,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_13",
+        "rect": {
+          "x": 184,
+          "y": 135,
+          "width": 44,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.25,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": -11,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_14",
+        "rect": {
+          "x": 82,
+          "y": 206,
+          "width": 38,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.42105263,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -3,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo01_armor00_15",
+        "rect": {
+          "x": 0,
+          "y": 281,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Attack2": {
+    "textureName": "TPO_WPN03_groundedCombo02_armor00_IC.png",
+    "frameCount": 12,
+    "frames": [
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_0",
+        "rect": {
+          "x": 105,
+          "y": 134,
+          "width": 42,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.26190478,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -9.999999,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_1",
+        "rect": {
+          "x": 105,
+          "y": 64,
+          "width": 46,
+          "height": 70
+        },
+        "pivot": {
+          "x": 0.23913044,
+          "y": -0.00057142804
+        },
+        "offset": {
+          "x": -12,
+          "y": -35.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_2",
+        "rect": {
+          "x": 59,
+          "y": 0,
+          "width": 54,
+          "height": 64
+        },
+        "pivot": {
+          "x": 0.2037037,
+          "y": -0.0006249994
+        },
+        "offset": {
+          "x": -16,
+          "y": -32.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_3",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 59,
+          "height": 67
+        },
+        "pivot": {
+          "x": 0.18644068,
+          "y": -0.0005970144
+        },
+        "offset": {
+          "x": -18.5,
+          "y": -33.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_4",
+        "rect": {
+          "x": 113,
+          "y": 0,
+          "width": 56,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.26785713,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -13,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_5",
+        "rect": {
+          "x": 169,
+          "y": 0,
+          "width": 56,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.26785713,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -13,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_6",
+        "rect": {
+          "x": 0,
+          "y": 136,
+          "width": 56,
+          "height": 64
+        },
+        "pivot": {
+          "x": 0.32142857,
+          "y": -0.0006249994
+        },
+        "offset": {
+          "x": -10,
+          "y": -32.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_7",
+        "rect": {
+          "x": 0,
+          "y": 67,
+          "width": 52,
+          "height": 69
+        },
+        "pivot": {
+          "x": 0.3653846,
+          "y": -0.0005797096
+        },
+        "offset": {
+          "x": -7.0000005,
+          "y": -34.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_8",
+        "rect": {
+          "x": 59,
+          "y": 136,
+          "width": 45,
+          "height": 72
+        },
+        "pivot": {
+          "x": 0.31111112,
+          "y": -0.00055555505
+        },
+        "offset": {
+          "x": -8.499999,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_9",
+        "rect": {
+          "x": 59,
+          "y": 64,
+          "width": 46,
+          "height": 72
+        },
+        "pivot": {
+          "x": 0.36956522,
+          "y": -0.00055555505
+        },
+        "offset": {
+          "x": -6,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_10",
+        "rect": {
+          "x": 147,
+          "y": 134,
+          "width": 40,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.45,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -2.0000005,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo02FKF_armor00_11",
+        "rect": {
+          "x": 187,
+          "y": 134,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Attack3": {
+    "textureName": "TPO_WPN03_groundedCombo03_armor00_IC.png",
+    "frameCount": 14,
+    "frames": [
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_0",
+        "rect": {
+          "x": 153,
+          "y": 57,
+          "width": 42,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.26190478,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -9.999999,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_1",
+        "rect": {
+          "x": 151,
+          "y": 132,
+          "width": 38,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.15789473,
+          "y": -0.013506493
+        },
+        "offset": {
+          "x": -13,
+          "y": -39.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_2",
+        "rect": {
+          "x": 111,
+          "y": 57,
+          "width": 42,
+          "height": 75
+        },
+        "pivot": {
+          "x": 0.1904762,
+          "y": -0.0672
+        },
+        "offset": {
+          "x": -13,
+          "y": -42.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_3",
+        "rect": {
+          "x": 111,
+          "y": 132,
+          "width": 40,
+          "height": 77
+        },
+        "pivot": {
+          "x": 0.05,
+          "y": -0.09142857
+        },
+        "offset": {
+          "x": -18,
+          "y": -45.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_4",
+        "rect": {
+          "x": 60,
+          "y": 131,
+          "width": 45,
+          "height": 67
+        },
+        "pivot": {
+          "x": 0.08888889,
+          "y": -0.09014925
+        },
+        "offset": {
+          "x": -18.5,
+          "y": -39.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_5",
+        "rect": {
+          "x": 60,
+          "y": 57,
+          "width": 51,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -25.5,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_6",
+        "rect": {
+          "x": 0,
+          "y": 57,
+          "width": 60,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.18333334,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -19,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_7",
+        "rect": {
+          "x": 0,
+          "y": 118,
+          "width": 60,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.18333334,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -19,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_8",
+        "rect": {
+          "x": 63,
+          "y": 0,
+          "width": 60,
+          "height": 56
+        },
+        "pivot": {
+          "x": 0.18333334,
+          "y": -0.000714285
+        },
+        "offset": {
+          "x": -19,
+          "y": -28.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_9",
+        "rect": {
+          "x": 0,
+          "y": 179,
+          "width": 58,
+          "height": 58
+        },
+        "pivot": {
+          "x": 0.18965517,
+          "y": -0.0006896545
+        },
+        "offset": {
+          "x": -18,
+          "y": -29.039999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_10",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 63,
+          "height": 57
+        },
+        "pivot": {
+          "x": 0.2857143,
+          "y": -0.0007017537
+        },
+        "offset": {
+          "x": -13.499999,
+          "y": -28.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_11",
+        "rect": {
+          "x": 123,
+          "y": 0,
+          "width": 52,
+          "height": 57
+        },
+        "pivot": {
+          "x": 0.40384614,
+          "y": -0.0007017537
+        },
+        "offset": {
+          "x": -5.0000005,
+          "y": -28.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_12",
+        "rect": {
+          "x": 195,
+          "y": 57,
+          "width": 40,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.45,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -2.0000005,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_groundedCombo03FKF_armor00_13",
+        "rect": {
+          "x": 189,
+          "y": 132,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "Parry": {
+    "textureName": "TPO_WPN03_parry_armor00_IC.png",
+    "frameCount": 18,
+    "frames": [
+      {
+        "name": "TPO_WPN03_parry_armor00_0",
+        "rect": {
+          "x": 42,
+          "y": 341,
+          "width": 36,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6388889,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5,
+          "y": -38.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_1",
+        "rect": {
+          "x": 0,
+          "y": 413,
+          "width": 38,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.42105263,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": -3,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_2",
+        "rect": {
+          "x": 49,
+          "y": 197,
+          "width": 43,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.3255814,
+          "y": -0.00058823475
+        },
+        "offset": {
+          "x": -7.4999995,
+          "y": -34.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_3",
+        "rect": {
+          "x": 53,
+          "y": 132,
+          "width": 57,
+          "height": 57
+        },
+        "pivot": {
+          "x": 0.2631579,
+          "y": -0.0007017537
+        },
+        "offset": {
+          "x": -13.499999,
+          "y": -28.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_4",
+        "rect": {
+          "x": 110,
+          "y": 132,
+          "width": 52,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.34615386,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -7.9999995,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_5",
+        "rect": {
+          "x": 0,
+          "y": 132,
+          "width": 53,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.43396226,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -3.5000005,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_6",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 65,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5538462,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 3.5000017,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_7",
+        "rect": {
+          "x": 194,
+          "y": 0,
+          "width": 62,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5322581,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 2.000002,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_8",
+        "rect": {
+          "x": 0,
+          "y": 66,
+          "width": 62,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5322581,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 2.000002,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_9",
+        "rect": {
+          "x": 65,
+          "y": 0,
+          "width": 65,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5538462,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 3.5000017,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_10",
+        "rect": {
+          "x": 130,
+          "y": 0,
+          "width": 64,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.546875,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 3,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_11",
+        "rect": {
+          "x": 62,
+          "y": 66,
+          "width": 61,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.52459013,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 1.4999982,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_12",
+        "rect": {
+          "x": 123,
+          "y": 66,
+          "width": 58,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 0,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_13",
+        "rect": {
+          "x": 181,
+          "y": 66,
+          "width": 58,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.51724136,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 0.9999988,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_14",
+        "rect": {
+          "x": 0,
+          "y": 197,
+          "width": 49,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.5102041,
+          "y": -0.00058823475
+        },
+        "offset": {
+          "x": 0.49999976,
+          "y": -34.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_15",
+        "rect": {
+          "x": 0,
+          "y": 265,
+          "width": 42,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.52380955,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 1.0000012,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_16",
+        "rect": {
+          "x": 0,
+          "y": 339,
+          "width": 39,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.5897436,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 3.500001,
+          "y": -37.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parry_armor00_17",
+        "rect": {
+          "x": 42,
+          "y": 265,
+          "width": 37,
+          "height": 76
+        },
+        "pivot": {
+          "x": 0.6486486,
+          "y": -0.0005263153
+        },
+        "offset": {
+          "x": 5.499999,
+          "y": -38.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "ParrySuccess": {
+    "textureName": "TPO_WPN03_parrySuccess_armor00_IC.png",
+    "frameCount": 34,
+    "frames": [
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_0",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 65,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.59861547,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 6.4100056,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_1",
+        "rect": {
+          "x": 0,
+          "y": 264,
+          "width": 62,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5308065,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 1.9100019,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_2",
+        "rect": {
+          "x": 0,
+          "y": 330,
+          "width": 62,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5791936,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 4.9100027,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_3",
+        "rect": {
+          "x": 0,
+          "y": 66,
+          "width": 65,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5524616,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 3.4100056,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_4",
+        "rect": {
+          "x": 0,
+          "y": 198,
+          "width": 64,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5767188,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 4.9100037,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_5",
+        "rect": {
+          "x": 65,
+          "y": 61,
+          "width": 61,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5231148,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 1.4100028,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_6",
+        "rect": {
+          "x": 0,
+          "y": 132,
+          "width": 65,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.56784624,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 4.4100056,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_7",
+        "rect": {
+          "x": 0,
+          "y": 396,
+          "width": 62,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5308065,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 1.9100019,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_8",
+        "rect": {
+          "x": 65,
+          "y": 403,
+          "width": 58,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.49844834,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": -0.08999616,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_9",
+        "rect": {
+          "x": 65,
+          "y": 127,
+          "width": 55,
+          "height": 73
+        },
+        "pivot": {
+          "x": 0.47109097,
+          "y": -0.0005479447
+        },
+        "offset": {
+          "x": -1.5899966,
+          "y": -36.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_10",
+        "rect": {
+          "x": 65,
+          "y": 266,
+          "width": 55,
+          "height": 71
+        },
+        "pivot": {
+          "x": 0.47109097,
+          "y": -0.0005633797
+        },
+        "offset": {
+          "x": -1.5899966,
+          "y": -35.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_11",
+        "rect": {
+          "x": 240,
+          "y": 61,
+          "width": 54,
+          "height": 69
+        },
+        "pivot": {
+          "x": 0.46129635,
+          "y": -0.0005797096
+        },
+        "offset": {
+          "x": -2.089997,
+          "y": -34.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_12",
+        "rect": {
+          "x": 65,
+          "y": 200,
+          "width": 60,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.5151667,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": 0.910002,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_13",
+        "rect": {
+          "x": 179,
+          "y": 61,
+          "width": 61,
+          "height": 62
+        },
+        "pivot": {
+          "x": 0.5231148,
+          "y": -0.0006451607
+        },
+        "offset": {
+          "x": 1.4100028,
+          "y": -31.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_14",
+        "rect": {
+          "x": 294,
+          "y": 61,
+          "width": 56,
+          "height": 64
+        },
+        "pivot": {
+          "x": 0.48053578,
+          "y": -0.0006249994
+        },
+        "offset": {
+          "x": -1.0899966,
+          "y": -32.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_15",
+        "rect": {
+          "x": 422,
+          "y": 61,
+          "width": 54,
+          "height": 64
+        },
+        "pivot": {
+          "x": 0.46129635,
+          "y": -0.0006249994
+        },
+        "offset": {
+          "x": -2.089997,
+          "y": -32.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_16",
+        "rect": {
+          "x": 126,
+          "y": 314,
+          "width": 44,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.33886373,
+          "y": -0.00058823475
+        },
+        "offset": {
+          "x": -7.089996,
+          "y": -34.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_17",
+        "rect": {
+          "x": 126,
+          "y": 61,
+          "width": 53,
+          "height": 72
+        },
+        "pivot": {
+          "x": 0.45113215,
+          "y": -0.00055555505
+        },
+        "offset": {
+          "x": -2.589996,
+          "y": -36.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_18",
+        "rect": {
+          "x": 65,
+          "y": 337,
+          "width": 59,
+          "height": 66
+        },
+        "pivot": {
+          "x": 0.23576277,
+          "y": -0.00060606
+        },
+        "offset": {
+          "x": -15.589996,
+          "y": -33.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_19",
+        "rect": {
+          "x": 65,
+          "y": 0,
+          "width": 67,
+          "height": 61
+        },
+        "pivot": {
+          "x": 0.19268662,
+          "y": -0.00065573707
+        },
+        "offset": {
+          "x": -20.589996,
+          "y": -30.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_20",
+        "rect": {
+          "x": 132,
+          "y": 0,
+          "width": 72,
+          "height": 51
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.00078431296
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -25.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_21",
+        "rect": {
+          "x": 126,
+          "y": 133,
+          "width": 72,
+          "height": 48
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.00083333254
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -24.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_22",
+        "rect": {
+          "x": 198,
+          "y": 133,
+          "width": 72,
+          "height": 47
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.000851063
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -23.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_23",
+        "rect": {
+          "x": 204,
+          "y": 0,
+          "width": 72,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.0008163258
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -24.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_24",
+        "rect": {
+          "x": 276,
+          "y": 0,
+          "width": 72,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.0008163258
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -24.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_25",
+        "rect": {
+          "x": 348,
+          "y": 0,
+          "width": 72,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.0008163258
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -24.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_26",
+        "rect": {
+          "x": 420,
+          "y": 0,
+          "width": 72,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.0008163258
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -24.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_27",
+        "rect": {
+          "x": 350,
+          "y": 61,
+          "width": 72,
+          "height": 49
+        },
+        "pivot": {
+          "x": 0.12375005,
+          "y": -0.0008163258
+        },
+        "offset": {
+          "x": -27.089996,
+          "y": -24.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_28",
+        "rect": {
+          "x": 270,
+          "y": 133,
+          "width": 69,
+          "height": 43
+        },
+        "pivot": {
+          "x": 0.12913048,
+          "y": -0.00093023165
+        },
+        "offset": {
+          "x": -25.589996,
+          "y": -21.54
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_29",
+        "rect": {
+          "x": 0,
+          "y": 462,
+          "width": 64,
+          "height": 48
+        },
+        "pivot": {
+          "x": 0.1704688,
+          "y": -0.00083333254
+        },
+        "offset": {
+          "x": -21.089996,
+          "y": -24.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_30",
+        "rect": {
+          "x": 126,
+          "y": 181,
+          "width": 53,
+          "height": 59
+        },
+        "pivot": {
+          "x": 0.20584913,
+          "y": -0.00067796547
+        },
+        "offset": {
+          "x": -15.589997,
+          "y": -29.539999
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_31",
+        "rect": {
+          "x": 179,
+          "y": 181,
+          "width": 37,
+          "height": 65
+        },
+        "pivot": {
+          "x": 0.29486495,
+          "y": -0.000615384
+        },
+        "offset": {
+          "x": -7.589997,
+          "y": -32.539997
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_32",
+        "rect": {
+          "x": 126,
+          "y": 382,
+          "width": 37,
+          "height": 68
+        },
+        "pivot": {
+          "x": 0.348919,
+          "y": -0.00058823475
+        },
+        "offset": {
+          "x": -5.589997,
+          "y": -34.04
+        },
+        "ppu": 32
+      },
+      {
+        "name": "TPO_WPN03_parrySuccess_armor00_33",
+        "rect": {
+          "x": 126,
+          "y": 240,
+          "width": 41,
+          "height": 74
+        },
+        "pivot": {
+          "x": 0.53439033,
+          "y": -0.00054054003
+        },
+        "offset": {
+          "x": 1.4100035,
+          "y": -37.04
+        },
+        "ppu": 32
+      }
+    ]
+  },
+  "TPO_WPN01_groundedAttackRevamp_armor00": [
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_0",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 36,
+        "m_X": 265,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.6388889,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": 5,
+        "m_Y": -38.04
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_1",
+      "rect": {
+        "m_Height": 73,
+        "m_Width": 37,
+        "m_X": 265,
+        "m_Y": 152
+      },
+      "pivot": {
+        "m_X": 0.5675676,
+        "m_Y": -0.0005479577
+      },
+      "offset": {
+        "m_X": 2.5000007,
+        "m_Y": -36.54
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_2",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 38,
+        "m_X": 302,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6052632,
+        "m_Y": -0.0005633932
+      },
+      "offset": {
+        "m_X": 4.0000005,
+        "m_Y": -35.54
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_3",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 37,
+        "m_X": 340,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6216216,
+        "m_Y": -0.00057144166
+      },
+      "offset": {
+        "m_X": 4.4999995,
+        "m_Y": -35.04
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_4",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 37,
+        "m_X": 377,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6216216,
+        "m_Y": -0.00057144166
+      },
+      "offset": {
+        "m_X": 4.4999995,
+        "m_Y": -35.04
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_5",
+      "rect": {
+        "m_Height": 72,
+        "m_Width": 41,
+        "m_X": 169,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.85365856,
+        "m_Y": -0.00055556826
+      },
+      "offset": {
+        "m_X": 14.500001,
+        "m_Y": -36.04
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_6",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 42,
+        "m_X": 127,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.78571427,
+        "m_Y": -0.00051949243
+      },
+      "offset": {
+        "m_X": 11.999999,
+        "m_Y": -38.54
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_7",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 37,
+        "m_X": 210,
+        "m_Y": 53
+      },
+      "pivot": {
+        "m_X": 0.7297297,
+        "m_Y": -0.00051949243
+      },
+      "offset": {
+        "m_X": 8.499999,
+        "m_Y": -38.54
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_8",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 37,
+        "m_X": 169,
+        "m_Y": 72
+      },
+      "pivot": {
+        "m_X": 0.5945946,
+        "m_Y": -0.0005063407
+      },
+      "offset": {
+        "m_X": 3.5,
+        "m_Y": -39.54
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_9",
+      "rect": {
+        "m_Height": 72,
+        "m_Width": 53,
+        "m_X": 0,
+        "m_Y": 65
+      },
+      "pivot": {
+        "m_X": 0.35849056,
+        "m_Y": -0.00055556826
+      },
+      "offset": {
+        "m_X": -7.5000005,
+        "m_Y": -36.04
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_10",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 61,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.21311475,
+        "m_Y": -0.0006153987
+      },
+      "offset": {
+        "m_X": -17.5,
+        "m_Y": -32.54
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_11",
+      "rect": {
+        "m_Height": 57,
+        "m_Width": 66,
+        "m_X": 61,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.1969697,
+        "m_Y": -0.0007017704
+      },
+      "offset": {
+        "m_X": -20,
+        "m_Y": -28.54
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_12",
+      "rect": {
+        "m_Height": 57,
+        "m_Width": 66,
+        "m_X": 61,
+        "m_Y": 57
+      },
+      "pivot": {
+        "m_X": 0.1969697,
+        "m_Y": -0.0007017704
+      },
+      "offset": {
+        "m_X": -20,
+        "m_Y": -28.54
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_13",
+      "rect": {
+        "m_Height": 50,
+        "m_Width": 65,
+        "m_X": 61,
+        "m_Y": 190
+      },
+      "pivot": {
+        "m_X": 0.2,
+        "m_Y": 0.03919998
+      },
+      "offset": {
+        "m_X": -19.5,
+        "m_Y": -23.04
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_14",
+      "rect": {
+        "m_Height": 53,
+        "m_Width": 55,
+        "m_X": 210,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.23636363,
+        "m_Y": -0.00075473427
+      },
+      "offset": {
+        "m_X": -14.499999,
+        "m_Y": -26.539999
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_15",
+      "rect": {
+        "m_Height": 50,
+        "m_Width": 48,
+        "m_X": 210,
+        "m_Y": 206
+      },
+      "pivot": {
+        "m_X": 0.35416666,
+        "m_Y": -0.0008000183
+      },
+      "offset": {
+        "m_X": -7.0000005,
+        "m_Y": -25.04
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_16",
+      "rect": {
+        "m_Height": 50,
+        "m_Width": 48,
+        "m_X": 456,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.3125,
+        "m_Y": -0.0008000183
+      },
+      "offset": {
+        "m_X": -9,
+        "m_Y": -25.04
+      },
+      "index": 16
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_17",
+      "rect": {
+        "m_Height": 59,
+        "m_Width": 42,
+        "m_X": 414,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.33333334,
+        "m_Y": -0.00067798165
+      },
+      "offset": {
+        "m_X": -6.9999995,
+        "m_Y": -29.540003
+      },
+      "index": 17
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_18",
+      "rect": {
+        "m_Height": 66,
+        "m_Width": 35,
+        "m_X": 302,
+        "m_Y": 71
+      },
+      "pivot": {
+        "m_X": 0.4,
+        "m_Y": -0.00060607446
+      },
+      "offset": {
+        "m_X": -3.4999998,
+        "m_Y": -33.04
+      },
+      "index": 18
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_19",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 42,
+        "m_X": 127,
+        "m_Y": 153
+      },
+      "pivot": {
+        "m_X": 0.5,
+        "m_Y": -0.0005405529
+      },
+      "offset": {
+        "m_X": 0,
+        "m_Y": -37.04
+      },
+      "index": 19
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_20",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 210,
+        "m_Y": 130
+      },
+      "pivot": {
+        "m_X": 0.4864865,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": -0.4999997,
+        "m_Y": -38.04
+      },
+      "index": 20
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_21",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 38,
+        "m_X": 169,
+        "m_Y": 151
+      },
+      "pivot": {
+        "m_X": 0.5,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": 0,
+        "m_Y": -38.04
+      },
+      "index": 21
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_22",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 42,
+        "m_X": 127,
+        "m_Y": 77
+      },
+      "pivot": {
+        "m_X": 0.47619048,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": -0.99999994,
+        "m_Y": -38.04
+      },
+      "index": 22
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_23",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 45,
+        "m_X": 0,
+        "m_Y": 137
+      },
+      "pivot": {
+        "m_X": 0.42222223,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": -3.4999998,
+        "m_Y": -38.04
+      },
+      "index": 23
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_24",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 45,
+        "m_X": 61,
+        "m_Y": 114
+      },
+      "pivot": {
+        "m_X": 0.4888889,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": -0.49999997,
+        "m_Y": -38.04
+      },
+      "index": 24
+    },
+    {
+      "name": "TPO_WPN01_groundedAttackRevamp_armor00_25",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 265,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6486486,
+        "m_Y": -0.0005263278
+      },
+      "offset": {
+        "m_X": 5.499999,
+        "m_Y": -38.04
+      },
+      "index": 25
+    }
+  ],
+  "TPO_WPN01_jumpAttackRevamp_armor00": [
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_0",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 39,
+        "m_X": 175,
+        "m_Y": 140
+      },
+      "pivot": {
+        "m_X": 0.4101539,
+        "m_Y": -0.00050624413
+      },
+      "offset": {
+        "m_X": -3.503998,
+        "m_Y": -39.539993
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_1",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 30,
+        "m_X": 37,
+        "m_Y": 364
+      },
+      "pivot": {
+        "m_X": 0.5665334,
+        "m_Y": -0.027567476
+      },
+      "offset": {
+        "m_X": 1.9960016,
+        "m_Y": -39.039997
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_2",
+      "rect": {
+        "m_Height": 73,
+        "m_Width": 33,
+        "m_X": 0,
+        "m_Y": 438
+      },
+      "pivot": {
+        "m_X": 0.5150304,
+        "m_Y": -0.069041006
+      },
+      "offset": {
+        "m_X": 0.49600267,
+        "m_Y": -41.539993
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_3",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 44,
+        "m_X": 89,
+        "m_Y": 140
+      },
+      "pivot": {
+        "m_X": 0.6135455,
+        "m_Y": -0.027567476
+      },
+      "offset": {
+        "m_X": 4.9960012,
+        "m_Y": -39.039997
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_4",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 42,
+        "m_X": 133,
+        "m_Y": 140
+      },
+      "pivot": {
+        "m_X": 0.54752386,
+        "m_Y": -0.026493419
+      },
+      "offset": {
+        "m_X": 1.996002,
+        "m_Y": -40.539993
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_5",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 0,
+        "m_Y": 289
+      },
+      "pivot": {
+        "m_X": 0.48637843,
+        "m_Y": -0.039999913
+      },
+      "offset": {
+        "m_X": -0.50399804,
+        "m_Y": -41.039993
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_6",
+      "rect": {
+        "m_Height": 81,
+        "m_Width": 35,
+        "m_X": 214,
+        "m_Y": 140
+      },
+      "pivot": {
+        "m_X": 0.5141715,
+        "m_Y": -0.04987646
+      },
+      "offset": {
+        "m_X": 0.49600184,
+        "m_Y": -44.539993
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_7",
+      "rect": {
+        "m_Height": 81,
+        "m_Width": 46,
+        "m_X": 0,
+        "m_Y": 140
+      },
+      "pivot": {
+        "m_X": 0.36947832,
+        "m_Y": -0.025185103
+      },
+      "offset": {
+        "m_X": -6.0039973,
+        "m_Y": -42.539993
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_8",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 70,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.3285143,
+        "m_Y": -0.04108099
+      },
+      "offset": {
+        "m_X": -12.003999,
+        "m_Y": -40.039993
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_9",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 71,
+        "m_X": 70,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.33797187,
+        "m_Y": -0.044057872
+      },
+      "offset": {
+        "m_X": -11.503998,
+        "m_Y": -37.539993
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_10",
+      "rect": {
+        "m_Height": 68,
+        "m_Width": 62,
+        "m_X": 141,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.37090325,
+        "m_Y": -0.015294019
+      },
+      "offset": {
+        "m_X": -8.003998,
+        "m_Y": -35.039993
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_11",
+      "rect": {
+        "m_Height": 66,
+        "m_Width": 57,
+        "m_X": 0,
+        "m_Y": 74
+      },
+      "pivot": {
+        "m_X": 0.43852636,
+        "m_Y": -0.00060595886
+      },
+      "offset": {
+        "m_X": -3.5039973,
+        "m_Y": -33.039993
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_12",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 51,
+        "m_X": 203,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.5489412,
+        "m_Y": -0.07304338
+      },
+      "offset": {
+        "m_X": 2.496001,
+        "m_Y": -39.539993
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_13",
+      "rect": {
+        "m_Height": 68,
+        "m_Width": 43,
+        "m_X": 0,
+        "m_Y": 221
+      },
+      "pivot": {
+        "m_X": 0.44176748,
+        "m_Y": -0.059411667
+      },
+      "offset": {
+        "m_X": -2.5039983,
+        "m_Y": -38.039993
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_14",
+      "rect": {
+        "m_Height": 75,
+        "m_Width": 36,
+        "m_X": 37,
+        "m_Y": 289
+      },
+      "pivot": {
+        "m_X": 0.49988896,
+        "m_Y": -0.013866577
+      },
+      "offset": {
+        "m_X": -0.0039975643,
+        "m_Y": -38.539997
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_15",
+      "rect": {
+        "m_Height": 73,
+        "m_Width": 37,
+        "m_X": 0,
+        "m_Y": 365
+      },
+      "pivot": {
+        "m_X": 0.5674595,
+        "m_Y": -0.027945114
+      },
+      "offset": {
+        "m_X": 2.4960024,
+        "m_Y": -38.539993
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_WPN01_jumpAttackRevamp_armor00_16",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 46,
+        "m_Y": 140
+      },
+      "pivot": {
+        "m_X": 0.60455817,
+        "m_Y": -0.013684122
+      },
+      "offset": {
+        "m_X": 4.4960012,
+        "m_Y": -39.03999
+      },
+      "index": 16
+    }
+  ],
+  "TPO_WPN01_chargedHammer_armor00": [
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_0",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 149,
+        "m_Y": 153
+      },
+      "pivot": {
+        "m_X": 0.5405405,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": 1.499999,
+        "m_Y": -37.96
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_1",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 39,
+        "m_X": 278,
+        "m_Y": 59
+      },
+      "pivot": {
+        "m_X": 0.6666667,
+        "m_Y": 0.0005633797
+      },
+      "offset": {
+        "m_X": 6.500001,
+        "m_Y": -35.46
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_2",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 41,
+        "m_X": 188,
+        "m_Y": 69
+      },
+      "pivot": {
+        "m_X": 0.70731705,
+        "m_Y": 0.00057142804
+      },
+      "offset": {
+        "m_X": 8.499999,
+        "m_Y": -34.96
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_3",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 43,
+        "m_X": 188,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6976744,
+        "m_Y": 0.0005797096
+      },
+      "offset": {
+        "m_X": 8.499999,
+        "m_Y": -34.46
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_4",
+      "rect": {
+        "m_Height": 61,
+        "m_Width": 43,
+        "m_X": 317,
+        "m_Y": 59
+      },
+      "pivot": {
+        "m_X": 0.6976744,
+        "m_Y": 0.00065573707
+      },
+      "offset": {
+        "m_X": 8.499999,
+        "m_Y": -30.46
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_5",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 43,
+        "m_X": 106,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.8372093,
+        "m_Y": 0.00054054003
+      },
+      "offset": {
+        "m_X": 14.499999,
+        "m_Y": -36.96
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_6",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 39,
+        "m_X": 149,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.974359,
+        "m_Y": -0.038441557
+      },
+      "offset": {
+        "m_X": 18.5,
+        "m_Y": -41.46
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_7",
+      "rect": {
+        "m_Height": 81,
+        "m_Width": 39,
+        "m_X": 64,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 1.051282,
+        "m_Y": -0.09827161
+      },
+      "offset": {
+        "m_X": 21.5,
+        "m_Y": -48.46
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_8",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 38,
+        "m_X": 106,
+        "m_Y": 74
+      },
+      "pivot": {
+        "m_X": 0.9736842,
+        "m_Y": -0.1245
+      },
+      "offset": {
+        "m_X": 18,
+        "m_Y": -49.96
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_9",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 38,
+        "m_X": 106,
+        "m_Y": 154
+      },
+      "pivot": {
+        "m_X": 0.9736842,
+        "m_Y": -0.137
+      },
+      "offset": {
+        "m_X": 18,
+        "m_Y": -50.96
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_10",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 64,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.75,
+        "m_Y": -0.33784613
+      },
+      "offset": {
+        "m_X": 16,
+        "m_Y": -54.46
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_11",
+      "rect": {
+        "m_Height": 59,
+        "m_Width": 47,
+        "m_X": 278,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.00067796547
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -29.46
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_12",
+      "rect": {
+        "m_Height": 60,
+        "m_Width": 47,
+        "m_X": 231,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.000666666
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -29.96
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_13",
+      "rect": {
+        "m_Height": 59,
+        "m_Width": 47,
+        "m_X": 231,
+        "m_Y": 196
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.00067796547
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -29.46
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_14",
+      "rect": {
+        "m_Height": 60,
+        "m_Width": 47,
+        "m_X": 231,
+        "m_Y": 60
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.000666666
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -29.96
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_15",
+      "rect": {
+        "m_Height": 55,
+        "m_Width": 47,
+        "m_X": 325,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.000727272
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -27.460001
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_16",
+      "rect": {
+        "m_Height": 55,
+        "m_Width": 47,
+        "m_X": 372,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.000727272
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -27.460001
+      },
+      "index": 16
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_17",
+      "rect": {
+        "m_Height": 48,
+        "m_Width": 46,
+        "m_X": 360,
+        "m_Y": 107
+      },
+      "pivot": {
+        "m_X": 0.7173913,
+        "m_Y": 0.00083333254
+      },
+      "offset": {
+        "m_X": 10,
+        "m_Y": -23.96
+      },
+      "index": 17
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_18",
+      "rect": {
+        "m_Height": 48,
+        "m_Width": 46,
+        "m_X": 360,
+        "m_Y": 59
+      },
+      "pivot": {
+        "m_X": 0.7173913,
+        "m_Y": 0.00083333254
+      },
+      "offset": {
+        "m_X": 10,
+        "m_Y": -23.96
+      },
+      "index": 18
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_19",
+      "rect": {
+        "m_Height": 44,
+        "m_Width": 47,
+        "m_X": 406,
+        "m_Y": 107
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.00090909004
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -21.96
+      },
+      "index": 19
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_20",
+      "rect": {
+        "m_Height": 44,
+        "m_Width": 47,
+        "m_X": 453,
+        "m_Y": 107
+      },
+      "pivot": {
+        "m_X": 0.70212764,
+        "m_Y": 0.00090909004
+      },
+      "offset": {
+        "m_X": 9.499999,
+        "m_Y": -21.96
+      },
+      "index": 20
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_21",
+      "rect": {
+        "m_Height": 46,
+        "m_Width": 48,
+        "m_X": 406,
+        "m_Y": 59
+      },
+      "pivot": {
+        "m_X": 0.6875,
+        "m_Y": 0.00086956436
+      },
+      "offset": {
+        "m_X": 9,
+        "m_Y": -22.96
+      },
+      "index": 21
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_22",
+      "rect": {
+        "m_Height": 46,
+        "m_Width": 48,
+        "m_X": 454,
+        "m_Y": 59
+      },
+      "pivot": {
+        "m_X": 0.6875,
+        "m_Y": 0.00086956436
+      },
+      "offset": {
+        "m_X": 9,
+        "m_Y": -22.96
+      },
+      "index": 22
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_23",
+      "rect": {
+        "m_Height": 50,
+        "m_Width": 48,
+        "m_X": 461,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.625,
+        "m_Y": 0.0007999992
+      },
+      "offset": {
+        "m_X": 6,
+        "m_Y": -24.96
+      },
+      "index": 23
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_24",
+      "rect": {
+        "m_Height": 59,
+        "m_Width": 42,
+        "m_X": 419,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.64285713,
+        "m_Y": 0.00067796547
+      },
+      "offset": {
+        "m_X": 5.9999995,
+        "m_Y": -29.46
+      },
+      "index": 24
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_25",
+      "rect": {
+        "m_Height": 66,
+        "m_Width": 35,
+        "m_X": 278,
+        "m_Y": 130
+      },
+      "pivot": {
+        "m_X": 0.62857145,
+        "m_Y": 0.00060606
+      },
+      "offset": {
+        "m_X": 4.500001,
+        "m_Y": -32.96
+      },
+      "index": 25
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_26",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 42,
+        "m_X": 64,
+        "m_Y": 157
+      },
+      "pivot": {
+        "m_X": 0.6904762,
+        "m_Y": 0.00054054003
+      },
+      "offset": {
+        "m_X": 7.9999995,
+        "m_Y": -36.96
+      },
+      "index": 26
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_27",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 231,
+        "m_Y": 120
+      },
+      "pivot": {
+        "m_X": 0.6486486,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": 5.499999,
+        "m_Y": -37.96
+      },
+      "index": 27
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_28",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 38,
+        "m_X": 149,
+        "m_Y": 77
+      },
+      "pivot": {
+        "m_X": 0.57894737,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": 3,
+        "m_Y": -37.96
+      },
+      "index": 28
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_29",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 42,
+        "m_X": 64,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.47619048,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": -0.99999994,
+        "m_Y": -37.96
+      },
+      "index": 29
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_30",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 45,
+        "m_X": 0,
+        "m_Y": 141
+      },
+      "pivot": {
+        "m_X": 0.42222223,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": -3.4999998,
+        "m_Y": -37.96
+      },
+      "index": 30
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_31",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 45,
+        "m_X": 0,
+        "m_Y": 65
+      },
+      "pivot": {
+        "m_X": 0.4888889,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": -0.49999997,
+        "m_Y": -37.96
+      },
+      "index": 31
+    },
+    {
+      "name": "TPO_WPN01_chargedHammer_armor00_32",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 188,
+        "m_Y": 139
+      },
+      "pivot": {
+        "m_X": 0.6486486,
+        "m_Y": 0.0005263153
+      },
+      "offset": {
+        "m_X": 5.499999,
+        "m_Y": -37.96
+      },
+      "index": 32
+    }
+  ],
+  "TPO_idle_wieldingHeavyWeapon_Armor00": [
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_0",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 36,
+        "m_X": 75,
+        "m_Y": 77
+      },
+      "pivot": {
+        "m_X": 0.6388889,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 5,
+        "m_Y": -38
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_1",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 34,
+        "m_X": 181,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.61764705,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_2",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 34,
+        "m_X": 181,
+        "m_Y": 152
+      },
+      "pivot": {
+        "m_X": 0.61764705,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_3",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 34,
+        "m_X": 216,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.61764705,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_4",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 34,
+        "m_X": 216,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.61764705,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_5",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 35,
+        "m_X": 146,
+        "m_Y": 77
+      },
+      "pivot": {
+        "m_X": 0.62857145,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 4.500001,
+        "m_Y": -38
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_6",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 34,
+        "m_X": 216,
+        "m_Y": 152
+      },
+      "pivot": {
+        "m_X": 0.61764705,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_7",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 33,
+        "m_X": 250,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.6060606,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.5000005,
+        "m_Y": -38
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_8",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 33,
+        "m_X": 250,
+        "m_Y": 152
+      },
+      "pivot": {
+        "m_X": 0.6060606,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.5000005,
+        "m_Y": -38
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_9",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 33,
+        "m_X": 284,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6060606,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.5000005,
+        "m_Y": -38
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_10",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 36,
+        "m_X": 38,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.6111111,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38.5
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_11",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 36,
+        "m_X": 38,
+        "m_Y": 153
+      },
+      "pivot": {
+        "m_X": 0.6111111,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38.5
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_12",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 37,
+        "m_X": 0,
+        "m_Y": 77
+      },
+      "pivot": {
+        "m_X": 0.6216216,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 4.4999995,
+        "m_Y": -38.5
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_13",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 38,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6315789,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 4.999999,
+        "m_Y": -38.5
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_14",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 37,
+        "m_X": 0,
+        "m_Y": 154
+      },
+      "pivot": {
+        "m_X": 0.6216216,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 4.4999995,
+        "m_Y": -38.5
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_15",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 35,
+        "m_X": 111,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.500001,
+        "m_Y": -38.5
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_16",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 35,
+        "m_X": 111,
+        "m_Y": 77
+      },
+      "pivot": {
+        "m_X": 0.6,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.500001,
+        "m_Y": -38.5
+      },
+      "index": 16
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_17",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 35,
+        "m_X": 111,
+        "m_Y": 154
+      },
+      "pivot": {
+        "m_X": 0.6,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.500001,
+        "m_Y": -38.5
+      },
+      "index": 17
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_18",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 35,
+        "m_X": 146,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.500001,
+        "m_Y": -38.5
+      },
+      "index": 18
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_19",
+      "rect": {
+        "m_Height": 77,
+        "m_Width": 36,
+        "m_X": 75,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6111111,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38.5
+      },
+      "index": 19
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_20",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 34,
+        "m_X": 250,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.61764705,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.9999998,
+        "m_Y": -38
+      },
+      "index": 20
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_21",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 33,
+        "m_X": 284,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.6060606,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.5000005,
+        "m_Y": -38
+      },
+      "index": 21
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_22",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 33,
+        "m_X": 284,
+        "m_Y": 152
+      },
+      "pivot": {
+        "m_X": 0.6060606,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.5000005,
+        "m_Y": -38
+      },
+      "index": 22
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_23",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 33,
+        "m_X": 317,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6060606,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 3.5000005,
+        "m_Y": -38
+      },
+      "index": 23
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_24",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 35,
+        "m_X": 146,
+        "m_Y": 153
+      },
+      "pivot": {
+        "m_X": 0.62857145,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 4.500001,
+        "m_Y": -38
+      },
+      "index": 24
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_25",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 35,
+        "m_X": 181,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.62857145,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 4.500001,
+        "m_Y": -38
+      },
+      "index": 25
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_26",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 36,
+        "m_X": 75,
+        "m_Y": 153
+      },
+      "pivot": {
+        "m_X": 0.6388889,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 5,
+        "m_Y": -38
+      },
+      "index": 26
+    },
+    {
+      "name": "TPO_idle_wieldingHeavyWeapon_Armor00_27",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 38,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6486486,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 5.499999,
+        "m_Y": -38
+      },
+      "index": 27
+    }
+  ],
+  "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00": [
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_0",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 36,
+        "m_X": 108,
+        "m_Y": 357
+      },
+      "pivot": {
+        "m_X": 0.6388889,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 5,
+        "m_Y": -38
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_1",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 35,
+        "m_X": 148,
+        "m_Y": 136
+      },
+      "pivot": {
+        "m_X": 0.5714286,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 2.500001,
+        "m_Y": -37
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_2",
+      "rect": {
+        "m_Height": 72,
+        "m_Width": 37,
+        "m_X": 108,
+        "m_Y": 433
+      },
+      "pivot": {
+        "m_X": 0.5405405,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 1.499999,
+        "m_Y": -36
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_3",
+      "rect": {
+        "m_Height": 66,
+        "m_Width": 38,
+        "m_X": 320,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.47368422,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -0.9999996,
+        "m_Y": -33
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_4",
+      "rect": {
+        "m_Height": 64,
+        "m_Width": 41,
+        "m_X": 279,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.41463414,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.5000002,
+        "m_Y": -32
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_5",
+      "rect": {
+        "m_Height": 63,
+        "m_Width": 42,
+        "m_X": 237,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.33333334,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -6.9999995,
+        "m_Y": -31.5
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_6",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 46,
+        "m_X": 58,
+        "m_Y": 273
+      },
+      "pivot": {
+        "m_X": 0.39130434,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -5,
+        "m_Y": -32.5
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_7",
+      "rect": {
+        "m_Height": 66,
+        "m_Width": 44,
+        "m_X": 108,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.45454547,
+        "m_Y": -0.045454547
+      },
+      "offset": {
+        "m_X": -1.9999994,
+        "m_Y": -36
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_8",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 50,
+        "m_X": 261,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.48,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -1.0000005,
+        "m_Y": -35
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_9",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 49,
+        "m_X": 411,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.4489796,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -2.5000002,
+        "m_Y": -34.5
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_10",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 49,
+        "m_X": 460,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.42857143,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.4999998,
+        "m_Y": -34.5
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_11",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 50,
+        "m_X": 311,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.44,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3,
+        "m_Y": -34.5
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_12",
+      "rect": {
+        "m_Height": 69,
+        "m_Width": 51,
+        "m_X": 160,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.43137255,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.4999998,
+        "m_Y": -34.5
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_13",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 51,
+        "m_X": 58,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.4117647,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -4.4999995,
+        "m_Y": -35
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_14",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 52,
+        "m_X": 0,
+        "m_Y": 420
+      },
+      "pivot": {
+        "m_X": 0.40384614,
+        "m_Y": -0.014285714
+      },
+      "offset": {
+        "m_X": -5.0000005,
+        "m_Y": -36.000004
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_15",
+      "rect": {
+        "m_Height": 68,
+        "m_Width": 56,
+        "m_X": 0,
+        "m_Y": 141
+      },
+      "pivot": {
+        "m_X": 0.42857143,
+        "m_Y": -0.05882353
+      },
+      "offset": {
+        "m_X": -3.9999998,
+        "m_Y": -38
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_16",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 57,
+        "m_X": 0,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.4385965,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.5000002,
+        "m_Y": -35.5
+      },
+      "index": 16
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_17",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 58,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.46551725,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -1.9999993,
+        "m_Y": -35
+      },
+      "index": 17
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_18",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 54,
+        "m_X": 0,
+        "m_Y": 209
+      },
+      "pivot": {
+        "m_X": 0.42592594,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.9999993,
+        "m_Y": -35
+      },
+      "index": 18
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_19",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 53,
+        "m_X": 0,
+        "m_Y": 279
+      },
+      "pivot": {
+        "m_X": 0.43396226,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.5000005,
+        "m_Y": -35
+      },
+      "index": 19
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_20",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 52,
+        "m_X": 0,
+        "m_Y": 349
+      },
+      "pivot": {
+        "m_X": 0.42307693,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -3.9999998,
+        "m_Y": -35.5
+      },
+      "index": 20
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_21",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 50,
+        "m_X": 58,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.42,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -4.0000005,
+        "m_Y": -35.5
+      },
+      "index": 21
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_22",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 50,
+        "m_X": 211,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.42,
+        "m_Y": -0.014285714
+      },
+      "offset": {
+        "m_X": -4.0000005,
+        "m_Y": -36.000004
+      },
+      "index": 22
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_23",
+      "rect": {
+        "m_Height": 68,
+        "m_Width": 50,
+        "m_X": 361,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.44,
+        "m_Y": -0.04411765
+      },
+      "offset": {
+        "m_X": -3,
+        "m_Y": -37
+      },
+      "index": 23
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_24",
+      "rect": {
+        "m_Height": 70,
+        "m_Width": 51,
+        "m_X": 109,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.47058824,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -1.4999999,
+        "m_Y": -35
+      },
+      "index": 24
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_25",
+      "rect": {
+        "m_Height": 67,
+        "m_Width": 45,
+        "m_X": 58,
+        "m_Y": 206
+      },
+      "pivot": {
+        "m_X": 0.46666667,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -1.4999999,
+        "m_Y": -33.5
+      },
+      "index": 25
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_26",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 48,
+        "m_X": 58,
+        "m_Y": 141
+      },
+      "pivot": {
+        "m_X": 0.33333334,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -7.9999995,
+        "m_Y": -32.5
+      },
+      "index": 26
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_27",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 46,
+        "m_X": 58,
+        "m_Y": 338
+      },
+      "pivot": {
+        "m_X": 0.2826087,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -10,
+        "m_Y": -32.5
+      },
+      "index": 27
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_28",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 46,
+        "m_X": 58,
+        "m_Y": 403
+      },
+      "pivot": {
+        "m_X": 0.32608697,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -7.9999995,
+        "m_Y": -32.5
+      },
+      "index": 28
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_29",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 43,
+        "m_X": 152,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.3488372,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -6.5000005,
+        "m_Y": -32.5
+      },
+      "index": 29
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_30",
+      "rect": {
+        "m_Height": 66,
+        "m_Width": 42,
+        "m_X": 195,
+        "m_Y": 70
+      },
+      "pivot": {
+        "m_X": 0.3809524,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -4.9999995,
+        "m_Y": -33
+      },
+      "index": 30
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_31",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 40,
+        "m_X": 108,
+        "m_Y": 136
+      },
+      "pivot": {
+        "m_X": 0.425,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -2.9999995,
+        "m_Y": -35.5
+      },
+      "index": 31
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_32",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 38,
+        "m_X": 108,
+        "m_Y": 283
+      },
+      "pivot": {
+        "m_X": 0.47368422,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": -0.9999996,
+        "m_Y": -37
+      },
+      "index": 32
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_33",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 35,
+        "m_X": 148,
+        "m_Y": 210
+      },
+      "pivot": {
+        "m_X": 0.54285717,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 1.500001,
+        "m_Y": -37
+      },
+      "index": 33
+    },
+    {
+      "name": "TPO_runCycleCompleteWieldingHeavyWeapon_Amor00_34",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 108,
+        "m_Y": 207
+      },
+      "pivot": {
+        "m_X": 0.6486486,
+        "m_Y": 0
+      },
+      "offset": {
+        "m_X": 5.499999,
+        "m_Y": -38
+      },
+      "index": 34
+    }
+  ],
+  "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00": [
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_0",
+      "rect": {
+        "m_Height": 82,
+        "m_Width": 34,
+        "m_X": 40,
+        "m_Y": 80
+      },
+      "pivot": {
+        "m_X": 0.5588235,
+        "m_Y": -0.0004878044
+      },
+      "offset": {
+        "m_X": 1.9999999,
+        "m_Y": -41.04
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_1",
+      "rect": {
+        "m_Height": 82,
+        "m_Width": 34,
+        "m_X": 40,
+        "m_Y": 162
+      },
+      "pivot": {
+        "m_X": 0.5588235,
+        "m_Y": -0.0004878044
+      },
+      "offset": {
+        "m_X": 1.9999999,
+        "m_Y": -41.04
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_2",
+      "rect": {
+        "m_Height": 82,
+        "m_Width": 34,
+        "m_X": 74,
+        "m_Y": 80
+      },
+      "pivot": {
+        "m_X": 0.5588235,
+        "m_Y": -0.0004878044
+      },
+      "offset": {
+        "m_X": 1.9999999,
+        "m_Y": -41.04
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_3",
+      "rect": {
+        "m_Height": 82,
+        "m_Width": 34,
+        "m_X": 74,
+        "m_Y": 162
+      },
+      "pivot": {
+        "m_X": 0.5588235,
+        "m_Y": -0.0004878044
+      },
+      "offset": {
+        "m_X": 1.9999999,
+        "m_Y": -41.04
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_4",
+      "rect": {
+        "m_Height": 82,
+        "m_Width": 34,
+        "m_X": 108,
+        "m_Y": 80
+      },
+      "pivot": {
+        "m_X": 0.5588235,
+        "m_Y": -0.0004878044
+      },
+      "offset": {
+        "m_X": 1.9999999,
+        "m_Y": -41.04
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_5",
+      "rect": {
+        "m_Height": 82,
+        "m_Width": 34,
+        "m_X": 108,
+        "m_Y": 162
+      },
+      "pivot": {
+        "m_X": 0.5588235,
+        "m_Y": -0.0004878044
+      },
+      "offset": {
+        "m_X": 1.9999999,
+        "m_Y": -41.04
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_6",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 34,
+        "m_X": 198,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.5,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 0,
+        "m_Y": -41.04
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_7",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 32,
+        "m_X": 142,
+        "m_Y": 142
+      },
+      "pivot": {
+        "m_X": 0.46875,
+        "m_Y": -0.054594595
+      },
+      "offset": {
+        "m_X": -1,
+        "m_Y": -41.039997
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_8",
+      "rect": {
+        "m_Height": 58,
+        "m_Width": 37,
+        "m_X": 174,
+        "m_Y": 142
+      },
+      "pivot": {
+        "m_X": 0.4054054,
+        "m_Y": -0.22482759
+      },
+      "offset": {
+        "m_X": -3.5,
+        "m_Y": -42.04
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_9",
+      "rect": {
+        "m_Height": 54,
+        "m_Width": 41,
+        "m_X": 183,
+        "m_Y": 80
+      },
+      "pivot": {
+        "m_X": 0.31707317,
+        "m_Y": -0.24148148
+      },
+      "offset": {
+        "m_X": -7.5,
+        "m_Y": -40.04
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_10",
+      "rect": {
+        "m_Height": 62,
+        "m_Width": 41,
+        "m_X": 142,
+        "m_Y": 80
+      },
+      "pivot": {
+        "m_X": 0.46341464,
+        "m_Y": -0.16193548
+      },
+      "offset": {
+        "m_X": -1.4999998,
+        "m_Y": -41.039997
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_11",
+      "rect": {
+        "m_Height": 73,
+        "m_Width": 38,
+        "m_X": 160,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.5263158,
+        "m_Y": -0.055342466
+      },
+      "offset": {
+        "m_X": 1.0000007,
+        "m_Y": -40.539997
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_12",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 40,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.575,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 2.9999995,
+        "m_Y": -41.04
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_13",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 40,
+        "m_X": 0,
+        "m_Y": 80
+      },
+      "pivot": {
+        "m_X": 0.575,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 2.9999995,
+        "m_Y": -41.04
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_14",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 40,
+        "m_X": 0,
+        "m_Y": 160
+      },
+      "pivot": {
+        "m_X": 0.575,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 2.9999995,
+        "m_Y": -41.04
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_15",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 40,
+        "m_X": 40,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.575,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 2.9999995,
+        "m_Y": -41.04
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_16",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 40,
+        "m_X": 80,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.575,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 2.9999995,
+        "m_Y": -41.04
+      },
+      "index": 16
+    },
+    {
+      "name": "TPO_jumpVerticalSequenceWieldingHeavyWeapon_armor00_17",
+      "rect": {
+        "m_Height": 80,
+        "m_Width": 40,
+        "m_X": 120,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.575,
+        "m_Y": -0.012999999
+      },
+      "offset": {
+        "m_X": 2.9999995,
+        "m_Y": -41.04
+      },
+      "index": 17
+    }
+  ],
+  "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00": [
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_0",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 46,
+        "m_X": 49,
+        "m_Y": 79
+      },
+      "pivot": {
+        "m_X": 0.3478261,
+        "m_Y": -0.00050632865
+      },
+      "offset": {
+        "m_X": -6.9999995,
+        "m_Y": -39.54
+      },
+      "index": 0
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_1",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 46,
+        "m_X": 49,
+        "m_Y": 158
+      },
+      "pivot": {
+        "m_X": 0.3478261,
+        "m_Y": -0.00050632865
+      },
+      "offset": {
+        "m_X": -6.9999995,
+        "m_Y": -39.54
+      },
+      "index": 1
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_2",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 47,
+        "m_X": 0,
+        "m_Y": 79
+      },
+      "pivot": {
+        "m_X": 0.3617021,
+        "m_Y": -0.00050632865
+      },
+      "offset": {
+        "m_X": -6.5000005,
+        "m_Y": -39.54
+      },
+      "index": 2
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_3",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 47,
+        "m_X": 0,
+        "m_Y": 158
+      },
+      "pivot": {
+        "m_X": 0.3617021,
+        "m_Y": -0.00050632865
+      },
+      "offset": {
+        "m_X": -6.5000005,
+        "m_Y": -39.54
+      },
+      "index": 3
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_4",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 47,
+        "m_X": 49,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.3617021,
+        "m_Y": -0.00050632865
+      },
+      "offset": {
+        "m_X": -6.5000005,
+        "m_Y": -39.54
+      },
+      "index": 4
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_5",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 46,
+        "m_X": 96,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.3478261,
+        "m_Y": -0.00050632865
+      },
+      "offset": {
+        "m_X": -6.9999995,
+        "m_Y": -39.54
+      },
+      "index": 5
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_6",
+      "rect": {
+        "m_Height": 79,
+        "m_Width": 49,
+        "m_X": 0,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.3877551,
+        "m_Y": -0.013164557
+      },
+      "offset": {
+        "m_X": -5.5000005,
+        "m_Y": -40.54
+      },
+      "index": 6
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_7",
+      "rect": {
+        "m_Height": 75,
+        "m_Width": 48,
+        "m_X": 142,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.45833334,
+        "m_Y": -0.040533334
+      },
+      "offset": {
+        "m_X": -1.9999995,
+        "m_Y": -40.539997
+      },
+      "index": 7
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_8",
+      "rect": {
+        "m_Height": 61,
+        "m_Width": 47,
+        "m_X": 233,
+        "m_Y": 68
+      },
+      "pivot": {
+        "m_X": 0.3617021,
+        "m_Y": -0.19737706
+      },
+      "offset": {
+        "m_X": -6.5000005,
+        "m_Y": -42.54
+      },
+      "index": 8
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_9",
+      "rect": {
+        "m_Height": 54,
+        "m_Width": 46,
+        "m_X": 367,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.32608697,
+        "m_Y": -0.24148148
+      },
+      "offset": {
+        "m_X": -7.9999995,
+        "m_Y": -40.04
+      },
+      "index": 9
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_10",
+      "rect": {
+        "m_Height": 57,
+        "m_Width": 49,
+        "m_X": 318,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.3877551,
+        "m_Y": -0.21122807
+      },
+      "offset": {
+        "m_X": -5.5000005,
+        "m_Y": -40.54
+      },
+      "index": 10
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_11",
+      "rect": {
+        "m_Height": 68,
+        "m_Width": 48,
+        "m_X": 233,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.4375,
+        "m_Y": -0.059411764
+      },
+      "offset": {
+        "m_X": -3,
+        "m_Y": -38.04
+      },
+      "index": 11
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_12",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 96,
+        "m_Y": 79
+      },
+      "pivot": {
+        "m_X": 0.55813956,
+        "m_Y": -0.01368421
+      },
+      "offset": {
+        "m_X": 2.5000012,
+        "m_Y": -39.04
+      },
+      "index": 12
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_13",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 96,
+        "m_Y": 155
+      },
+      "pivot": {
+        "m_X": 0.55813956,
+        "m_Y": -0.01368421
+      },
+      "offset": {
+        "m_X": 2.5000012,
+        "m_Y": -39.04
+      },
+      "index": 13
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_14",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 142,
+        "m_Y": 75
+      },
+      "pivot": {
+        "m_X": 0.55813956,
+        "m_Y": -0.01368421
+      },
+      "offset": {
+        "m_X": 2.5000012,
+        "m_Y": -39.04
+      },
+      "index": 14
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_15",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 142,
+        "m_Y": 151
+      },
+      "pivot": {
+        "m_X": 0.55813956,
+        "m_Y": -0.01368421
+      },
+      "offset": {
+        "m_X": 2.5000012,
+        "m_Y": -39.04
+      },
+      "index": 15
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_16",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 190,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.55813956,
+        "m_Y": -0.01368421
+      },
+      "offset": {
+        "m_X": 2.5000012,
+        "m_Y": -39.04
+      },
+      "index": 16
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_17",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 43,
+        "m_X": 190,
+        "m_Y": 76
+      },
+      "pivot": {
+        "m_X": 0.55813956,
+        "m_Y": -0.01368421
+      },
+      "offset": {
+        "m_X": 2.5000012,
+        "m_Y": -39.04
+      },
+      "index": 17
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_18",
+      "rect": {
+        "m_Height": 62,
+        "m_Width": 44,
+        "m_X": 318,
+        "m_Y": 57
+      },
+      "pivot": {
+        "m_X": 0.3409091,
+        "m_Y": -0.0006451607
+      },
+      "offset": {
+        "m_X": -7,
+        "m_Y": -31.04
+      },
+      "index": 18
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_19",
+      "rect": {
+        "m_Height": 65,
+        "m_Width": 38,
+        "m_X": 318,
+        "m_Y": 190
+      },
+      "pivot": {
+        "m_X": 0.36842105,
+        "m_Y": -0.000615384
+      },
+      "offset": {
+        "m_X": -5,
+        "m_Y": -32.539997
+      },
+      "index": 19
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_20",
+      "rect": {
+        "m_Height": 71,
+        "m_Width": 38,
+        "m_X": 318,
+        "m_Y": 119
+      },
+      "pivot": {
+        "m_X": 0.4473684,
+        "m_Y": -0.0005633797
+      },
+      "offset": {
+        "m_X": -2.0000002,
+        "m_Y": -35.54
+      },
+      "index": 20
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_21",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 38,
+        "m_X": 190,
+        "m_Y": 152
+      },
+      "pivot": {
+        "m_X": 0.5263158,
+        "m_Y": -0.00054054003
+      },
+      "offset": {
+        "m_X": 1.0000007,
+        "m_Y": -37.04
+      },
+      "index": 21
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_22",
+      "rect": {
+        "m_Height": 74,
+        "m_Width": 38,
+        "m_X": 233,
+        "m_Y": 129
+      },
+      "pivot": {
+        "m_X": 0.6052632,
+        "m_Y": -0.00054054003
+      },
+      "offset": {
+        "m_X": 4.0000005,
+        "m_Y": -37.04
+      },
+      "index": 22
+    },
+    {
+      "name": "TPO_jumpHorizontalSequenceWieldingHeavyWeapon_armor00_23",
+      "rect": {
+        "m_Height": 76,
+        "m_Width": 37,
+        "m_X": 281,
+        "m_Y": 0
+      },
+      "pivot": {
+        "m_X": 0.6486486,
+        "m_Y": -0.0005263153
+      },
+      "offset": {
+        "m_X": 5.499999,
+        "m_Y": -38.04
+      },
+      "index": 23
+    }
+  ]
+}

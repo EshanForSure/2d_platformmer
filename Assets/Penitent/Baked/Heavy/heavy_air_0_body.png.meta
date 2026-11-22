@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: d5c6dafb28c04e7479e92de8944ad4b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7200025943945647955
+    second: heavy_air_0_body_0
+  - first:
+      213: 2356134416981149807
+    second: heavy_air_0_body_1
+  - first:
+      213: -6975134308631678905
+    second: heavy_air_0_body_2
+  - first:
+      213: -3340408417367223246
+    second: heavy_air_0_body_3
+  - first:
+      213: 2631457644034455579
+    second: heavy_air_0_body_4
+  - first:
+      213: 6090905252950684023
+    second: heavy_air_0_body_5
+  - first:
+      213: -6236010233312143355
+    second: heavy_air_0_body_6
+  - first:
+      213: 6085719711891137268
+    second: heavy_air_0_body_7
+  - first:
+      213: 7295194653168038522
+    second: heavy_air_0_body_8
+  - first:
+      213: 2567409696958820557
+    second: heavy_air_0_body_9
+  - first:
+      213: -7009611936697448931
+    second: heavy_air_0_body_10
+  - first:
+      213: 7628040964398970724
+    second: heavy_air_0_body_11
+  - first:
+      213: -4377704222245456190
+    second: heavy_air_0_body_12
+  - first:
+      213: 4510031737725923978
+    second: heavy_air_0_body_13
+  - first:
+      213: 2668757997138206180
+    second: heavy_air_0_body_14
+  - first:
+      213: 6798170792709809155
+    second: heavy_air_0_body_15
+  - first:
+      213: 3480967486922048172
+    second: heavy_air_0_body_000
+  - first:
+      213: -2028427229644638977
+    second: heavy_air_0_body_001
+  - first:
+      213: 998767813776497936
+    second: heavy_air_0_body_002
+  - first:
+      213: 2503015160617999379
+    second: heavy_air_0_body_003
+  - first:
+      213: -2762685891424800339
+    second: heavy_air_0_body_004
+  - first:
+      213: -5412099671599906060
+    second: heavy_air_0_body_005
+  - first:
+      213: 5587175739332440913
+    second: heavy_air_0_body_006
+  - first:
+      213: -6363317699446057777
+    second: heavy_air_0_body_007
+  - first:
+      213: -7994777880920609614
+    second: heavy_air_0_body_008
+  - first:
+      213: 8355097709466847899
+    second: heavy_air_0_body_009
+  - first:
+      213: 2720406127687536995
+    second: heavy_air_0_body_010
+  - first:
+      213: -5658394401068641298
+    second: heavy_air_0_body_011
+  - first:
+      213: 5675905268809688877
+    second: heavy_air_0_body_012
+  - first:
+      213: 7996295691575683351
+    second: heavy_air_0_body_013
+  - first:
+      213: 7563448666314892081
+    second: heavy_air_0_body_014
+  - first:
+      213: -8255126831625916353
+    second: heavy_air_0_body_015
+  - first:
+      213: -6792907503658173484
+    second: heavy_air_0_body_016
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy_air_0_body_000
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 39
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4101539, y: -0.00050624413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24ca48c71ee4030800000000000000
+      internalID: 3480967486922048172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_001
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 364
+        width: 30
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5665334, y: -0.027567476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff43d448e2499d3e0800000000000000
+      internalID: -2028427229644638977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 33
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5150304, y: -0.069041006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ddd31f8065cdd00800000000000000
+      internalID: 998767813776497936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_003
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 140
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6135455, y: -0.027567476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c9d0ce60f7cb220800000000000000
+      internalID: 2503015160617999379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_004
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 140
+        width: 42
+        height: 77
+      alignment: 9
+      pivot: {x: 0.54752386, y: -0.026493419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da134afa1d7f8a9d0800000000000000
+      internalID: -2762685891424800339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48637843, y: -0.039999913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f28741f50c54e4b0800000000000000
+      internalID: -5412099671599906060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_006
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 140
+        width: 35
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5141715, y: -0.04987646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15337989bb2a98d40800000000000000
+      internalID: 5587175739332440913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.36947832, y: -0.025185103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4df834444f0b7a0800000000000000
+      internalID: -6363317699446057777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3285143, y: -0.04108099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bca39d10e7dc0190800000000000000
+      internalID: -7994777880920609614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_009
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: 0.33797187, y: -0.044057872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a837c791543f370800000000000000
+      internalID: 8355097709466847899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_010
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.37090325, y: -0.015294019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3619c95b5f2d0c520800000000000000
+      internalID: 2720406127687536995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 57
+        height: 66
+      alignment: 9
+      pivot: {x: 0.43852636, y: -0.00060595886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39e3d85485971b0800000000000000
+      internalID: -5658394401068641298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_012
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 51
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5489412, y: -0.07304338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d276b2e05cdd4ce40800000000000000
+      internalID: 5675905268809688877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44176748, y: -0.059411667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ea57b09c88fe60800000000000000
+      internalID: 7996295691575683351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_014
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 36
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49988896, y: -0.013866577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e9983d74c6f860800000000000000
+      internalID: 7563448666314892081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 37
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5674595, y: -0.027945114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30342952e5ef6d80800000000000000
+      internalID: -8255126831625916353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_body_016
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 140
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.60455817, y: -0.013684122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db7e54ad9ebab1a0800000000000000
+      internalID: -6792907503658173484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heavy_air_0_body_0: -7200025943945647955
+      heavy_air_0_body_000: 3480967486922048172
+      heavy_air_0_body_001: -2028427229644638977
+      heavy_air_0_body_002: 998767813776497936
+      heavy_air_0_body_003: 2503015160617999379
+      heavy_air_0_body_004: -2762685891424800339
+      heavy_air_0_body_005: -5412099671599906060
+      heavy_air_0_body_006: 5587175739332440913
+      heavy_air_0_body_007: -6363317699446057777
+      heavy_air_0_body_008: -7994777880920609614
+      heavy_air_0_body_009: 8355097709466847899
+      heavy_air_0_body_010: 2720406127687536995
+      heavy_air_0_body_011: -5658394401068641298
+      heavy_air_0_body_012: 5675905268809688877
+      heavy_air_0_body_013: 7996295691575683351
+      heavy_air_0_body_014: 7563448666314892081
+      heavy_air_0_body_015: -8255126831625916353
+      heavy_air_0_body_016: -6792907503658173484
+      heavy_air_0_body_1: 2356134416981149807
+      heavy_air_0_body_10: -7009611936697448931
+      heavy_air_0_body_11: 7628040964398970724
+      heavy_air_0_body_12: -4377704222245456190
+      heavy_air_0_body_13: 4510031737725923978
+      heavy_air_0_body_14: 2668757997138206180
+      heavy_air_0_body_15: 6798170792709809155
+      heavy_air_0_body_2: -6975134308631678905
+      heavy_air_0_body_3: -3340408417367223246
+      heavy_air_0_body_4: 2631457644034455579
+      heavy_air_0_body_5: 6090905252950684023
+      heavy_air_0_body_6: -6236010233312143355
+      heavy_air_0_body_7: 6085719711891137268
+      heavy_air_0_body_8: 7295194653168038522
+      heavy_air_0_body_9: 2567409696958820557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

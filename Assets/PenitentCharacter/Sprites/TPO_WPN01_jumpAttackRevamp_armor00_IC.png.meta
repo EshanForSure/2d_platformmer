@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 94416e1087f6dd8cb82d8b7f3bf8774f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 39
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4101539, y: -0.00050624413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e8388bd5df78d46e9a4efccbefb179
+      internalID: 5059074292519781536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 364
+        width: 30
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5665334, y: -0.027567476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b772904cbc778dc20db7fe5348f3b46
+      internalID: 4383452042879833049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 33
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5150304, y: -0.069041006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0aa634bb4cfb03bd626748341b53b
+      internalID: -1497385212180726571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 140
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6135455, y: -0.027567476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28fde768331accef90593b0a8e2ff1
+      internalID: 5151716321540976735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 140
+        width: 42
+        height: 77
+      alignment: 9
+      pivot: {x: 0.54752386, y: -0.026493419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d06185dd8b786ed2b74c64e28c4f499
+      internalID: -4302701665504430862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 37
+        height: 76
+      alignment: 9
+      pivot: {x: 0.48637843, y: -0.039999913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b5bcff25ca10c229ddcde43a4ef91
+      internalID: 4721963848514044452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 140
+        width: 35
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5141715, y: -0.04987646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a1776402ab7d94d3f1d1eff95ab83
+      internalID: -7525046807924830784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.36947832, y: -0.025185103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b681a37b277bed2e976808f4c9df8f8
+      internalID: -2596410048888598758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3285143, y: -0.04108099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664aac8c0f4309d4d0744f588922a859
+      internalID: -1506964228450333922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: 0.33797187, y: -0.044057872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914c0a53936315e2a2d7557d307e8fdb
+      internalID: 299511109550845189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.37090325, y: -0.015294019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70d5bdbec16585507b2654cb6c7b66
+      internalID: -7084397207480293534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 57
+        height: 66
+      alignment: 9
+      pivot: {x: 0.43852636, y: -0.00060595886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3f888d1dec0b097d0d216a9b9234a
+      internalID: -1347299720788153695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 51
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5489412, y: -0.07304338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc742417e51a23b402b35d88a787ead
+      internalID: 3411986849591725749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 43
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44176748, y: -0.059411667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9cf058ad6cf45caa6f30dd35971b3
+      internalID: 837683572347691344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 36
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49988896, y: -0.013866577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf4c200cf9bce0a6c7e52d923a79997
+      internalID: -7140466452917058283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 37
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5674595, y: -0.027945114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6620936478b12e48b2f0d10833f723
+      internalID: 8756157390567558581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_WPN01_jumpAttackRevamp_armor00_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 140
+        width: 43
+        height: 76
+      alignment: 9
+      pivot: {x: 0.60455817, y: -0.013684122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c6c8f7a79e67a1eb52b58ccf34c01
+      internalID: -7757621468950593228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee72c086abb57d2b14f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TPO_WPN01_jumpAttackRevamp_armor00_0: 5059074292519781536
+      TPO_WPN01_jumpAttackRevamp_armor00_1: 4383452042879833049
+      TPO_WPN01_jumpAttackRevamp_armor00_10: -7084397207480293534
+      TPO_WPN01_jumpAttackRevamp_armor00_11: -1347299720788153695
+      TPO_WPN01_jumpAttackRevamp_armor00_12: 3411986849591725749
+      TPO_WPN01_jumpAttackRevamp_armor00_13: 837683572347691344
+      TPO_WPN01_jumpAttackRevamp_armor00_14: -7140466452917058283
+      TPO_WPN01_jumpAttackRevamp_armor00_15: 8756157390567558581
+      TPO_WPN01_jumpAttackRevamp_armor00_16: -7757621468950593228
+      TPO_WPN01_jumpAttackRevamp_armor00_2: -1497385212180726571
+      TPO_WPN01_jumpAttackRevamp_armor00_3: 5151716321540976735
+      TPO_WPN01_jumpAttackRevamp_armor00_4: -4302701665504430862
+      TPO_WPN01_jumpAttackRevamp_armor00_5: 4721963848514044452
+      TPO_WPN01_jumpAttackRevamp_armor00_6: -7525046807924830784
+      TPO_WPN01_jumpAttackRevamp_armor00_7: -2596410048888598758
+      TPO_WPN01_jumpAttackRevamp_armor00_8: -1506964228450333922
+      TPO_WPN01_jumpAttackRevamp_armor00_9: 299511109550845189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

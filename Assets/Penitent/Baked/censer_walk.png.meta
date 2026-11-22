@@ -1,0 +1,1289 @@
+fileFormatVersion: 2
+guid: 7ddd1d16f13878645baeb09df24df246
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6687170636899059467
+    second: censer_walk_0
+  - first:
+      213: -2446704950415741897
+    second: censer_walk_1
+  - first:
+      213: 2380563406096587678
+    second: censer_walk_2
+  - first:
+      213: 8599440952977466136
+    second: censer_walk_3
+  - first:
+      213: 6557334235232236892
+    second: censer_walk_4
+  - first:
+      213: -703823616372824222
+    second: censer_walk_5
+  - first:
+      213: 3006766852211424401
+    second: censer_walk_6
+  - first:
+      213: -1175924351853114605
+    second: censer_walk_7
+  - first:
+      213: -1454941838620665043
+    second: censer_walk_8
+  - first:
+      213: -1463039894949815112
+    second: censer_walk_9
+  - first:
+      213: -2659458802218059626
+    second: censer_walk_10
+  - first:
+      213: -5105935150485723668
+    second: censer_walk_11
+  - first:
+      213: 981524445839825431
+    second: censer_walk_12
+  - first:
+      213: 1493881823903404119
+    second: censer_walk_13
+  - first:
+      213: 3989176352818652022
+    second: censer_walk_14
+  - first:
+      213: 7734831640547276060
+    second: censer_walk_15
+  - first:
+      213: -6206396903129448044
+    second: censer_walk_16
+  - first:
+      213: 8865809437068287650
+    second: censer_walk_17
+  - first:
+      213: 5690191932013946381
+    second: censer_walk_18
+  - first:
+      213: -6797467441987813752
+    second: censer_walk_19
+  - first:
+      213: -8903334695218631194
+    second: censer_walk_20
+  - first:
+      213: -1242026978892380696
+    second: censer_walk_21
+  - first:
+      213: -2339498969383049934
+    second: censer_walk_22
+  - first:
+      213: -5636105774798247875
+    second: censer_walk_23
+  - first:
+      213: 2461102915055463514
+    second: censer_walk_24
+  - first:
+      213: -3769860321049991865
+    second: censer_walk_25
+  - first:
+      213: -1006820385245998867
+    second: censer_walk_26
+  - first:
+      213: -3786498971543346650
+    second: censer_walk_27
+  - first:
+      213: -3762557425438134405
+    second: censer_walk_28
+  - first:
+      213: 7794715488197675134
+    second: censer_walk_29
+  - first:
+      213: -2533372780040692180
+    second: censer_walk_30
+  - first:
+      213: 9126639874325104839
+    second: censer_walk_31
+  - first:
+      213: -5941326489617023996
+    second: censer_walk_32
+  - first:
+      213: -8324173666740375272
+    second: censer_walk_33
+  - first:
+      213: -5243746179079150326
+    second: censer_walk_34
+  - first:
+      213: 2845690508531554781
+    second: censer_walk_35
+  - first:
+      213: 1966301603874916141
+    second: censer_walk_36
+  - first:
+      213: 9048158040611344884
+    second: censer_walk_37
+  - first:
+      213: 2446144382068493314
+    second: censer_walk_38
+  - first:
+      213: 7823374939650598831
+    second: censer_walk_39
+  - first:
+      213: -8054669934733004443
+    second: censer_walk_40
+  - first:
+      213: 7970366728194299903
+    second: censer_walk_41
+  - first:
+      213: 4004925704443156554
+    second: censer_walk_42
+  - first:
+      213: 6100660071586973277
+    second: censer_walk_43
+  - first:
+      213: 7292528385106331582
+    second: censer_walk_44
+  - first:
+      213: 8054518093502967559
+    second: censer_walk_45
+  - first:
+      213: 544365511573001920
+    second: censer_walk_46
+  - first:
+      213: 1177797508064903103
+    second: censer_walk_47
+  - first:
+      213: -3987694324360136833
+    second: censer_walk_48
+  - first:
+      213: 8803864226714503232
+    second: censer_walk_49
+  - first:
+      213: -2515133371805322290
+    second: censer_walk_50
+  - first:
+      213: -4066922524982599691
+    second: censer_walk_51
+  - first:
+      213: -982044684666151257
+    second: censer_walk_52
+  - first:
+      213: -9076233718795490840
+    second: censer_walk_53
+  - first:
+      213: -2765177120707562677
+    second: censer_walk_54
+  - first:
+      213: 3099185583802631406
+    second: censer_walk_55
+  - first:
+      213: 6654664320346039346
+    second: censer_walk_56
+  - first:
+      213: -1793823410692883549
+    second: censer_walk_57
+  - first:
+      213: -7417455283708604161
+    second: censer_walk_58
+  - first:
+      213: -1662465709784037361
+    second: censer_walk_59
+  - first:
+      213: 8783783540058618298
+    second: censer_walk_60
+  - first:
+      213: -5587169789448836675
+    second: censer_walk_61
+  - first:
+      213: 8854764153561408930
+    second: censer_walk_62
+  - first:
+      213: 8293272390607270501
+    second: censer_walk_63
+  - first:
+      213: 6638828091638758198
+    second: censer_walk_64
+  - first:
+      213: 3954248106948146861
+    second: censer_walk_000
+  - first:
+      213: -8732739933309182036
+    second: censer_walk_001
+  - first:
+      213: 4124306959559733675
+    second: censer_walk_002
+  - first:
+      213: -797317995111324709
+    second: censer_walk_003
+  - first:
+      213: 6647150881089323643
+    second: censer_walk_004
+  - first:
+      213: 4355780949031794855
+    second: censer_walk_005
+  - first:
+      213: -8585415808099301956
+    second: censer_walk_006
+  - first:
+      213: 3359104538170859922
+    second: censer_walk_007
+  - first:
+      213: -2727713009627900832
+    second: censer_walk_008
+  - first:
+      213: -852743422337301842
+    second: censer_walk_009
+  - first:
+      213: 9019986213192213110
+    second: censer_walk_010
+  - first:
+      213: 7679979430444360153
+    second: censer_walk_011
+  - first:
+      213: 8072457154618013256
+    second: censer_walk_012
+  - first:
+      213: -1911220398485956078
+    second: censer_walk_013
+  - first:
+      213: 3627784104705155796
+    second: censer_walk_014
+  - first:
+      213: -5427211372394775537
+    second: censer_walk_015
+  - first:
+      213: -3287467438673215837
+    second: censer_walk_016
+  - first:
+      213: 6998331446327451923
+    second: censer_walk_017
+  - first:
+      213: 5157998118952545603
+    second: censer_walk_018
+  - first:
+      213: -6592679693281874794
+    second: censer_walk_019
+  - first:
+      213: 4720433407203557081
+    second: censer_walk_020
+  - first:
+      213: -8177311879264553331
+    second: censer_walk_021
+  - first:
+      213: -2539996272184532992
+    second: censer_walk_022
+  - first:
+      213: -1403456743212958099
+    second: censer_walk_023
+  - first:
+      213: -7076282146270617673
+    second: censer_walk_024
+  - first:
+      213: 5016117081859499620
+    second: censer_walk_025
+  - first:
+      213: -9219909502256634393
+    second: censer_walk_026
+  - first:
+      213: -8060833523867044835
+    second: censer_walk_027
+  - first:
+      213: 4518857064921987322
+    second: censer_walk_028
+  - first:
+      213: 7754980605772892984
+    second: censer_walk_029
+  - first:
+      213: 9204985868198338847
+    second: censer_walk_030
+  - first:
+      213: -7464681464285692397
+    second: censer_walk_031
+  - first:
+      213: -4816932140331197490
+    second: censer_walk_032
+  - first:
+      213: -6251823575232003679
+    second: censer_walk_033
+  - first:
+      213: -1209797417982450882
+    second: censer_walk_034
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: censer_walk_000
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.94235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b768e3bf40e630800000000000000
+      internalID: 3954248106948146861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54, y: -0.94235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafdc377c431fc680800000000000000
+      internalID: -8732739933309182036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: -0.5961905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ba35045b7c3930800000000000000
+      internalID: 4124306959559733675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 27
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6296296, y: -0.39698115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3ec50028b5fe4f0800000000000000
+      internalID: -797317995111324709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.78571427, y: -0.44307694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7201cb128c6f3c50800000000000000
+      internalID: 6647150881089323643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_005
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7111111, y: -0.61454546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8347af1b7d27c30800000000000000
+      internalID: 4355780949031794855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_006
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.7222222, y: -0.79529417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c73d5fc97ad880800000000000000
+      internalID: -8585415808099301956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_007
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 56
+        height: 28
+      alignment: 9
+      pivot: {x: 0.71428573, y: -0.89428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a319b7cfed9e20800000000000000
+      internalID: 3359104538170859922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_008
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 172
+        width: 56
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6964286, y: -0.74222225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064dae34877352ad0800000000000000
+      internalID: -2727713009627900832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.68421054, y: -0.44592592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2c80b10627a24f0800000000000000
+      internalID: -852743422337301842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_010
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 145
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6666667, y: -0.26074073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722e34cbad6d2d70800000000000000
+      internalID: 9019986213192213110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_011
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 199
+        width: 57
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6315789, y: -0.23230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d161f90a94c49a60800000000000000
+      internalID: 7679979430444360153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_012
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 172
+        width: 55
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6181818, y: -0.11259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846319d2301270070800000000000000
+      internalID: 8072457154618013256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_013
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 78
+        width: 54
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5185185, y: -0.067999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a93c47c2bf975e0800000000000000
+      internalID: -1911220398485956078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 53
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4716981, y: -0.03151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d262c22c6a785230800000000000000
+      internalID: 3627784104705155796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_015
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.44, y: -0.06375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cf27be20caea4b0800000000000000
+      internalID: -5427211372394775537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_016
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 199
+        width: 49
+        height: 28
+      alignment: 9
+      pivot: {x: 0.40816328, y: -0.14428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae383348c19062d0800000000000000
+      internalID: -3287467438673215837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_017
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.44, y: -0.06375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3112bc62f511f1160800000000000000
+      internalID: 6998331446327451923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_018
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 78
+        width: 53
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4716981, y: -0.03151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dac4006f3e49740800000000000000
+      internalID: 5157998118952545603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_019
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78
+        width: 54
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5185185, y: -0.067999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca00c9fb81284a0800000000000000
+      internalID: -6592679693281874794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_020
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 172
+        width: 55
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6181818, y: -0.11259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de31468c29528140800000000000000
+      internalID: 4720433407203557081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_021
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 199
+        width: 57
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6315789, y: -0.23230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86badacb2a548e80800000000000000
+      internalID: -8177311879264553331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_022
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 145
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6666667, y: -0.29777777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ef9119de10ccd0800000000000000
+      internalID: -2539996272184532992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_023
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 145
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.68421054, y: -0.48296297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e3a23278be58ce0800000000000000
+      internalID: -1403456743212958099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 57
+        height: 27
+      alignment: 9
+      pivot: {x: 0.68421054, y: -0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfd91531eefbcd90800000000000000
+      internalID: -7076282146270617673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.82222223, y: -0.41000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662100d8e3dc9540800000000000000
+      internalID: 5016117081859499620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 28
+        height: 52
+      alignment: 9
+      pivot: {x: 0.9285714, y: -0.30846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5aeb8282d4c0080800000000000000
+      internalID: -9219909502256634393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_027
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 27
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6296296, y: -0.30264154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1438504e9a222090800000000000000
+      internalID: -8060833523867044835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_028
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 199
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: -0.54857147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af870710f8436be30800000000000000
+      internalID: 4518857064921987322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_029
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 50
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: -0.8835294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0327f5c93f9b60800000000000000
+      internalID: 7754980605772892984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: -0.94235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11e37480edaebf70800000000000000
+      internalID: 9204985868198338847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_031
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 44
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5090909, y: -1.0325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31efecff1cf186890800000000000000
+      internalID: -7464681464285692397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_032
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 44
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5185185, y: -0.94235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb95645db1d62db0800000000000000
+      internalID: -4816932140331197490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_033
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.537037, y: -0.94235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a142e7f49f0d39a0800000000000000
+      internalID: -6251823575232003679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: censer_walk_034
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.94235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33a8fa78afe53fe0800000000000000
+      internalID: -1209797417982450882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      censer_walk_0: -6687170636899059467
+      censer_walk_000: 3954248106948146861
+      censer_walk_001: -8732739933309182036
+      censer_walk_002: 4124306959559733675
+      censer_walk_003: -797317995111324709
+      censer_walk_004: 6647150881089323643
+      censer_walk_005: 4355780949031794855
+      censer_walk_006: -8585415808099301956
+      censer_walk_007: 3359104538170859922
+      censer_walk_008: -2727713009627900832
+      censer_walk_009: -852743422337301842
+      censer_walk_010: 9019986213192213110
+      censer_walk_011: 7679979430444360153
+      censer_walk_012: 8072457154618013256
+      censer_walk_013: -1911220398485956078
+      censer_walk_014: 3627784104705155796
+      censer_walk_015: -5427211372394775537
+      censer_walk_016: -3287467438673215837
+      censer_walk_017: 6998331446327451923
+      censer_walk_018: 5157998118952545603
+      censer_walk_019: -6592679693281874794
+      censer_walk_020: 4720433407203557081
+      censer_walk_021: -8177311879264553331
+      censer_walk_022: -2539996272184532992
+      censer_walk_023: -1403456743212958099
+      censer_walk_024: -7076282146270617673
+      censer_walk_025: 5016117081859499620
+      censer_walk_026: -9219909502256634393
+      censer_walk_027: -8060833523867044835
+      censer_walk_028: 4518857064921987322
+      censer_walk_029: 7754980605772892984
+      censer_walk_030: 9204985868198338847
+      censer_walk_031: -7464681464285692397
+      censer_walk_032: -4816932140331197490
+      censer_walk_033: -6251823575232003679
+      censer_walk_034: -1209797417982450882
+      censer_walk_1: -2446704950415741897
+      censer_walk_10: -2659458802218059626
+      censer_walk_11: -5105935150485723668
+      censer_walk_12: 981524445839825431
+      censer_walk_13: 1493881823903404119
+      censer_walk_14: 3989176352818652022
+      censer_walk_15: 7734831640547276060
+      censer_walk_16: -6206396903129448044
+      censer_walk_17: 8865809437068287650
+      censer_walk_18: 5690191932013946381
+      censer_walk_19: -6797467441987813752
+      censer_walk_2: 2380563406096587678
+      censer_walk_20: -8903334695218631194
+      censer_walk_21: -1242026978892380696
+      censer_walk_22: -2339498969383049934
+      censer_walk_23: -5636105774798247875
+      censer_walk_24: 2461102915055463514
+      censer_walk_25: -3769860321049991865
+      censer_walk_26: -1006820385245998867
+      censer_walk_27: -3786498971543346650
+      censer_walk_28: -3762557425438134405
+      censer_walk_29: 7794715488197675134
+      censer_walk_3: 8599440952977466136
+      censer_walk_30: -2533372780040692180
+      censer_walk_31: 9126639874325104839
+      censer_walk_32: -5941326489617023996
+      censer_walk_33: -8324173666740375272
+      censer_walk_34: -5243746179079150326
+      censer_walk_35: 2845690508531554781
+      censer_walk_36: 1966301603874916141
+      censer_walk_37: 9048158040611344884
+      censer_walk_38: 2446144382068493314
+      censer_walk_39: 7823374939650598831
+      censer_walk_4: 6557334235232236892
+      censer_walk_40: -8054669934733004443
+      censer_walk_41: 7970366728194299903
+      censer_walk_42: 4004925704443156554
+      censer_walk_43: 6100660071586973277
+      censer_walk_44: 7292528385106331582
+      censer_walk_45: 8054518093502967559
+      censer_walk_46: 544365511573001920
+      censer_walk_47: 1177797508064903103
+      censer_walk_48: -3987694324360136833
+      censer_walk_49: 8803864226714503232
+      censer_walk_5: -703823616372824222
+      censer_walk_50: -2515133371805322290
+      censer_walk_51: -4066922524982599691
+      censer_walk_52: -982044684666151257
+      censer_walk_53: -9076233718795490840
+      censer_walk_54: -2765177120707562677
+      censer_walk_55: 3099185583802631406
+      censer_walk_56: 6654664320346039346
+      censer_walk_57: -1793823410692883549
+      censer_walk_58: -7417455283708604161
+      censer_walk_59: -1662465709784037361
+      censer_walk_6: 3006766852211424401
+      censer_walk_60: 8783783540058618298
+      censer_walk_61: -5587169789448836675
+      censer_walk_62: 8854764153561408930
+      censer_walk_63: 8293272390607270501
+      censer_walk_64: 6638828091638758198
+      censer_walk_7: -1175924351853114605
+      censer_walk_8: -1454941838620665043
+      censer_walk_9: -1463039894949815112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

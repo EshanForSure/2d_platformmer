@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: e323ff40d0e2ecb4b9a5033a646e481c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5567012878419384116
+    second: heavy_slash_0_fire_0
+  - first:
+      213: -740932711147293636
+    second: heavy_slash_0_fire_1
+  - first:
+      213: 8382730821520761917
+    second: heavy_slash_0_fire_2
+  - first:
+      213: -5426757093832398608
+    second: heavy_slash_0_fire_3
+  - first:
+      213: 6525364564531017949
+    second: heavy_slash_0_fire_4
+  - first:
+      213: 8912197318076196097
+    second: heavy_slash_0_fire_5
+  - first:
+      213: -7298039006457568542
+    second: heavy_slash_0_fire_6
+  - first:
+      213: 2994456841803007599
+    second: heavy_slash_0_fire_7
+  - first:
+      213: 4708965791333588416
+    second: heavy_slash_0_fire_8
+  - first:
+      213: -8734620659062775345
+    second: heavy_slash_0_fire_9
+  - first:
+      213: 6237720204224455795
+    second: heavy_slash_0_fire_10
+  - first:
+      213: 6033973794582969874
+    second: heavy_slash_0_fire_11
+  - first:
+      213: -6224439945423930114
+    second: heavy_slash_0_fire_12
+  - first:
+      213: 362697329946339097
+    second: heavy_slash_0_fire_13
+  - first:
+      213: 5477233641322556796
+    second: heavy_slash_0_fire_14
+  - first:
+      213: -6164933509558258048
+    second: heavy_slash_0_fire_15
+  - first:
+      213: -4084547017693003945
+    second: heavy_slash_0_fire_16
+  - first:
+      213: 2614251605799594251
+    second: heavy_slash_0_fire_17
+  - first:
+      213: 2695222603520179795
+    second: heavy_slash_0_fire_18
+  - first:
+      213: 6864438855579862070
+    second: heavy_slash_0_fire_19
+  - first:
+      213: -5562566335308777123
+    second: heavy_slash_0_fire_20
+  - first:
+      213: 4841864610353510877
+    second: heavy_slash_0_fire_21
+  - first:
+      213: 4139097764708612446
+    second: heavy_slash_0_fire_22
+  - first:
+      213: -3732502540188740202
+    second: heavy_slash_0_fire_23
+  - first:
+      213: 6045891476543539911
+    second: heavy_slash_0_fire_24
+  - first:
+      213: 42653265825456254
+    second: heavy_slash_0_fire_25
+  - first:
+      213: -5420968681177058914
+    second: heavy_slash_0_fire_26
+  - first:
+      213: -6124258095921742772
+    second: heavy_slash_0_fire_27
+  - first:
+      213: 5692858047874868468
+    second: heavy_slash_0_fire_28
+  - first:
+      213: -184463483061838725
+    second: heavy_slash_0_fire_29
+  - first:
+      213: -1471641935406295754
+    second: heavy_slash_0_fire_30
+  - first:
+      213: -1817982451154264105
+    second: heavy_slash_0_fire_31
+  - first:
+      213: -1049344691552296305
+    second: heavy_slash_0_fire_32
+  - first:
+      213: 5433797940409244497
+    second: heavy_slash_0_fire_33
+  - first:
+      213: -5292749757570990866
+    second: heavy_slash_0_fire_34
+  - first:
+      213: -2534085600277004385
+    second: heavy_slash_0_fire_35
+  - first:
+      213: 4162533004183053876
+    second: heavy_slash_0_fire_36
+  - first:
+      213: -2533269478135829091
+    second: heavy_slash_0_fire_37
+  - first:
+      213: -3225598643052067014
+    second: heavy_slash_0_fire_38
+  - first:
+      213: -3613447178043905917
+    second: heavy_slash_0_fire_39
+  - first:
+      213: -8807358631813217584
+    second: heavy_slash_0_fire_40
+  - first:
+      213: 829719950583877441
+    second: heavy_slash_0_fire_41
+  - first:
+      213: -4752955937877375321
+    second: heavy_slash_0_fire_42
+  - first:
+      213: 8018238600305551770
+    second: heavy_slash_0_fire_43
+  - first:
+      213: 4971049798248896646
+    second: heavy_slash_0_fire_44
+  - first:
+      213: 8453809309967474073
+    second: heavy_slash_0_fire_45
+  - first:
+      213: 909478812003929499
+    second: heavy_slash_0_fire_46
+  - first:
+      213: 2852437867297082035
+    second: heavy_slash_0_fire_47
+  - first:
+      213: 3280436967799510161
+    second: heavy_slash_0_fire_48
+  - first:
+      213: -6396863639531559604
+    second: heavy_slash_0_fire_49
+  - first:
+      213: 5734075611416064356
+    second: heavy_slash_0_fire_50
+  - first:
+      213: 2528059628936273173
+    second: heavy_slash_0_fire_51
+  - first:
+      213: 1394395281550190584
+    second: heavy_slash_0_fire_52
+  - first:
+      213: -2126441843470936761
+    second: heavy_slash_0_fire_53
+  - first:
+      213: -6568835106175030271
+    second: heavy_slash_0_fire_54
+  - first:
+      213: 6881897341268105996
+    second: heavy_slash_0_fire_55
+  - first:
+      213: -9178230295288215858
+    second: heavy_slash_0_fire_56
+  - first:
+      213: 2636379012542812619
+    second: heavy_slash_0_fire_57
+  - first:
+      213: -8135390392849398783
+    second: heavy_slash_0_fire_58
+  - first:
+      213: 8495403310083273197
+    second: heavy_slash_0_fire_59
+  - first:
+      213: -410177900570496906
+    second: heavy_slash_0_fire_60
+  - first:
+      213: 2437581273222308784
+    second: heavy_slash_0_fire_61
+  - first:
+      213: -4547688264309668810
+    second: heavy_slash_0_fire_62
+  - first:
+      213: 8519643191598597163
+    second: heavy_slash_0_fire_63
+  - first:
+      213: 8231004451558652570
+    second: heavy_slash_0_fire_64
+  - first:
+      213: -1118490153235044769
+    second: heavy_slash_0_fire_65
+  - first:
+      213: 8723397584351770882
+    second: heavy_slash_0_fire_66
+  - first:
+      213: -5026079500238392571
+    second: heavy_slash_0_fire_67
+  - first:
+      213: 8237894221962080123
+    second: heavy_slash_0_fire_68
+  - first:
+      213: -6611593270666733359
+    second: heavy_slash_0_fire_69
+  - first:
+      213: -9084737794700254783
+    second: heavy_slash_0_fire_70
+  - first:
+      213: 382973198612058234
+    second: heavy_slash_0_fire_71
+  - first:
+      213: -8173904704621824028
+    second: heavy_slash_0_fire_72
+  - first:
+      213: -5790125734484808740
+    second: heavy_slash_0_fire_73
+  - first:
+      213: -2006419209256129416
+    second: heavy_slash_0_fire_74
+  - first:
+      213: 6102619621995153089
+    second: heavy_slash_0_fire_75
+  - first:
+      213: 2984842053961694847
+    second: heavy_slash_0_fire_76
+  - first:
+      213: -5535489350467544865
+    second: heavy_slash_0_fire_77
+  - first:
+      213: 5201690648329263707
+    second: heavy_slash_0_fire_78
+  - first:
+      213: -8973468381537065826
+    second: heavy_slash_0_fire_79
+  - first:
+      213: -6410792578748791846
+    second: heavy_slash_0_fire_80
+  - first:
+      213: 3382732627840673242
+    second: heavy_slash_0_fire_81
+  - first:
+      213: -1970595128876488279
+    second: heavy_slash_0_fire_82
+  - first:
+      213: -3682416654020244722
+    second: heavy_slash_0_fire_83
+  - first:
+      213: 8756211501026814252
+    second: heavy_slash_0_fire_84
+  - first:
+      213: 2014512797072022086
+    second: heavy_slash_0_fire_85
+  - first:
+      213: -2720989342117192110
+    second: heavy_slash_0_fire_86
+  - first:
+      213: 4387163604597273402
+    second: heavy_slash_0_fire_87
+  - first:
+      213: 6120313318129777766
+    second: heavy_slash_0_fire_88
+  - first:
+      213: -122634234996417481
+    second: heavy_slash_0_fire_89
+  - first:
+      213: -2399061424575107099
+    second: heavy_slash_0_fire_90
+  - first:
+      213: 2616224717009635260
+    second: heavy_slash_0_fire_91
+  - first:
+      213: 3426848847231799479
+    second: heavy_slash_0_fire_92
+  - first:
+      213: 782105699024044876
+    second: heavy_slash_0_fire_93
+  - first:
+      213: -1190537643964818436
+    second: heavy_slash_0_fire_94
+  - first:
+      213: -5154125237336998812
+    second: heavy_slash_0_fire_95
+  - first:
+      213: 5408692022142353052
+    second: heavy_slash_0_fire_96
+  - first:
+      213: -6615959685004566165
+    second: heavy_slash_0_fire_97
+  - first:
+      213: 4000810518287062283
+    second: heavy_slash_0_fire_98
+  - first:
+      213: -7648258563831623725
+    second: heavy_slash_0_fire_99
+  - first:
+      213: 612801459851188478
+    second: heavy_slash_0_fire_100
+  - first:
+      213: -1706185190609603625
+    second: heavy_slash_0_fire_101
+  - first:
+      213: -4786911865737782749
+    second: heavy_slash_0_fire_102
+  - first:
+      213: -700437738196924379
+    second: heavy_slash_0_fire_103
+  - first:
+      213: -423314946917355180
+    second: heavy_slash_0_fire_104
+  - first:
+      213: 5646398146412074986
+    second: heavy_slash_0_fire_105
+  - first:
+      213: -2702860106597986473
+    second: heavy_slash_0_fire_106
+  - first:
+      213: -7558978502300525008
+    second: heavy_slash_0_fire_107
+  - first:
+      213: 1751948107675828516
+    second: heavy_slash_0_fire_108
+  - first:
+      213: 1282347538921915446
+    second: heavy_slash_0_fire_109
+  - first:
+      213: 5263775130673566520
+    second: heavy_slash_0_fire_000
+  - first:
+      213: -8760550528775095686
+    second: heavy_slash_0_fire_001
+  - first:
+      213: 64338017842770195
+    second: heavy_slash_0_fire_002
+  - first:
+      213: 7973544944319373763
+    second: heavy_slash_0_fire_003
+  - first:
+      213: -3533506505988634393
+    second: heavy_slash_0_fire_004
+  - first:
+      213: 3324672298789647577
+    second: heavy_slash_0_fire_005
+  - first:
+      213: -4184177083512222040
+    second: heavy_slash_0_fire_006
+  - first:
+      213: 7008134751635364456
+    second: heavy_slash_0_fire_007
+  - first:
+      213: -8048679021644490871
+    second: heavy_slash_0_fire_008
+  - first:
+      213: 2202971784354037023
+    second: heavy_slash_0_fire_009
+  - first:
+      213: 844047679220145076
+    second: heavy_slash_0_fire_010
+  - first:
+      213: 3913368628144977797
+    second: heavy_slash_0_fire_011
+  - first:
+      213: -6172461744084768469
+    second: heavy_slash_0_fire_012
+  - first:
+      213: 6985336650547117801
+    second: heavy_slash_0_fire_013
+  - first:
+      213: -9074200899756227886
+    second: heavy_slash_0_fire_014
+  - first:
+      213: -4113405452816281063
+    second: heavy_slash_0_fire_015
+  - first:
+      213: 4207992823719657676
+    second: heavy_slash_0_fire_016
+  - first:
+      213: 3493106268520297747
+    second: heavy_slash_0_fire_017
+  - first:
+      213: -401316783448255441
+    second: heavy_slash_0_fire_018
+  - first:
+      213: -4785507631007972282
+    second: heavy_slash_0_fire_019
+  - first:
+      213: -1691648129590304589
+    second: heavy_slash_0_fire_020
+  - first:
+      213: -8937201929176505023
+    second: heavy_slash_0_fire_021
+  - first:
+      213: 7013166857761390317
+    second: heavy_slash_0_fire_022
+  - first:
+      213: -1743292480388145847
+    second: heavy_slash_0_fire_023
+  - first:
+      213: -715076819666766749
+    second: heavy_slash_0_fire_024
+  - first:
+      213: 1574800021581279321
+    second: heavy_slash_0_fire_025
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_000
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 99
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: -0.3, y: -0.93116283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8335559b79fac0940800000000000000
+      internalID: 5263775130673566520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_001
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 99
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: -0.21052632, y: -1.1548718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aff7f95b54c6680800000000000000
+      internalID: -8760550528775095686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_002
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 303
+        width: 21
+        height: 44
+      alignment: 9
+      pivot: {x: -0.0952381, y: -0.9327273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311321b161394e000800000000000000
+      internalID: 64338017842770195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_003
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 45
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.42307693, y: -1.147317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a4c691e8b7ae60800000000000000
+      internalID: 7973544944319373763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_004
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 99
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.39473686, y: -1.1589473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8040bdd8676fec0800000000000000
+      internalID: -3533506505988634393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_005
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 363
+        width: 39
+        height: 58
+      alignment: 9
+      pivot: {x: 0.15384616, y: -0.4662069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d430f347db932e20800000000000000
+      internalID: 3324672298789647577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 50
+        height: 67
+      alignment: 9
+      pivot: {x: 0.34, y: -0.13492538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae8ceb7c11dee5c0800000000000000
+      internalID: -4184177083512222040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 78
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5897436, y: -0.16733335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86adb490d65e14160800000000000000
+      internalID: 7008134751635364456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_008
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 107
+        width: 85
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5764706, y: -0.41294122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ddb3d2195d4090800000000000000
+      internalID: -8048679021644490871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_009
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 1.1428572, y: -0.6008889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d71a08a27829e10800000000000000
+      internalID: 2202971784354037023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 34
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5882353, y: -0.3905085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd86d64e8a6bb00800000000000000
+      internalID: 844047679220145076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_011
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 142
+        width: 133
+        height: 83
+      alignment: 9
+      pivot: {x: 0.15789473, y: -0.38602412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5873dbb88041f4630800000000000000
+      internalID: 3913368628144977797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 155
+        height: 142
+      alignment: 9
+      pivot: {x: 0.13548388, y: 0.16873239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29a3223fb2075aa0800000000000000
+      internalID: -6172461744084768469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 99
+        height: 161
+      alignment: 9
+      pivot: {x: -0.46464646, y: 0.33515528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb06c7ca6e0f060800000000000000
+      internalID: 6985336650547117801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_014
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 254
+        width: 122
+        height: 122
+      alignment: 9
+      pivot: {x: -0.18032786, y: 0.44229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2008ddb56f11280800000000000000
+      internalID: -9074200899756227886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_015
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.1375, y: 0.5323364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9121bbfc88f3ae6c0800000000000000
+      internalID: -4113405452816281063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_016
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 164
+        height: 99
+      alignment: 9
+      pivot: {x: 0.17073171, y: 0.5450505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00433ad2bc56a30800000000000000
+      internalID: 4207992823719657676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_017
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 142
+        width: 136
+        height: 110
+      alignment: 9
+      pivot: {x: 0.24264705, y: 0.51781815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315b7d9d4a10a7030800000000000000
+      internalID: 3493106268520297747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_018
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 142
+        width: 134
+        height: 112
+      alignment: 9
+      pivot: {x: 0.2835821, y: 0.45499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f241a20038c3e6af0800000000000000
+      internalID: -401316783448255441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_019
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 376
+        width: 112
+        height: 109
+      alignment: 9
+      pivot: {x: 0.41964287, y: 0.4491743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64449df0a26769db0800000000000000
+      internalID: -4785507631007972282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_020
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 430
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 1.7826087, y: -0.5008696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0e0d62dfe0688e0800000000000000
+      internalID: -1691648129590304589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_021
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 430
+        width: 38
+        height: 47
+      alignment: 9
+      pivot: {x: 1.0263158, y: -0.46893618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145af7d523ea8f380800000000000000
+      internalID: -8937201929176505023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_022
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 107
+        width: 53
+        height: 34
+      alignment: 9
+      pivot: {x: 0.8490566, y: -1.442353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef86b8916c35160800000000000000
+      internalID: 7013166857761390317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_023
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 107
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.25, y: -1.3725715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ddad6b9b49ec7e0800000000000000
+      internalID: -1743292480388145847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_024
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 99
+        width: 19
+        height: 41
+      alignment: 9
+      pivot: {x: -0.2631579, y: -0.95219517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36475a0db698316f0800000000000000
+      internalID: -715076819666766749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_slash_0_fire_025
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 376
+        width: 20
+        height: 44
+      alignment: 9
+      pivot: {x: -0.3, y: -0.8872728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95031a6a640dad510800000000000000
+      internalID: 1574800021581279321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heavy_slash_0_fire_0: 5567012878419384116
+      heavy_slash_0_fire_000: 5263775130673566520
+      heavy_slash_0_fire_001: -8760550528775095686
+      heavy_slash_0_fire_002: 64338017842770195
+      heavy_slash_0_fire_003: 7973544944319373763
+      heavy_slash_0_fire_004: -3533506505988634393
+      heavy_slash_0_fire_005: 3324672298789647577
+      heavy_slash_0_fire_006: -4184177083512222040
+      heavy_slash_0_fire_007: 7008134751635364456
+      heavy_slash_0_fire_008: -8048679021644490871
+      heavy_slash_0_fire_009: 2202971784354037023
+      heavy_slash_0_fire_010: 844047679220145076
+      heavy_slash_0_fire_011: 3913368628144977797
+      heavy_slash_0_fire_012: -6172461744084768469
+      heavy_slash_0_fire_013: 6985336650547117801
+      heavy_slash_0_fire_014: -9074200899756227886
+      heavy_slash_0_fire_015: -4113405452816281063
+      heavy_slash_0_fire_016: 4207992823719657676
+      heavy_slash_0_fire_017: 3493106268520297747
+      heavy_slash_0_fire_018: -401316783448255441
+      heavy_slash_0_fire_019: -4785507631007972282
+      heavy_slash_0_fire_020: -1691648129590304589
+      heavy_slash_0_fire_021: -8937201929176505023
+      heavy_slash_0_fire_022: 7013166857761390317
+      heavy_slash_0_fire_023: -1743292480388145847
+      heavy_slash_0_fire_024: -715076819666766749
+      heavy_slash_0_fire_025: 1574800021581279321
+      heavy_slash_0_fire_1: -740932711147293636
+      heavy_slash_0_fire_10: 6237720204224455795
+      heavy_slash_0_fire_100: 612801459851188478
+      heavy_slash_0_fire_101: -1706185190609603625
+      heavy_slash_0_fire_102: -4786911865737782749
+      heavy_slash_0_fire_103: -700437738196924379
+      heavy_slash_0_fire_104: -423314946917355180
+      heavy_slash_0_fire_105: 5646398146412074986
+      heavy_slash_0_fire_106: -2702860106597986473
+      heavy_slash_0_fire_107: -7558978502300525008
+      heavy_slash_0_fire_108: 1751948107675828516
+      heavy_slash_0_fire_109: 1282347538921915446
+      heavy_slash_0_fire_11: 6033973794582969874
+      heavy_slash_0_fire_12: -6224439945423930114
+      heavy_slash_0_fire_13: 362697329946339097
+      heavy_slash_0_fire_14: 5477233641322556796
+      heavy_slash_0_fire_15: -6164933509558258048
+      heavy_slash_0_fire_16: -4084547017693003945
+      heavy_slash_0_fire_17: 2614251605799594251
+      heavy_slash_0_fire_18: 2695222603520179795
+      heavy_slash_0_fire_19: 6864438855579862070
+      heavy_slash_0_fire_2: 8382730821520761917
+      heavy_slash_0_fire_20: -5562566335308777123
+      heavy_slash_0_fire_21: 4841864610353510877
+      heavy_slash_0_fire_22: 4139097764708612446
+      heavy_slash_0_fire_23: -3732502540188740202
+      heavy_slash_0_fire_24: 6045891476543539911
+      heavy_slash_0_fire_25: 42653265825456254
+      heavy_slash_0_fire_26: -5420968681177058914
+      heavy_slash_0_fire_27: -6124258095921742772
+      heavy_slash_0_fire_28: 5692858047874868468
+      heavy_slash_0_fire_29: -184463483061838725
+      heavy_slash_0_fire_3: -5426757093832398608
+      heavy_slash_0_fire_30: -1471641935406295754
+      heavy_slash_0_fire_31: -1817982451154264105
+      heavy_slash_0_fire_32: -1049344691552296305
+      heavy_slash_0_fire_33: 5433797940409244497
+      heavy_slash_0_fire_34: -5292749757570990866
+      heavy_slash_0_fire_35: -2534085600277004385
+      heavy_slash_0_fire_36: 4162533004183053876
+      heavy_slash_0_fire_37: -2533269478135829091
+      heavy_slash_0_fire_38: -3225598643052067014
+      heavy_slash_0_fire_39: -3613447178043905917
+      heavy_slash_0_fire_4: 6525364564531017949
+      heavy_slash_0_fire_40: -8807358631813217584
+      heavy_slash_0_fire_41: 829719950583877441
+      heavy_slash_0_fire_42: -4752955937877375321
+      heavy_slash_0_fire_43: 8018238600305551770
+      heavy_slash_0_fire_44: 4971049798248896646
+      heavy_slash_0_fire_45: 8453809309967474073
+      heavy_slash_0_fire_46: 909478812003929499
+      heavy_slash_0_fire_47: 2852437867297082035
+      heavy_slash_0_fire_48: 3280436967799510161
+      heavy_slash_0_fire_49: -6396863639531559604
+      heavy_slash_0_fire_5: 8912197318076196097
+      heavy_slash_0_fire_50: 5734075611416064356
+      heavy_slash_0_fire_51: 2528059628936273173
+      heavy_slash_0_fire_52: 1394395281550190584
+      heavy_slash_0_fire_53: -2126441843470936761
+      heavy_slash_0_fire_54: -6568835106175030271
+      heavy_slash_0_fire_55: 6881897341268105996
+      heavy_slash_0_fire_56: -9178230295288215858
+      heavy_slash_0_fire_57: 2636379012542812619
+      heavy_slash_0_fire_58: -8135390392849398783
+      heavy_slash_0_fire_59: 8495403310083273197
+      heavy_slash_0_fire_6: -7298039006457568542
+      heavy_slash_0_fire_60: -410177900570496906
+      heavy_slash_0_fire_61: 2437581273222308784
+      heavy_slash_0_fire_62: -4547688264309668810
+      heavy_slash_0_fire_63: 8519643191598597163
+      heavy_slash_0_fire_64: 8231004451558652570
+      heavy_slash_0_fire_65: -1118490153235044769
+      heavy_slash_0_fire_66: 8723397584351770882
+      heavy_slash_0_fire_67: -5026079500238392571
+      heavy_slash_0_fire_68: 8237894221962080123
+      heavy_slash_0_fire_69: -6611593270666733359
+      heavy_slash_0_fire_7: 2994456841803007599
+      heavy_slash_0_fire_70: -9084737794700254783
+      heavy_slash_0_fire_71: 382973198612058234
+      heavy_slash_0_fire_72: -8173904704621824028
+      heavy_slash_0_fire_73: -5790125734484808740
+      heavy_slash_0_fire_74: -2006419209256129416
+      heavy_slash_0_fire_75: 6102619621995153089
+      heavy_slash_0_fire_76: 2984842053961694847
+      heavy_slash_0_fire_77: -5535489350467544865
+      heavy_slash_0_fire_78: 5201690648329263707
+      heavy_slash_0_fire_79: -8973468381537065826
+      heavy_slash_0_fire_8: 4708965791333588416
+      heavy_slash_0_fire_80: -6410792578748791846
+      heavy_slash_0_fire_81: 3382732627840673242
+      heavy_slash_0_fire_82: -1970595128876488279
+      heavy_slash_0_fire_83: -3682416654020244722
+      heavy_slash_0_fire_84: 8756211501026814252
+      heavy_slash_0_fire_85: 2014512797072022086
+      heavy_slash_0_fire_86: -2720989342117192110
+      heavy_slash_0_fire_87: 4387163604597273402
+      heavy_slash_0_fire_88: 6120313318129777766
+      heavy_slash_0_fire_89: -122634234996417481
+      heavy_slash_0_fire_9: -8734620659062775345
+      heavy_slash_0_fire_90: -2399061424575107099
+      heavy_slash_0_fire_91: 2616224717009635260
+      heavy_slash_0_fire_92: 3426848847231799479
+      heavy_slash_0_fire_93: 782105699024044876
+      heavy_slash_0_fire_94: -1190537643964818436
+      heavy_slash_0_fire_95: -5154125237336998812
+      heavy_slash_0_fire_96: 5408692022142353052
+      heavy_slash_0_fire_97: -6615959685004566165
+      heavy_slash_0_fire_98: 4000810518287062283
+      heavy_slash_0_fire_99: -7648258563831623725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

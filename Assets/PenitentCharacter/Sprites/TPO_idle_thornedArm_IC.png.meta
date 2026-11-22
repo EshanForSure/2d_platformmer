@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 0137ec03290c56caafcbc00ef44394c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2179755671416245612
+    second: TPO_idle_thornedArm_0
+  - first:
+      213: 6131219884466095017
+    second: TPO_idle_thornedArm_1
+  - first:
+      213: 4222299895701963604
+    second: TPO_idle_thornedArm_2
+  - first:
+      213: 6214396824833994188
+    second: TPO_idle_thornedArm_3
+  - first:
+      213: 7055913484472115743
+    second: TPO_idle_thornedArm_4
+  - first:
+      213: 5982645007931904531
+    second: TPO_idle_thornedArm_5
+  - first:
+      213: 8536565157864636241
+    second: TPO_idle_thornedArm_6
+  - first:
+      213: 6092403185412574047
+    second: TPO_idle_thornedArm_7
+  - first:
+      213: 6392334107125288100
+    second: TPO_idle_thornedArm_8
+  - first:
+      213: 6734820080514452645
+    second: TPO_idle_thornedArm_9
+  - first:
+      213: 8119483304220644616
+    second: TPO_idle_thornedArm_10
+  - first:
+      213: 2442827762985922629
+    second: TPO_idle_thornedArm_11
+  - first:
+      213: 5160767914107529221
+    second: TPO_idle_thornedArm_12
+  - first:
+      213: 2423507855464783428
+    second: TPO_idle_thornedArm_13
+  - first:
+      213: 2952362680770010333
+    second: TPO_idle_thornedArm_14
+  - first:
+      213: 8701141167698449154
+    second: TPO_idle_thornedArm_15
+  - first:
+      213: 556649390366514979
+    second: TPO_idle_thornedArm_16
+  - first:
+      213: 7377380403841361516
+    second: TPO_idle_thornedArm_17
+  - first:
+      213: 3944439474109915299
+    second: TPO_idle_thornedArm_18
+  - first:
+      213: 2986919930758703109
+    second: TPO_idle_thornedArm_19
+  - first:
+      213: 6147713995297458703
+    second: TPO_idle_thornedArm_20
+  - first:
+      213: 7552181367721403682
+    second: TPO_idle_thornedArm_21
+  - first:
+      213: 3842749368677239807
+    second: TPO_idle_thornedArm_22
+  - first:
+      213: 1493211746653458266
+    second: TPO_idle_thornedArm_23
+  - first:
+      213: 2643059664899874698
+    second: TPO_idle_thornedArm_24
+  - first:
+      213: 1253899854391658608
+    second: TPO_idle_thornedArm_25
+  - first:
+      213: 5038978981987616435
+    second: TPO_idle_thornedArm_26
+  - first:
+      213: 2137054072245077142
+    second: TPO_idle_thornedArm_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 77
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16661db1875e45ea86557b2e81aa75ac
+      internalID: 2179755671416245612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e02419aaf6422c900ce2755eeb2126
+      internalID: 6131219884466095017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 153
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfa8bce1a134e6880d592fb383d4ba5
+      internalID: 4222299895701963604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8bb0f571e54b29a510a6326651e988
+      internalID: 6214396824833994188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341a00c4fcf4475a691bb368b30eb5f
+      internalID: 7055913484472115743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e642a3b41f774e499f90464bc1227ed6
+      internalID: 5982645007931904531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 152
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1c03ee731456193799f73591289e3
+      internalID: 8536565157864636241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5104110b78d4ec891fd06263f205be4
+      internalID: 6092403185412574047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 76
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167245a823349c587b7fc7191ccebee
+      internalID: 6392334107125288100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 76
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c55bcad9048c3ad8cfd67e7a2e1f1
+      internalID: 6734820080514452645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c26a93106b41deab0ebfc57f1eb9bc
+      internalID: 8119483304220644616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87d89f14c942df8e7759a53a8b5910
+      internalID: 2442827762985922629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8e158e17804880b54eb2e61a89f036
+      internalID: 5160767914107529221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0.6486486, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b3336282ca4d3ab965c37338af1829
+      internalID: 2423507855464783428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcfc17aae284eff88f8b4925a60dab2
+      internalID: 2952362680770010333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a2d578bf3d4d9faca82536ac8560cd
+      internalID: 8701141167698449154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 77
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d731ff8934a06923fca45c5be332d
+      internalID: 556649390366514979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0454a4e57fb4f62a328dc2a7fc6c52a
+      internalID: 7377380403841361516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e483c23e58f4c63a9903bd416943d8c
+      internalID: 3944439474109915299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 154
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6936d64a21489181956101d447351f
+      internalID: 2986919930758703109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0.61764705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d87a3963b4f49aba0ec5ac3d6563a
+      internalID: 6147713995297458703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 152
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd65a283ba64009953436b2fa1315d7
+      internalID: 7552181367721403682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1a77925f8a476b8278583438e7c5a0
+      internalID: 3842749368677239807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 152
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6060606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91cbc6f6e447fb82c24951b06a2f35
+      internalID: 1493211746653458266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b579eee69942d4ad5737e998990f1e
+      internalID: 2643059664899874698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 152
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0.62857145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e194796d1948c89bc7943d9b3d7ee9
+      internalID: 1253899854391658608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6388889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f638ecbb84f5d807d5c63c52ae72e
+      internalID: 5038978981987616435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TPO_idle_thornedArm_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0.6486486, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16441bcedea4b27b288c1623e948b58
+      internalID: 2137054072245077142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TPO_idle_thornedArm_0: 2179755671416245612
+      TPO_idle_thornedArm_1: 6131219884466095017
+      TPO_idle_thornedArm_2: 4222299895701963604
+      TPO_idle_thornedArm_3: 6214396824833994188
+      TPO_idle_thornedArm_4: 7055913484472115743
+      TPO_idle_thornedArm_5: 5982645007931904531
+      TPO_idle_thornedArm_6: 8536565157864636241
+      TPO_idle_thornedArm_7: 6092403185412574047
+      TPO_idle_thornedArm_8: 6392334107125288100
+      TPO_idle_thornedArm_9: 6734820080514452645
+      TPO_idle_thornedArm_10: 8119483304220644616
+      TPO_idle_thornedArm_11: 2442827762985922629
+      TPO_idle_thornedArm_12: 5160767914107529221
+      TPO_idle_thornedArm_13: 2423507855464783428
+      TPO_idle_thornedArm_14: 2952362680770010333
+      TPO_idle_thornedArm_15: 8701141167698449154
+      TPO_idle_thornedArm_16: 556649390366514979
+      TPO_idle_thornedArm_17: 7377380403841361516
+      TPO_idle_thornedArm_18: 3944439474109915299
+      TPO_idle_thornedArm_19: 2986919930758703109
+      TPO_idle_thornedArm_20: 6147713995297458703
+      TPO_idle_thornedArm_21: 7552181367721403682
+      TPO_idle_thornedArm_22: 3842749368677239807
+      TPO_idle_thornedArm_23: 1493211746653458266
+      TPO_idle_thornedArm_24: 2643059664899874698
+      TPO_idle_thornedArm_25: 1253899854391658608
+      TPO_idle_thornedArm_26: 5038978981987616435
+      TPO_idle_thornedArm_27: 2137054072245077142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

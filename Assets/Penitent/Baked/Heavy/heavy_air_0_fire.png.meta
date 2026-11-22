@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 4eba13b9230fbd3478e9ff9fceda593a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4645290819201561359
+    second: heavy_air_0_fire_0
+  - first:
+      213: 2638287025660901179
+    second: heavy_air_0_fire_1
+  - first:
+      213: -4188325923014795413
+    second: heavy_air_0_fire_2
+  - first:
+      213: -8739410045926059901
+    second: heavy_air_0_fire_3
+  - first:
+      213: 9031078284565904541
+    second: heavy_air_0_fire_4
+  - first:
+      213: 2336607856539799989
+    second: heavy_air_0_fire_5
+  - first:
+      213: -7651110583184355678
+    second: heavy_air_0_fire_6
+  - first:
+      213: -2291888410688725269
+    second: heavy_air_0_fire_7
+  - first:
+      213: 6692170050209922066
+    second: heavy_air_0_fire_8
+  - first:
+      213: -8903976056673117999
+    second: heavy_air_0_fire_9
+  - first:
+      213: -7902801097633957869
+    second: heavy_air_0_fire_10
+  - first:
+      213: -37148618087093829
+    second: heavy_air_0_fire_11
+  - first:
+      213: -7577036945022000120
+    second: heavy_air_0_fire_12
+  - first:
+      213: -3234491886232350710
+    second: heavy_air_0_fire_13
+  - first:
+      213: -5996565037325998463
+    second: heavy_air_0_fire_14
+  - first:
+      213: 3790893316547398029
+    second: heavy_air_0_fire_15
+  - first:
+      213: 5500500029146581435
+    second: heavy_air_0_fire_16
+  - first:
+      213: -40028247931360001
+    second: heavy_air_0_fire_17
+  - first:
+      213: 6888298094955346770
+    second: heavy_air_0_fire_18
+  - first:
+      213: 4707881592118321245
+    second: heavy_air_0_fire_19
+  - first:
+      213: 7258523616945050706
+    second: heavy_air_0_fire_20
+  - first:
+      213: -2838667931939248662
+    second: heavy_air_0_fire_21
+  - first:
+      213: -2117240186289758127
+    second: heavy_air_0_fire_22
+  - first:
+      213: 5171573205996901422
+    second: heavy_air_0_fire_23
+  - first:
+      213: -4403005749318019272
+    second: heavy_air_0_fire_24
+  - first:
+      213: -7842037180736268831
+    second: heavy_air_0_fire_25
+  - first:
+      213: -2074399419521801925
+    second: heavy_air_0_fire_26
+  - first:
+      213: 6150852338022467137
+    second: heavy_air_0_fire_27
+  - first:
+      213: -520368960015982856
+    second: heavy_air_0_fire_28
+  - first:
+      213: -9022385288699323680
+    second: heavy_air_0_fire_29
+  - first:
+      213: 1609195023775611289
+    second: heavy_air_0_fire_30
+  - first:
+      213: 518832143503185396
+    second: heavy_air_0_fire_31
+  - first:
+      213: -9019973102705654286
+    second: heavy_air_0_fire_32
+  - first:
+      213: -2242908323376870549
+    second: heavy_air_0_fire_33
+  - first:
+      213: 7320516411782095392
+    second: heavy_air_0_fire_34
+  - first:
+      213: 6701384969871821374
+    second: heavy_air_0_fire_35
+  - first:
+      213: -5712354816168766045
+    second: heavy_air_0_fire_36
+  - first:
+      213: 4295730796582924290
+    second: heavy_air_0_fire_37
+  - first:
+      213: -5425901386222261269
+    second: heavy_air_0_fire_38
+  - first:
+      213: 1253102284362182816
+    second: heavy_air_0_fire_39
+  - first:
+      213: 6612198200450778610
+    second: heavy_air_0_fire_40
+  - first:
+      213: -4891655088660557257
+    second: heavy_air_0_fire_41
+  - first:
+      213: 7974957688214157604
+    second: heavy_air_0_fire_42
+  - first:
+      213: -5191226666228224238
+    second: heavy_air_0_fire_43
+  - first:
+      213: 895474583525570302
+    second: heavy_air_0_fire_44
+  - first:
+      213: -1774213121353839090
+    second: heavy_air_0_fire_45
+  - first:
+      213: 5183557864273128805
+    second: heavy_air_0_fire_46
+  - first:
+      213: -4502275447536839369
+    second: heavy_air_0_fire_47
+  - first:
+      213: -5468494761849904652
+    second: heavy_air_0_fire_48
+  - first:
+      213: 6438853789502917703
+    second: heavy_air_0_fire_49
+  - first:
+      213: -8352615598993273378
+    second: heavy_air_0_fire_50
+  - first:
+      213: -2303863749323546520
+    second: heavy_air_0_fire_51
+  - first:
+      213: 8293387565506891531
+    second: heavy_air_0_fire_52
+  - first:
+      213: -2224381300936380127
+    second: heavy_air_0_fire_53
+  - first:
+      213: -6635734537359282710
+    second: heavy_air_0_fire_54
+  - first:
+      213: 1455483647752804097
+    second: heavy_air_0_fire_55
+  - first:
+      213: -6187839989653721507
+    second: heavy_air_0_fire_56
+  - first:
+      213: -5477642099923522723
+    second: heavy_air_0_fire_57
+  - first:
+      213: -628247207212811315
+    second: heavy_air_0_fire_58
+  - first:
+      213: 9059445892574360291
+    second: heavy_air_0_fire_59
+  - first:
+      213: 7139107660567082170
+    second: heavy_air_0_fire_60
+  - first:
+      213: -4788299138809535397
+    second: heavy_air_0_fire_61
+  - first:
+      213: 8174406855778220052
+    second: heavy_air_0_fire_62
+  - first:
+      213: 4250415538701482096
+    second: heavy_air_0_fire_63
+  - first:
+      213: 4224417326647762131
+    second: heavy_air_0_fire_64
+  - first:
+      213: -3001363751319936709
+    second: heavy_air_0_fire_65
+  - first:
+      213: -3943596873955274897
+    second: heavy_air_0_fire_66
+  - first:
+      213: 8319714157358971001
+    second: heavy_air_0_fire_67
+  - first:
+      213: -8587128453897551992
+    second: heavy_air_0_fire_68
+  - first:
+      213: 8963527075903521572
+    second: heavy_air_0_fire_69
+  - first:
+      213: -2335240900734282382
+    second: heavy_air_0_fire_70
+  - first:
+      213: -2034694025357154446
+    second: heavy_air_0_fire_71
+  - first:
+      213: 8034970168910783827
+    second: heavy_air_0_fire_72
+  - first:
+      213: 5329930673756738820
+    second: heavy_air_0_fire_73
+  - first:
+      213: -8740651155105020015
+    second: heavy_air_0_fire_74
+  - first:
+      213: -1012900159577926288
+    second: heavy_air_0_fire_75
+  - first:
+      213: -5710759067021721990
+    second: heavy_air_0_fire_76
+  - first:
+      213: 943776536207292673
+    second: heavy_air_0_fire_77
+  - first:
+      213: 2694616607132547130
+    second: heavy_air_0_fire_78
+  - first:
+      213: 8095180068879101185
+    second: heavy_air_0_fire_79
+  - first:
+      213: 2198746293929301435
+    second: heavy_air_0_fire_80
+  - first:
+      213: -3705080805135827438
+    second: heavy_air_0_fire_81
+  - first:
+      213: 223450836895439711
+    second: heavy_air_0_fire_82
+  - first:
+      213: -5499103906327048820
+    second: heavy_air_0_fire_83
+  - first:
+      213: 5930331045543911321
+    second: heavy_air_0_fire_84
+  - first:
+      213: -7161649196087390379
+    second: heavy_air_0_fire_85
+  - first:
+      213: 8688357608105048553
+    second: heavy_air_0_fire_86
+  - first:
+      213: -3497194410857120675
+    second: heavy_air_0_fire_87
+  - first:
+      213: 5840088517721401091
+    second: heavy_air_0_fire_88
+  - first:
+      213: 8865562356428946182
+    second: heavy_air_0_fire_89
+  - first:
+      213: 9060215064742840794
+    second: heavy_air_0_fire_90
+  - first:
+      213: -4209613120244631506
+    second: heavy_air_0_fire_91
+  - first:
+      213: -7311371062025084047
+    second: heavy_air_0_fire_92
+  - first:
+      213: -2714608317565143197
+    second: heavy_air_0_fire_93
+  - first:
+      213: 1654855534813293979
+    second: heavy_air_0_fire_94
+  - first:
+      213: 2828910261834643068
+    second: heavy_air_0_fire_95
+  - first:
+      213: -4630279429900401565
+    second: heavy_air_0_fire_96
+  - first:
+      213: 5489067752938777145
+    second: heavy_air_0_fire_97
+  - first:
+      213: -440107587879964968
+    second: heavy_air_0_fire_000
+  - first:
+      213: -3358032467402729326
+    second: heavy_air_0_fire_001
+  - first:
+      213: -7131739998026179648
+    second: heavy_air_0_fire_002
+  - first:
+      213: -4580107581472562568
+    second: heavy_air_0_fire_003
+  - first:
+      213: -129677287701286275
+    second: heavy_air_0_fire_004
+  - first:
+      213: 3863703822141648216
+    second: heavy_air_0_fire_005
+  - first:
+      213: -3029146238652146442
+    second: heavy_air_0_fire_006
+  - first:
+      213: 2806269723866094552
+    second: heavy_air_0_fire_007
+  - first:
+      213: 1673024153078180544
+    second: heavy_air_0_fire_008
+  - first:
+      213: -2840284176671500201
+    second: heavy_air_0_fire_009
+  - first:
+      213: -7306280716064624398
+    second: heavy_air_0_fire_010
+  - first:
+      213: -1512651274401249308
+    second: heavy_air_0_fire_011
+  - first:
+      213: 4293055749982511855
+    second: heavy_air_0_fire_012
+  - first:
+      213: -4238526498191437895
+    second: heavy_air_0_fire_013
+  - first:
+      213: -2728005893231625955
+    second: heavy_air_0_fire_014
+  - first:
+      213: -8089602725475043936
+    second: heavy_air_0_fire_015
+  - first:
+      213: 3038732295449171424
+    second: heavy_air_0_fire_016
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy_air_0_fire_000
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 379
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 1.3075385, y: -0.33422208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee5790b7c64e9f0800000000000000
+      internalID: -440107587879964968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_001
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 34
+        height: 60
+      alignment: 9
+      pivot: {x: 1.0587059, y: -0.35066655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2985b34334fd561d0800000000000000
+      internalID: -3358032467402729326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_002
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 456
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.076769315, y: -1.2936584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5433e148f60d90800000000000000
+      internalID: -7131739998026179648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_003
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 60
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: -0.46442848, y: -0.6530433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872214dcb603070c0800000000000000
+      internalID: -4580107581472562568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_004
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 344
+        width: 50
+        height: 67
+      alignment: 9
+      pivot: {x: 0.15992004, y: -0.17970139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72f023a13b433ef0800000000000000
+      internalID: -129677287701286275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_005
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 284
+        width: 78
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47430772, y: -0.20066656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d621cc722ae9530800000000000000
+      internalID: 3863703822141648216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 85
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5411294, y: -0.41294098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9d688b8f46f5d0800000000000000
+      internalID: -3029146238652146442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_007
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 334
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 1.5355715, y: -0.6675554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbd8f2127fd1f620800000000000000
+      internalID: 2806269723866094552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 123
+      alignment: 9
+      pivot: {x: 0.2765674, y: -0.13040645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caafd86a96c73710800000000000000
+      internalID: 1673024153078180544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 155
+        height: 101
+      alignment: 9
+      pivot: {x: 0.17416775, y: -0.3964356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758155cf6984598d0800000000000000
+      internalID: -2840284176671500201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_010
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 123
+        width: 92
+        height: 161
+      alignment: 9
+      pivot: {x: -0.46743476, y: 0.17987582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f07ea92660ea9a90800000000000000
+      internalID: -7306280716064624398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 122
+        height: 122
+      alignment: 9
+      pivot: {x: -0.06560654, y: 0.27836072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e785482eabf10be0800000000000000
+      internalID: -1512651274401249308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_012
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 160
+        height: 107
+      alignment: 9
+      pivot: {x: 0.17497501, y: 0.35476643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e7a2857ff39b30800000000000000
+      internalID: 4293055749982511855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_013
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 164
+        height: 99
+      alignment: 9
+      pivot: {x: 0.21948782, y: 0.3834344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf08384b9abd25c0800000000000000
+      internalID: -4238526498191437895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 136
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3161471, y: 0.38145462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b1ccf71d242ad0800000000000000
+      internalID: -2728005893231625955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_015
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 132
+        height: 105
+      alignment: 9
+      pivot: {x: 0.3408788, y: 0.304381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a537068e25fbbf80800000000000000
+      internalID: -8089602725475043936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy_air_0_fire_016
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 228
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4716604, y: 0.25888896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e551cd3ceebb2a20800000000000000
+      internalID: 3038732295449171424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heavy_air_0_fire_0: -4645290819201561359
+      heavy_air_0_fire_000: -440107587879964968
+      heavy_air_0_fire_001: -3358032467402729326
+      heavy_air_0_fire_002: -7131739998026179648
+      heavy_air_0_fire_003: -4580107581472562568
+      heavy_air_0_fire_004: -129677287701286275
+      heavy_air_0_fire_005: 3863703822141648216
+      heavy_air_0_fire_006: -3029146238652146442
+      heavy_air_0_fire_007: 2806269723866094552
+      heavy_air_0_fire_008: 1673024153078180544
+      heavy_air_0_fire_009: -2840284176671500201
+      heavy_air_0_fire_010: -7306280716064624398
+      heavy_air_0_fire_011: -1512651274401249308
+      heavy_air_0_fire_012: 4293055749982511855
+      heavy_air_0_fire_013: -4238526498191437895
+      heavy_air_0_fire_014: -2728005893231625955
+      heavy_air_0_fire_015: -8089602725475043936
+      heavy_air_0_fire_016: 3038732295449171424
+      heavy_air_0_fire_1: 2638287025660901179
+      heavy_air_0_fire_10: -7902801097633957869
+      heavy_air_0_fire_11: -37148618087093829
+      heavy_air_0_fire_12: -7577036945022000120
+      heavy_air_0_fire_13: -3234491886232350710
+      heavy_air_0_fire_14: -5996565037325998463
+      heavy_air_0_fire_15: 3790893316547398029
+      heavy_air_0_fire_16: 5500500029146581435
+      heavy_air_0_fire_17: -40028247931360001
+      heavy_air_0_fire_18: 6888298094955346770
+      heavy_air_0_fire_19: 4707881592118321245
+      heavy_air_0_fire_2: -4188325923014795413
+      heavy_air_0_fire_20: 7258523616945050706
+      heavy_air_0_fire_21: -2838667931939248662
+      heavy_air_0_fire_22: -2117240186289758127
+      heavy_air_0_fire_23: 5171573205996901422
+      heavy_air_0_fire_24: -4403005749318019272
+      heavy_air_0_fire_25: -7842037180736268831
+      heavy_air_0_fire_26: -2074399419521801925
+      heavy_air_0_fire_27: 6150852338022467137
+      heavy_air_0_fire_28: -520368960015982856
+      heavy_air_0_fire_29: -9022385288699323680
+      heavy_air_0_fire_3: -8739410045926059901
+      heavy_air_0_fire_30: 1609195023775611289
+      heavy_air_0_fire_31: 518832143503185396
+      heavy_air_0_fire_32: -9019973102705654286
+      heavy_air_0_fire_33: -2242908323376870549
+      heavy_air_0_fire_34: 7320516411782095392
+      heavy_air_0_fire_35: 6701384969871821374
+      heavy_air_0_fire_36: -5712354816168766045
+      heavy_air_0_fire_37: 4295730796582924290
+      heavy_air_0_fire_38: -5425901386222261269
+      heavy_air_0_fire_39: 1253102284362182816
+      heavy_air_0_fire_4: 9031078284565904541
+      heavy_air_0_fire_40: 6612198200450778610
+      heavy_air_0_fire_41: -4891655088660557257
+      heavy_air_0_fire_42: 7974957688214157604
+      heavy_air_0_fire_43: -5191226666228224238
+      heavy_air_0_fire_44: 895474583525570302
+      heavy_air_0_fire_45: -1774213121353839090
+      heavy_air_0_fire_46: 5183557864273128805
+      heavy_air_0_fire_47: -4502275447536839369
+      heavy_air_0_fire_48: -5468494761849904652
+      heavy_air_0_fire_49: 6438853789502917703
+      heavy_air_0_fire_5: 2336607856539799989
+      heavy_air_0_fire_50: -8352615598993273378
+      heavy_air_0_fire_51: -2303863749323546520
+      heavy_air_0_fire_52: 8293387565506891531
+      heavy_air_0_fire_53: -2224381300936380127
+      heavy_air_0_fire_54: -6635734537359282710
+      heavy_air_0_fire_55: 1455483647752804097
+      heavy_air_0_fire_56: -6187839989653721507
+      heavy_air_0_fire_57: -5477642099923522723
+      heavy_air_0_fire_58: -628247207212811315
+      heavy_air_0_fire_59: 9059445892574360291
+      heavy_air_0_fire_6: -7651110583184355678
+      heavy_air_0_fire_60: 7139107660567082170
+      heavy_air_0_fire_61: -4788299138809535397
+      heavy_air_0_fire_62: 8174406855778220052
+      heavy_air_0_fire_63: 4250415538701482096
+      heavy_air_0_fire_64: 4224417326647762131
+      heavy_air_0_fire_65: -3001363751319936709
+      heavy_air_0_fire_66: -3943596873955274897
+      heavy_air_0_fire_67: 8319714157358971001
+      heavy_air_0_fire_68: -8587128453897551992
+      heavy_air_0_fire_69: 8963527075903521572
+      heavy_air_0_fire_7: -2291888410688725269
+      heavy_air_0_fire_70: -2335240900734282382
+      heavy_air_0_fire_71: -2034694025357154446
+      heavy_air_0_fire_72: 8034970168910783827
+      heavy_air_0_fire_73: 5329930673756738820
+      heavy_air_0_fire_74: -8740651155105020015
+      heavy_air_0_fire_75: -1012900159577926288
+      heavy_air_0_fire_76: -5710759067021721990
+      heavy_air_0_fire_77: 943776536207292673
+      heavy_air_0_fire_78: 2694616607132547130
+      heavy_air_0_fire_79: 8095180068879101185
+      heavy_air_0_fire_8: 6692170050209922066
+      heavy_air_0_fire_80: 2198746293929301435
+      heavy_air_0_fire_81: -3705080805135827438
+      heavy_air_0_fire_82: 223450836895439711
+      heavy_air_0_fire_83: -5499103906327048820
+      heavy_air_0_fire_84: 5930331045543911321
+      heavy_air_0_fire_85: -7161649196087390379
+      heavy_air_0_fire_86: 8688357608105048553
+      heavy_air_0_fire_87: -3497194410857120675
+      heavy_air_0_fire_88: 5840088517721401091
+      heavy_air_0_fire_89: 8865562356428946182
+      heavy_air_0_fire_9: -8903976056673117999
+      heavy_air_0_fire_90: 9060215064742840794
+      heavy_air_0_fire_91: -4209613120244631506
+      heavy_air_0_fire_92: -7311371062025084047
+      heavy_air_0_fire_93: -2714608317565143197
+      heavy_air_0_fire_94: 1654855534813293979
+      heavy_air_0_fire_95: 2828910261834643068
+      heavy_air_0_fire_96: -4630279429900401565
+      heavy_air_0_fire_97: 5489067752938777145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
